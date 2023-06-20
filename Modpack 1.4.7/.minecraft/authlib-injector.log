@@ -1,0 +1,31 @@
+Logging started at 2023-06-20T23:38:55.696Z
+[authlib-injector] [INFO] Version: 1.2.3
+[authlib-injector] [INFO] Authentication server: http://localhost:64203
+[authlib-injector] [WARNING] You are using HTTP protocol, which is INSECURE! Please switch to HTTPS if possible.
+[authlib-injector] [INFO] Httpd is running on port 52057
+[authlib-injector] [INFO] Transformed [bag] with [Constant URL Transformer]
+[authlib-injector] [INFO] Transformed [bag] with [Constant URL Transformer]
+[authlib-injector] [INFO] Transformed [bdu] with [Constant URL Transformer]
+[authlib-injector] [INFO] Transformed [bah] with [Constant URL Transformer]
+[authlib-injector] [WARNING] An error occurred while processing request [/http/skins.minecraft.net/MinecraftSkins/ChouKpop.png]
+java.io.UncheckedIOException: java.io.IOException: Failed to fetch skin metadata for ChouKpop
+	at moe.yushi.authlibinjector.util.IOUtils.newUncheckedIOException(IOUtils.java:99)
+	at moe.yushi.authlibinjector.httpd.LegacySkinAPIFilter.handle(LegacySkinAPIFilter.java:81)
+	at moe.yushi.authlibinjector.httpd.URLProcessor$1.serve(URLProcessor.java:142)
+	at moe.yushi.authlibinjector.internal.fi.iki.elonen.HTTPSession.execute(HTTPSession.java:246)
+	at moe.yushi.authlibinjector.internal.fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:104)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.io.IOException: Failed to fetch skin metadata for ChouKpop
+	... 6 more
+Caused by: java.io.UncheckedIOException: java.io.FileNotFoundException: http://localhost:64203/api/profiles/minecraft
+	at moe.yushi.authlibinjector.yggdrasil.YggdrasilClient.queryUUIDs(YggdrasilClient.java:65)
+	at moe.yushi.authlibinjector.yggdrasil.YggdrasilClient.queryUUID(YggdrasilClient.java:80)
+	at moe.yushi.authlibinjector.httpd.LegacySkinAPIFilter.handle(LegacySkinAPIFilter.java:75)
+	... 4 more
+Caused by: java.io.FileNotFoundException: http://localhost:64203/api/profiles/minecraft
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at moe.yushi.authlibinjector.util.IOUtils.http(IOUtils.java:66)
+	at moe.yushi.authlibinjector.yggdrasil.YggdrasilClient.queryUUIDs(YggdrasilClient.java:61)
+	... 6 more
+

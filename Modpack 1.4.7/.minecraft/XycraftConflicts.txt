@@ -1,0 +1,2 @@
+BlockID conflict at 220 between world.blocks.worldGen.xyOre and ic2.core.block.BlockScaffold@42c0afb5
+BlockID conflict at 221 between world.blocks.worldGen.quartzCrystal and ic2.core.block.BlockWall@94c03d

@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "OptiFine_1.4.6_HD_U_D5",
+            "MMC-filename": "5a8e4b4f-e425-4a1d-a1f9-179dc417542e.jar",
+            "MMC-hint": "local",
+            "name": "org.multimc.jarmods:5a8e4b4f-e425-4a1d-a1f9-179dc417542e:1"
+        }
+    ],
+    "name": "OptiFine_1.4.6_HD_U_D5 (jar mod)",
+    "uid": "org.multimc.jarmod.5a8e4b4f-e425-4a1d-a1f9-179dc417542e"
+}
