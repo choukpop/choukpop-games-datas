@@ -1,21 +1,21 @@
 music:0.0
-sound:1.0
+sound:0.70422536
 invertYMouse:false
 mouseSensitivity:0.5
 fov:1.0
 gamma:0.0
-viewDistance:0
+viewDistance:1
 guiScale:3
 particles:0
-bobView:true
+bobView:false
 anaglyph3d:false
 advancedOpengl:false
-fpsLimit:1
+fpsLimit:0
 difficulty:2
-fancyGraphics:true
+fancyGraphics:false
 ao:true
 clouds:false
-skin:Sphax Tekkit Lite.zip
+skin:Faithful Tekkit Lite.zip
 lastServer:
 lang:en_US
 chatVisibility:0
@@ -26,7 +26,7 @@ chatOpacity:1.0
 serverTextures:true
 snooperEnabled:true
 fullscreen:false
-enableVsync:true
+enableVsync:false
 hideServerAddress:false
 advancedItemTooltips:false
 pauseOnLostFocus:true

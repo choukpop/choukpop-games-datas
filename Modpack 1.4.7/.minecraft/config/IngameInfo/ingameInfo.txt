@@ -1,4 +1,0 @@
-<topleft>&fDay <day> (<daytime[&e/&8]><mctime[12]>&f) <slimes[<darkgreen>/&b]><biome>
-Light: <max[<lightnosunfeet>/7[&e/&c]]><max[<lightnosunfeet>/9[&a/]]><lightnosunfeet>
-&fXP: &e<xpthislevel>&f / &e<xpcap>
-Time: &b<rltime[h:mma]>

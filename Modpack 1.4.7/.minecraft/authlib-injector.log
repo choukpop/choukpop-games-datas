@@ -1,8 +1,8 @@
-Logging started at 2023-06-20T23:38:55.696Z
+Logging started at 2023-06-21T00:30:54.451Z
 [authlib-injector] [INFO] Version: 1.2.3
-[authlib-injector] [INFO] Authentication server: http://localhost:64203
+[authlib-injector] [INFO] Authentication server: http://localhost:53213
 [authlib-injector] [WARNING] You are using HTTP protocol, which is INSECURE! Please switch to HTTPS if possible.
-[authlib-injector] [INFO] Httpd is running on port 52057
+[authlib-injector] [INFO] Httpd is running on port 53519
 [authlib-injector] [INFO] Transformed [bag] with [Constant URL Transformer]
 [authlib-injector] [INFO] Transformed [bag] with [Constant URL Transformer]
 [authlib-injector] [INFO] Transformed [bdu] with [Constant URL Transformer]
@@ -17,12 +17,12 @@ java.io.UncheckedIOException: java.io.IOException: Failed to fetch skin metadata
 	at java.lang.Thread.run(Unknown Source)
 Caused by: java.io.IOException: Failed to fetch skin metadata for ChouKpop
 	... 6 more
-Caused by: java.io.UncheckedIOException: java.io.FileNotFoundException: http://localhost:64203/api/profiles/minecraft
+Caused by: java.io.UncheckedIOException: java.io.FileNotFoundException: http://localhost:53213/api/profiles/minecraft
 	at moe.yushi.authlibinjector.yggdrasil.YggdrasilClient.queryUUIDs(YggdrasilClient.java:65)
 	at moe.yushi.authlibinjector.yggdrasil.YggdrasilClient.queryUUID(YggdrasilClient.java:80)
 	at moe.yushi.authlibinjector.httpd.LegacySkinAPIFilter.handle(LegacySkinAPIFilter.java:75)
 	... 4 more
-Caused by: java.io.FileNotFoundException: http://localhost:64203/api/profiles/minecraft
+Caused by: java.io.FileNotFoundException: http://localhost:53213/api/profiles/minecraft
 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
 	at moe.yushi.authlibinjector.util.IOUtils.http(IOUtils.java:66)
