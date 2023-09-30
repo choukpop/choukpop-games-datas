@@ -1,0 +1,21 @@
+Summarizing: This mod goes inside minecraft.jar :-)
+
+ModLoader/forge are not required but are compatible.
+
+How to install:
+1) Open the directory %APPDATA%
+2) Open the directory .minecraft
+3) Open the directory bin
+4) Open the file minecraft.jar with WinRAR
+5) Drag and drop the files inside this zip file to minecraft.jar
+
+You can find updates at:
+http://forum.maniasim.com.br/topico/8905-larga-isso-enderman/
+
+This mod has been created by:
+joserobjr - youtube.com/joserobjr
+
+Changelog:
+
+* 1.0
+ - Created :)

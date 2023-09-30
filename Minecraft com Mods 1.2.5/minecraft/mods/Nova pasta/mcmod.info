@@ -1,0 +1,17 @@
+[
+{
+  "modid": "mod_babbyCreeper",
+  "name": "Babby Creeper",
+  "description": "Adds a cute baby creeper.",
+  "version": "1.0",
+  "credits": "Updated by joserobjr",
+  "logoFile": "/mob/logo.png",
+  "mcversion": "1.2.5",
+  "url": "http://forum.maniasim.com.br/topico/8904-",
+  "updateUrl": "",
+  "authors": [ "Sir Tiffy" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": []
+}
+]

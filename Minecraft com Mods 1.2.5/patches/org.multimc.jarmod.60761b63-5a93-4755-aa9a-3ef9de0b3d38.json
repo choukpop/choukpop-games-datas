@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "NEI_ForestryPlugin 1.1.1.20",
+            "MMC-filename": "60761b63-5a93-4755-aa9a-3ef9de0b3d38.jar",
+            "MMC-hint": "local",
+            "name": "org.multimc.jarmods:3b7ff0c6-ad70-4436-83b7-528979007fc1:1"
+        }
+    ],
+    "name": "NEI_ForestryPlugin 1.1.1.20 (jar mod)",
+    "uid": "org.multimc.jarmod.60761b63-5a93-4755-aa9a-3ef9de0b3d38"
+}

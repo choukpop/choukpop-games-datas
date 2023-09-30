@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "InvTweaks-1.41b-1.2.4",
+            "MMC-filename": "f7f483cb-3a86-48c3-a285-d3e02282a328.jar",
+            "MMC-hint": "local",
+            "name": "org.multimc.jarmods:07d39c1c-099d-4acd-a4dd-bad1111afe97:1"
+        }
+    ],
+    "name": "InvTweaks-1.41b-1.2.4 (jar mod)",
+    "uid": "org.multimc.jarmod.f7f483cb-3a86-48c3-a285-d3e02282a328"
+}

@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "NEI_IC2Plugin 1.0.2.9",
+            "MMC-filename": "ac640048-e676-40dc-8ece-8779b8223a64.jar",
+            "MMC-hint": "local",
+            "name": "org.multimc.jarmods:44c91404-affe-4891-b41e-584b227a1c47:1"
+        }
+    ],
+    "name": "NEI_IC2Plugin 1.0.2.9 (jar mod)",
+    "uid": "org.multimc.jarmod.ac640048-e676-40dc-8ece-8779b8223a64"
+}

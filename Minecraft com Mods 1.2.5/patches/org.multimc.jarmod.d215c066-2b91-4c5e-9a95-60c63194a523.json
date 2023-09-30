@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "Shelf",
+            "MMC-filename": "d215c066-2b91-4c5e-9a95-60c63194a523.jar",
+            "MMC-hint": "local",
+            "name": "org.multimc.jarmods:6fd86b4d-6a87-420c-92b0-0e792b33939a:1"
+        }
+    ],
+    "name": "Shelf (jar mod)",
+    "uid": "org.multimc.jarmod.d215c066-2b91-4c5e-9a95-60c63194a523"
+}

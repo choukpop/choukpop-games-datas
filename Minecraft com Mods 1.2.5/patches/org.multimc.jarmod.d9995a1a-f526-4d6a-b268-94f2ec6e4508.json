@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "Panel conecta RP Microblocks - joserobjr",
+            "MMC-filename": "d9995a1a-f526-4d6a-b268-94f2ec6e4508.jar",
+            "MMC-hint": "local",
+            "name": "org.multimc.jarmods:0ffde763-9af2-4e1d-b32e-073b2e2af53f:1"
+        }
+    ],
+    "name": "Panel conecta RP Microblocks - joserobjr (jar mod)",
+    "uid": "org.multimc.jarmod.d9995a1a-f526-4d6a-b268-94f2ec6e4508"
+}

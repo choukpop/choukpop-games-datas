@@ -1,0 +1,364 @@
+
+OptiFine_1.2.5_HD_C6
+Thu Mar 04 16:58:20 BRT 2021
+OS: Windows 10 (amd64) version 10.0
+Java: 1.8.0_281, Oracle Corporation
+VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+LWJGL: 2.9.0
+OpenGL: GeForce GTX 750 Ti/PCIe/SSE2 version 4.6.0 NVIDIA 461.72, NVIDIA Corporation
+OpenGL Version: 4.0
+TextureFX registered: buildcraft.energy.TextureOilFX@3b62d5af, texId: 239, index: 205
+TextureFX registered: buildcraft.energy.TextureFuelFX@55c40629, texId: 240, index: 48
+TextureFX registered: buildcraft.energy.TextureOilFlowFX@78266e93, texId: 239, index: 206
+TextureFX registered: ModTextureStatic /terrain.png @ 144, texId: 239, index: 144
+TextureFX registered: ModTextureStatic /terrain.png @ 145, texId: 239, index: 145
+TextureFX registered: ModTextureStatic /terrain.png @ 146, texId: 239, index: 146
+TextureFX registered: ModTextureStatic /terrain.png @ 147, texId: 239, index: 147
+TextureFX registered: ModTextureStatic /terrain.png @ 148, texId: 239, index: 148
+TextureFX registered: ModTextureStatic /terrain.png @ 149, texId: 239, index: 149
+TextureFX registered: ModTextureStatic /terrain.png @ 150, texId: 239, index: 150
+TextureFX registered: forestry.core.TextureBiomassFX@7cf67eaf, texId: 193, index: 13
+TextureFX registered: forestry.core.TextureBiofuelFX@1c6dc810, texId: 193, index: 12
+TextureFX registered: forestry.factory.TextureMilkFX@559fe5d0, texId: 193, index: 15
+TextureFX registered: forestry.core.TextureHoneyFX@665423f9, texId: 193, index: 76
+TextureFX registered: forestry.factory.TextureSeedOilFX@29983a9a, texId: 193, index: 74
+TextureFX registered: forestry.core.TextureJuiceFX@715c853c, texId: 193, index: 75
+TextureFX registered: forestry.core.TextureMeadFX@36502b05, texId: 193, index: 77
+TextureFX registered: forestry.core.TextureGlassFX@5ef48bbf, texId: 193, index: 49
+TextureFX registered: forestry.core.TextureHabitatLocatorFX@728bdb37, texId: 193, index: 105
+TextureFX registered: ModTextureStatic /terrain.png @ 151, texId: 239, index: 151
+TextureFX registered: ModTextureStatic /terrain.png @ 152, texId: 239, index: 152
+TextureFX registered: ModTextureStatic /terrain.png @ 153, texId: 239, index: 153
+TextureFX registered: ModTextureStatic /terrain.png @ 154, texId: 239, index: 154
+TextureFX registered: ModTextureStatic /terrain.png @ 155, texId: 239, index: 155
+TextureFX registered: ModTextureStatic /terrain.png @ 156, texId: 239, index: 156
+TextureFX registered: ModTextureStatic /terrain.png @ 157, texId: 239, index: 157
+TextureFX registered: ModTextureStatic /terrain.png @ 158, texId: 239, index: 158
+TextureFX registered: ModTextureStatic /terrain.png @ 159, texId: 239, index: 159
+TextureFX registered: ModTextureStatic /terrain.png @ 160, texId: 239, index: 160
+TextureFX registered: ModTextureStatic /terrain.png @ 161, texId: 239, index: 161
+TextureFX registered: ModTextureStatic /terrain.png @ 162, texId: 239, index: 162
+TextureFX registered: ModTextureStatic /terrain.png @ 163, texId: 239, index: 163
+TextureFX registered: ModTextureStatic /terrain.png @ 164, texId: 239, index: 164
+TextureFX registered: ModTextureStatic /terrain.png @ 165, texId: 239, index: 165
+TextureFX registered: ModTextureStatic /terrain.png @ 166, texId: 239, index: 166
+TextureFX registered: ModTextureStatic /terrain.png @ 167, texId: 239, index: 167
+TextureFX registered: ModTextureStatic /terrain.png @ 168, texId: 239, index: 168
+TextureFX registered: railcraft.render.TextureCreosoteOilFX@18fdec19, texId: 210, index: 0
+TextureFX registered: ModTextureStatic /terrain.png @ 169, texId: 239, index: 169
+TextureFX registered: ModTextureStatic /terrain.png @ 170, texId: 239, index: 170
+TextureFX registered: ModTextureStatic /terrain.png @ 171, texId: 239, index: 171
+TextureFX registered: ModTextureStatic /terrain.png @ 172, texId: 239, index: 172
+TextureFX registered: bv@576d6827, texId: 377, index: 237
+TextureFX registered: qa@39b34cc7, texId: 377, index: 205
+TextureFX registered: zp@6e901739, texId: 377, index: 14
+TextureFX registered: tu@5e5dcf76, texId: 386, index: 54
+TextureFX registered: ht@2d11d530, texId: 386, index: 70
+TextureFX registered: ael@538d536b, texId: 377, index: 206
+TextureFX registered: gf@29fe8d3a, texId: 377, index: 238
+TextureFX registered: nh@3008c7c4, texId: 377, index: 31
+TextureFX registered: nh@4fd4836a, texId: 377, index: 47
+TextureFX removed: bv@576d6827, texId: 377, index: 237
+TextureFX registered: TextureHDLavaFX@3bf9bf39, texId: 377, index: 237
+TextureFX removed: qa@39b34cc7, texId: 377, index: 205
+TextureFX registered: TextureHDWaterFX@4eaf1c8b, texId: 377, index: 205
+TextureFX removed: zp@6e901739, texId: 377, index: 14
+TextureFX registered: TextureHDPortalFX@723b10ac, texId: 377, index: 14
+TextureFX removed: ael@538d536b, texId: 377, index: 206
+TextureFX registered: TextureHDWaterFlowFX@74558d52, texId: 377, index: 206
+TextureFX removed: gf@29fe8d3a, texId: 377, index: 238
+TextureFX registered: TextureHDLavaFlowFX@223f496, texId: 377, index: 238
+TextureFX removed: nh@3008c7c4, texId: 377, index: 31
+TextureFX registered: TextureHDFlamesFX@345efb1d, texId: 377, index: 31
+TextureFX removed: nh@4fd4836a, texId: 377, index: 47
+TextureFX registered: TextureHDFlamesFX@1e4a334a, texId: 377, index: 47
+TextureFX removed: tu@5e5dcf76, texId: 386, index: 54
+TextureFX registered: TextureHDCompassFX@79f824c7, texId: 386, index: 54
+TextureFX removed: ht@2d11d530, texId: 386, index: 70
+TextureFX registered: TextureHDWatchFX@1d3efe52, texId: 386, index: 70
+Loading custom colors: /misc/grasscolor.png
+Loading custom colors: /misc/foliagecolor.png
+TextureFX registered: Portal_TextureAnimation@723727e, texId: 207, index: 5
+TextureFX registered: thaumcraft.FXAnimatedTexture@37576e50, texId: 216, index: 252
+TextureFX registered: thaumcraft.FXAnimatedTexture@16f90ba6, texId: 216, index: 253
+TextureFX registered: thaumcraft.FXAnimatedTexture@1f3d0711, texId: 216, index: 254
+TextureFX registered: thaumcraft.arcana.TextureVoidCompassFX@311360a, texId: 217, index: 61
+TextureFX registered: eloraam.core.TextureAnimFX@fb8edd6, texId: 385, index: 239
+TextureFX registered: eloraam.core.TextureAnimFX@514273bc, texId: 385, index: 255
+TextureFX registered: ModTextureStatic /terrain.png @ 168, texId: 377, index: 168
+TextureFX registered: ModTextureStatic /terrain.png @ 169, texId: 377, index: 169
+TextureFX registered: ModTextureStatic /terrain.png @ 170, texId: 377, index: 170
+TextureFX registered: ModTextureStatic /terrain.png @ 171, texId: 377, index: 171
+TextureFX registered: ModTextureStatic /terrain.png @ 172, texId: 377, index: 172
+TextureFX registered: ModTextureStatic /gui/items.png @ 102, texId: 386, index: 102
+TextureFX registered: ModTextureStatic /gui/items.png @ 118, texId: 386, index: 118
+TextureFX registered: ModTextureStatic /gui/items.png @ 119, texId: 386, index: 119
+TextureFX registered: ModTextureStatic /gui/items.png @ 120, texId: 386, index: 120
+TextureFX registered: ModTextureStatic /gui/items.png @ 134, texId: 386, index: 134
+TextureFX registered: ModTextureStatic /gui/items.png @ 144, texId: 386, index: 144
+TextureFX registered: ModTextureStatic /gui/items.png @ 145, texId: 386, index: 145
+TextureFX registered: ModTextureStatic /gui/items.png @ 146, texId: 386, index: 146
+TextureFX registered: ModTextureStatic /gui/items.png @ 147, texId: 386, index: 147
+TextureFX registered: ModTextureStatic /gui/items.png @ 148, texId: 386, index: 148
+TextureFX registered: ModTextureStatic /gui/items.png @ 149, texId: 386, index: 149
+TextureFX registered: ModTextureStatic /gui/items.png @ 150, texId: 386, index: 150
+TextureFX registered: ModTextureStatic /gui/items.png @ 152, texId: 386, index: 152
+TextureFX registered: ModTextureStatic /gui/items.png @ 160, texId: 386, index: 160
+TextureFX registered: ModTextureStatic /gui/items.png @ 161, texId: 386, index: 161
+TextureFX registered: ModTextureStatic /gui/items.png @ 162, texId: 386, index: 162
+TextureFX registered: ModTextureStatic /gui/items.png @ 163, texId: 386, index: 163
+TextureFX registered: ModTextureStatic /gui/items.png @ 164, texId: 386, index: 164
+TextureFX registered: ModTextureStatic /gui/items.png @ 165, texId: 386, index: 165
+Class not present: LightCache
+TextureFX removed: Portal_TextureAnimation@723727e, texId: 207, index: 5
+TextureFX registered: Portal_TextureAnimation@7f4bbc01, texId: 207, index: 5
+TextureFX removed: thaumcraft.FXAnimatedTexture@37576e50, texId: 216, index: 252
+TextureFX registered: thaumcraft.FXAnimatedTexture@11b18b18, texId: 216, index: 252
+TextureFX removed: thaumcraft.FXAnimatedTexture@16f90ba6, texId: 216, index: 253
+TextureFX registered: thaumcraft.FXAnimatedTexture@42aaa47, texId: 216, index: 253
+TextureFX removed: thaumcraft.FXAnimatedTexture@1f3d0711, texId: 216, index: 254
+TextureFX registered: thaumcraft.FXAnimatedTexture@4917efe5, texId: 216, index: 254
+TextureFX removed: thaumcraft.arcana.TextureVoidCompassFX@311360a, texId: 217, index: 61
+TextureFX registered: thaumcraft.arcana.TextureVoidCompassFX@6b9ef972, texId: 217, index: 61
+TextureFX removed: eloraam.core.TextureAnimFX@fb8edd6, texId: 385, index: 239
+TextureFX registered: eloraam.core.TextureAnimFX@766a5652, texId: 385, index: 239
+TextureFX removed: eloraam.core.TextureAnimFX@514273bc, texId: 385, index: 255
+TextureFX registered: eloraam.core.TextureAnimFX@2743b24a, texId: 385, index: 255
+TextureFX removed: ModTextureStatic /terrain.png @ 168, texId: 377, index: 168
+TextureFX registered: ModTextureStatic /terrain.png @ 168, texId: 377, index: 168
+TextureFX removed: ModTextureStatic /terrain.png @ 169, texId: 377, index: 169
+TextureFX registered: ModTextureStatic /terrain.png @ 169, texId: 377, index: 169
+TextureFX removed: ModTextureStatic /terrain.png @ 170, texId: 377, index: 170
+TextureFX registered: ModTextureStatic /terrain.png @ 170, texId: 377, index: 170
+TextureFX removed: ModTextureStatic /terrain.png @ 171, texId: 377, index: 171
+TextureFX registered: ModTextureStatic /terrain.png @ 171, texId: 377, index: 171
+TextureFX removed: ModTextureStatic /terrain.png @ 172, texId: 377, index: 172
+TextureFX registered: ModTextureStatic /terrain.png @ 172, texId: 377, index: 172
+TextureFX removed: ModTextureStatic /gui/items.png @ 102, texId: 386, index: 102
+TextureFX registered: ModTextureStatic /gui/items.png @ 102, texId: 386, index: 102
+TextureFX removed: ModTextureStatic /gui/items.png @ 118, texId: 386, index: 118
+TextureFX registered: ModTextureStatic /gui/items.png @ 118, texId: 386, index: 118
+TextureFX removed: ModTextureStatic /gui/items.png @ 119, texId: 386, index: 119
+TextureFX registered: ModTextureStatic /gui/items.png @ 119, texId: 386, index: 119
+TextureFX removed: ModTextureStatic /gui/items.png @ 120, texId: 386, index: 120
+TextureFX registered: ModTextureStatic /gui/items.png @ 120, texId: 386, index: 120
+TextureFX removed: ModTextureStatic /gui/items.png @ 134, texId: 386, index: 134
+TextureFX registered: ModTextureStatic /gui/items.png @ 134, texId: 386, index: 134
+TextureFX removed: ModTextureStatic /gui/items.png @ 144, texId: 386, index: 144
+TextureFX registered: ModTextureStatic /gui/items.png @ 144, texId: 386, index: 144
+TextureFX removed: ModTextureStatic /gui/items.png @ 145, texId: 386, index: 145
+TextureFX registered: ModTextureStatic /gui/items.png @ 145, texId: 386, index: 145
+TextureFX removed: ModTextureStatic /gui/items.png @ 146, texId: 386, index: 146
+TextureFX registered: ModTextureStatic /gui/items.png @ 146, texId: 386, index: 146
+TextureFX removed: ModTextureStatic /gui/items.png @ 147, texId: 386, index: 147
+TextureFX registered: ModTextureStatic /gui/items.png @ 147, texId: 386, index: 147
+TextureFX removed: ModTextureStatic /gui/items.png @ 148, texId: 386, index: 148
+TextureFX registered: ModTextureStatic /gui/items.png @ 148, texId: 386, index: 148
+TextureFX removed: ModTextureStatic /gui/items.png @ 149, texId: 386, index: 149
+TextureFX registered: ModTextureStatic /gui/items.png @ 149, texId: 386, index: 149
+TextureFX removed: ModTextureStatic /gui/items.png @ 150, texId: 386, index: 150
+TextureFX registered: ModTextureStatic /gui/items.png @ 150, texId: 386, index: 150
+TextureFX removed: ModTextureStatic /gui/items.png @ 152, texId: 386, index: 152
+TextureFX registered: ModTextureStatic /gui/items.png @ 152, texId: 386, index: 152
+TextureFX removed: ModTextureStatic /gui/items.png @ 160, texId: 386, index: 160
+TextureFX registered: ModTextureStatic /gui/items.png @ 160, texId: 386, index: 160
+TextureFX removed: ModTextureStatic /gui/items.png @ 161, texId: 386, index: 161
+TextureFX registered: ModTextureStatic /gui/items.png @ 161, texId: 386, index: 161
+TextureFX removed: ModTextureStatic /gui/items.png @ 162, texId: 386, index: 162
+TextureFX registered: ModTextureStatic /gui/items.png @ 162, texId: 386, index: 162
+TextureFX removed: ModTextureStatic /gui/items.png @ 163, texId: 386, index: 163
+TextureFX registered: ModTextureStatic /gui/items.png @ 163, texId: 386, index: 163
+TextureFX removed: ModTextureStatic /gui/items.png @ 164, texId: 386, index: 164
+TextureFX registered: ModTextureStatic /gui/items.png @ 164, texId: 386, index: 164
+TextureFX removed: ModTextureStatic /gui/items.png @ 165, texId: 386, index: 165
+TextureFX registered: ModTextureStatic /gui/items.png @ 165, texId: 386, index: 165
+TextureFX removed: Portal_TextureAnimation@7f4bbc01, texId: 207, index: 5
+TextureFX registered: Portal_TextureAnimation@78b8a12c, texId: 207, index: 5
+TextureFX removed: thaumcraft.FXAnimatedTexture@11b18b18, texId: 216, index: 252
+TextureFX registered: thaumcraft.FXAnimatedTexture@693be7c, texId: 216, index: 252
+TextureFX removed: thaumcraft.FXAnimatedTexture@42aaa47, texId: 216, index: 253
+TextureFX registered: thaumcraft.FXAnimatedTexture@41b430ad, texId: 216, index: 253
+TextureFX removed: thaumcraft.FXAnimatedTexture@4917efe5, texId: 216, index: 254
+TextureFX registered: thaumcraft.FXAnimatedTexture@273c885, texId: 216, index: 254
+TextureFX removed: thaumcraft.arcana.TextureVoidCompassFX@6b9ef972, texId: 217, index: 61
+TextureFX registered: thaumcraft.arcana.TextureVoidCompassFX@3fffb826, texId: 217, index: 61
+TextureFX removed: eloraam.core.TextureAnimFX@766a5652, texId: 385, index: 239
+TextureFX registered: eloraam.core.TextureAnimFX@240481fb, texId: 385, index: 239
+TextureFX removed: eloraam.core.TextureAnimFX@2743b24a, texId: 385, index: 255
+TextureFX registered: eloraam.core.TextureAnimFX@44d5fc8e, texId: 385, index: 255
+TextureFX removed: ModTextureStatic /terrain.png @ 168, texId: 377, index: 168
+TextureFX registered: ModTextureStatic /terrain.png @ 168, texId: 377, index: 168
+TextureFX removed: ModTextureStatic /terrain.png @ 169, texId: 377, index: 169
+TextureFX registered: ModTextureStatic /terrain.png @ 169, texId: 377, index: 169
+TextureFX removed: ModTextureStatic /terrain.png @ 170, texId: 377, index: 170
+TextureFX registered: ModTextureStatic /terrain.png @ 170, texId: 377, index: 170
+TextureFX removed: ModTextureStatic /terrain.png @ 171, texId: 377, index: 171
+TextureFX registered: ModTextureStatic /terrain.png @ 171, texId: 377, index: 171
+TextureFX removed: ModTextureStatic /terrain.png @ 172, texId: 377, index: 172
+TextureFX registered: ModTextureStatic /terrain.png @ 172, texId: 377, index: 172
+TextureFX removed: ModTextureStatic /gui/items.png @ 102, texId: 386, index: 102
+TextureFX registered: ModTextureStatic /gui/items.png @ 102, texId: 386, index: 102
+TextureFX removed: ModTextureStatic /gui/items.png @ 118, texId: 386, index: 118
+TextureFX registered: ModTextureStatic /gui/items.png @ 118, texId: 386, index: 118
+TextureFX removed: ModTextureStatic /gui/items.png @ 119, texId: 386, index: 119
+TextureFX registered: ModTextureStatic /gui/items.png @ 119, texId: 386, index: 119
+TextureFX removed: ModTextureStatic /gui/items.png @ 120, texId: 386, index: 120
+TextureFX registered: ModTextureStatic /gui/items.png @ 120, texId: 386, index: 120
+TextureFX removed: ModTextureStatic /gui/items.png @ 134, texId: 386, index: 134
+TextureFX registered: ModTextureStatic /gui/items.png @ 134, texId: 386, index: 134
+TextureFX removed: ModTextureStatic /gui/items.png @ 144, texId: 386, index: 144
+TextureFX registered: ModTextureStatic /gui/items.png @ 144, texId: 386, index: 144
+TextureFX removed: ModTextureStatic /gui/items.png @ 145, texId: 386, index: 145
+TextureFX registered: ModTextureStatic /gui/items.png @ 145, texId: 386, index: 145
+TextureFX removed: ModTextureStatic /gui/items.png @ 146, texId: 386, index: 146
+TextureFX registered: ModTextureStatic /gui/items.png @ 146, texId: 386, index: 146
+TextureFX removed: ModTextureStatic /gui/items.png @ 147, texId: 386, index: 147
+TextureFX registered: ModTextureStatic /gui/items.png @ 147, texId: 386, index: 147
+TextureFX removed: ModTextureStatic /gui/items.png @ 148, texId: 386, index: 148
+TextureFX registered: ModTextureStatic /gui/items.png @ 148, texId: 386, index: 148
+TextureFX removed: ModTextureStatic /gui/items.png @ 149, texId: 386, index: 149
+TextureFX registered: ModTextureStatic /gui/items.png @ 149, texId: 386, index: 149
+TextureFX removed: ModTextureStatic /gui/items.png @ 150, texId: 386, index: 150
+TextureFX registered: ModTextureStatic /gui/items.png @ 150, texId: 386, index: 150
+TextureFX removed: ModTextureStatic /gui/items.png @ 152, texId: 386, index: 152
+TextureFX registered: ModTextureStatic /gui/items.png @ 152, texId: 386, index: 152
+TextureFX removed: ModTextureStatic /gui/items.png @ 160, texId: 386, index: 160
+TextureFX registered: ModTextureStatic /gui/items.png @ 160, texId: 386, index: 160
+TextureFX removed: ModTextureStatic /gui/items.png @ 161, texId: 386, index: 161
+TextureFX registered: ModTextureStatic /gui/items.png @ 161, texId: 386, index: 161
+TextureFX removed: ModTextureStatic /gui/items.png @ 162, texId: 386, index: 162
+TextureFX registered: ModTextureStatic /gui/items.png @ 162, texId: 386, index: 162
+TextureFX removed: ModTextureStatic /gui/items.png @ 163, texId: 386, index: 163
+TextureFX registered: ModTextureStatic /gui/items.png @ 163, texId: 386, index: 163
+TextureFX removed: ModTextureStatic /gui/items.png @ 164, texId: 386, index: 164
+TextureFX registered: ModTextureStatic /gui/items.png @ 164, texId: 386, index: 164
+TextureFX removed: ModTextureStatic /gui/items.png @ 165, texId: 386, index: 165
+TextureFX registered: ModTextureStatic /gui/items.png @ 165, texId: 386, index: 165
+TextureFX removed: Portal_TextureAnimation@78b8a12c, texId: 207, index: 5
+TextureFX registered: Portal_TextureAnimation@15f9b600, texId: 207, index: 5
+TextureFX removed: thaumcraft.FXAnimatedTexture@693be7c, texId: 216, index: 252
+TextureFX registered: thaumcraft.FXAnimatedTexture@4e89a4a0, texId: 216, index: 252
+TextureFX removed: thaumcraft.FXAnimatedTexture@41b430ad, texId: 216, index: 253
+TextureFX registered: thaumcraft.FXAnimatedTexture@6ffb723b, texId: 216, index: 253
+TextureFX removed: thaumcraft.FXAnimatedTexture@273c885, texId: 216, index: 254
+TextureFX registered: thaumcraft.FXAnimatedTexture@72c39404, texId: 216, index: 254
+TextureFX removed: thaumcraft.arcana.TextureVoidCompassFX@3fffb826, texId: 217, index: 61
+TextureFX registered: thaumcraft.arcana.TextureVoidCompassFX@2a5265ea, texId: 217, index: 61
+TextureFX removed: eloraam.core.TextureAnimFX@240481fb, texId: 385, index: 239
+TextureFX registered: eloraam.core.TextureAnimFX@29fd78a4, texId: 385, index: 239
+TextureFX removed: eloraam.core.TextureAnimFX@44d5fc8e, texId: 385, index: 255
+TextureFX registered: eloraam.core.TextureAnimFX@1d23ad0a, texId: 385, index: 255
+TextureFX removed: ModTextureStatic /terrain.png @ 168, texId: 377, index: 168
+TextureFX registered: ModTextureStatic /terrain.png @ 168, texId: 377, index: 168
+TextureFX removed: ModTextureStatic /terrain.png @ 169, texId: 377, index: 169
+TextureFX registered: ModTextureStatic /terrain.png @ 169, texId: 377, index: 169
+TextureFX removed: ModTextureStatic /terrain.png @ 170, texId: 377, index: 170
+TextureFX registered: ModTextureStatic /terrain.png @ 170, texId: 377, index: 170
+TextureFX removed: ModTextureStatic /terrain.png @ 171, texId: 377, index: 171
+TextureFX registered: ModTextureStatic /terrain.png @ 171, texId: 377, index: 171
+TextureFX removed: ModTextureStatic /terrain.png @ 172, texId: 377, index: 172
+TextureFX registered: ModTextureStatic /terrain.png @ 172, texId: 377, index: 172
+TextureFX removed: ModTextureStatic /gui/items.png @ 102, texId: 386, index: 102
+TextureFX registered: ModTextureStatic /gui/items.png @ 102, texId: 386, index: 102
+TextureFX removed: ModTextureStatic /gui/items.png @ 118, texId: 386, index: 118
+TextureFX registered: ModTextureStatic /gui/items.png @ 118, texId: 386, index: 118
+TextureFX removed: ModTextureStatic /gui/items.png @ 119, texId: 386, index: 119
+TextureFX registered: ModTextureStatic /gui/items.png @ 119, texId: 386, index: 119
+TextureFX removed: ModTextureStatic /gui/items.png @ 120, texId: 386, index: 120
+TextureFX registered: ModTextureStatic /gui/items.png @ 120, texId: 386, index: 120
+TextureFX removed: ModTextureStatic /gui/items.png @ 134, texId: 386, index: 134
+TextureFX registered: ModTextureStatic /gui/items.png @ 134, texId: 386, index: 134
+TextureFX removed: ModTextureStatic /gui/items.png @ 144, texId: 386, index: 144
+TextureFX registered: ModTextureStatic /gui/items.png @ 144, texId: 386, index: 144
+TextureFX removed: ModTextureStatic /gui/items.png @ 145, texId: 386, index: 145
+TextureFX registered: ModTextureStatic /gui/items.png @ 145, texId: 386, index: 145
+TextureFX removed: ModTextureStatic /gui/items.png @ 146, texId: 386, index: 146
+TextureFX registered: ModTextureStatic /gui/items.png @ 146, texId: 386, index: 146
+TextureFX removed: ModTextureStatic /gui/items.png @ 147, texId: 386, index: 147
+TextureFX registered: ModTextureStatic /gui/items.png @ 147, texId: 386, index: 147
+TextureFX removed: ModTextureStatic /gui/items.png @ 148, texId: 386, index: 148
+TextureFX registered: ModTextureStatic /gui/items.png @ 148, texId: 386, index: 148
+TextureFX removed: ModTextureStatic /gui/items.png @ 149, texId: 386, index: 149
+TextureFX registered: ModTextureStatic /gui/items.png @ 149, texId: 386, index: 149
+TextureFX removed: ModTextureStatic /gui/items.png @ 150, texId: 386, index: 150
+TextureFX registered: ModTextureStatic /gui/items.png @ 150, texId: 386, index: 150
+TextureFX removed: ModTextureStatic /gui/items.png @ 152, texId: 386, index: 152
+TextureFX registered: ModTextureStatic /gui/items.png @ 152, texId: 386, index: 152
+TextureFX removed: ModTextureStatic /gui/items.png @ 160, texId: 386, index: 160
+TextureFX registered: ModTextureStatic /gui/items.png @ 160, texId: 386, index: 160
+TextureFX removed: ModTextureStatic /gui/items.png @ 161, texId: 386, index: 161
+TextureFX registered: ModTextureStatic /gui/items.png @ 161, texId: 386, index: 161
+TextureFX removed: ModTextureStatic /gui/items.png @ 162, texId: 386, index: 162
+TextureFX registered: ModTextureStatic /gui/items.png @ 162, texId: 386, index: 162
+TextureFX removed: ModTextureStatic /gui/items.png @ 163, texId: 386, index: 163
+TextureFX registered: ModTextureStatic /gui/items.png @ 163, texId: 386, index: 163
+TextureFX removed: ModTextureStatic /gui/items.png @ 164, texId: 386, index: 164
+TextureFX registered: ModTextureStatic /gui/items.png @ 164, texId: 386, index: 164
+TextureFX removed: ModTextureStatic /gui/items.png @ 165, texId: 386, index: 165
+TextureFX registered: ModTextureStatic /gui/items.png @ 165, texId: 386, index: 165
+Loading custom colors: /misc/grasscolor.png
+Loading custom colors: /misc/foliagecolor.png
+TextureFX registered: Portal_TextureAnimation@10868a11, texId: 207, index: 5
+TextureFX registered: thaumcraft.FXAnimatedTexture@73d2b500, texId: 216, index: 252
+TextureFX registered: thaumcraft.FXAnimatedTexture@631be738, texId: 216, index: 253
+TextureFX registered: thaumcraft.FXAnimatedTexture@269d3233, texId: 216, index: 254
+TextureFX registered: thaumcraft.arcana.TextureVoidCompassFX@2efe2f3, texId: 217, index: 61
+TextureFX registered: eloraam.core.TextureAnimFX@64733d1b, texId: 385, index: 239
+TextureFX registered: eloraam.core.TextureAnimFX@586d348a, texId: 385, index: 255
+TextureFX registered: ModTextureStatic /terrain.png @ 168, texId: 377, index: 168
+TextureFX registered: ModTextureStatic /terrain.png @ 169, texId: 377, index: 169
+TextureFX registered: ModTextureStatic /terrain.png @ 170, texId: 377, index: 170
+TextureFX registered: ModTextureStatic /terrain.png @ 171, texId: 377, index: 171
+TextureFX registered: ModTextureStatic /terrain.png @ 172, texId: 377, index: 172
+TextureFX registered: ModTextureStatic /gui/items.png @ 102, texId: 386, index: 102
+TextureFX registered: ModTextureStatic /gui/items.png @ 118, texId: 386, index: 118
+TextureFX registered: ModTextureStatic /gui/items.png @ 119, texId: 386, index: 119
+TextureFX registered: ModTextureStatic /gui/items.png @ 120, texId: 386, index: 120
+TextureFX registered: ModTextureStatic /gui/items.png @ 134, texId: 386, index: 134
+TextureFX registered: ModTextureStatic /gui/items.png @ 144, texId: 386, index: 144
+TextureFX registered: ModTextureStatic /gui/items.png @ 145, texId: 386, index: 145
+TextureFX registered: ModTextureStatic /gui/items.png @ 146, texId: 386, index: 146
+TextureFX registered: ModTextureStatic /gui/items.png @ 147, texId: 386, index: 147
+TextureFX registered: ModTextureStatic /gui/items.png @ 148, texId: 386, index: 148
+TextureFX registered: ModTextureStatic /gui/items.png @ 149, texId: 386, index: 149
+TextureFX registered: ModTextureStatic /gui/items.png @ 150, texId: 386, index: 150
+TextureFX registered: ModTextureStatic /gui/items.png @ 152, texId: 386, index: 152
+TextureFX registered: ModTextureStatic /gui/items.png @ 160, texId: 386, index: 160
+TextureFX registered: ModTextureStatic /gui/items.png @ 161, texId: 386, index: 161
+TextureFX registered: ModTextureStatic /gui/items.png @ 162, texId: 386, index: 162
+TextureFX registered: ModTextureStatic /gui/items.png @ 163, texId: 386, index: 163
+TextureFX registered: ModTextureStatic /gui/items.png @ 164, texId: 386, index: 164
+TextureFX registered: ModTextureStatic /gui/items.png @ 165, texId: 386, index: 165
+Loading custom colors: /misc/grasscolor.png
+Loading custom colors: /misc/foliagecolor.png
+TextureFX registered: Portal_TextureAnimation@7467aadf, texId: 207, index: 5
+TextureFX registered: thaumcraft.FXAnimatedTexture@6a60cfed, texId: 216, index: 252
+TextureFX registered: thaumcraft.FXAnimatedTexture@5e8d9a9c, texId: 216, index: 253
+TextureFX registered: thaumcraft.FXAnimatedTexture@33c27f5c, texId: 216, index: 254
+TextureFX registered: thaumcraft.arcana.TextureVoidCompassFX@7a3a0aa9, texId: 217, index: 61
+TextureFX registered: eloraam.core.TextureAnimFX@1649bda4, texId: 385, index: 239
+TextureFX registered: eloraam.core.TextureAnimFX@24229c8b, texId: 385, index: 255
+TextureFX registered: ModTextureStatic /terrain.png @ 168, texId: 377, index: 168
+TextureFX registered: ModTextureStatic /terrain.png @ 169, texId: 377, index: 169
+TextureFX registered: ModTextureStatic /terrain.png @ 170, texId: 377, index: 170
+TextureFX registered: ModTextureStatic /terrain.png @ 171, texId: 377, index: 171
+TextureFX registered: ModTextureStatic /terrain.png @ 172, texId: 377, index: 172
+TextureFX registered: ModTextureStatic /gui/items.png @ 102, texId: 386, index: 102
+TextureFX registered: ModTextureStatic /gui/items.png @ 118, texId: 386, index: 118
+TextureFX registered: ModTextureStatic /gui/items.png @ 119, texId: 386, index: 119
+TextureFX registered: ModTextureStatic /gui/items.png @ 120, texId: 386, index: 120
+TextureFX registered: ModTextureStatic /gui/items.png @ 134, texId: 386, index: 134
+TextureFX registered: ModTextureStatic /gui/items.png @ 144, texId: 386, index: 144
+TextureFX registered: ModTextureStatic /gui/items.png @ 145, texId: 386, index: 145
+TextureFX registered: ModTextureStatic /gui/items.png @ 146, texId: 386, index: 146
+TextureFX registered: ModTextureStatic /gui/items.png @ 147, texId: 386, index: 147
+TextureFX registered: ModTextureStatic /gui/items.png @ 148, texId: 386, index: 148
+TextureFX registered: ModTextureStatic /gui/items.png @ 149, texId: 386, index: 149
+TextureFX registered: ModTextureStatic /gui/items.png @ 150, texId: 386, index: 150
+TextureFX registered: ModTextureStatic /gui/items.png @ 152, texId: 386, index: 152
+TextureFX registered: ModTextureStatic /gui/items.png @ 160, texId: 386, index: 160
+TextureFX registered: ModTextureStatic /gui/items.png @ 161, texId: 386, index: 161
+TextureFX registered: ModTextureStatic /gui/items.png @ 162, texId: 386, index: 162
+TextureFX registered: ModTextureStatic /gui/items.png @ 163, texId: 386, index: 163
+TextureFX registered: ModTextureStatic /gui/items.png @ 164, texId: 386, index: 164
+TextureFX registered: ModTextureStatic /gui/items.png @ 165, texId: 386, index: 165

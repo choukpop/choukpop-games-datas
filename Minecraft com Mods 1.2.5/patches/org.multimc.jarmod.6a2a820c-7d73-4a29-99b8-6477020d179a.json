@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "CustomMobSpawner 1.5.1",
+            "MMC-filename": "6a2a820c-7d73-4a29-99b8-6477020d179a.jar",
+            "MMC-hint": "local",
+            "name": "org.multimc.jarmods:a036572e-958e-409b-b8d9-46f16e67912b:1"
+        }
+    ],
+    "name": "CustomMobSpawner 1.5.1 (jar mod)",
+    "uid": "org.multimc.jarmod.6a2a820c-7d73-4a29-99b8-6477020d179a"
+}

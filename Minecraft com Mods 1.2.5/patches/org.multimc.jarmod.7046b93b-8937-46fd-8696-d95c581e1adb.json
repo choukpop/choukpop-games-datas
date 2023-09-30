@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "Sparrow110 Client",
+            "MMC-filename": "7046b93b-8937-46fd-8696-d95c581e1adb.jar",
+            "MMC-hint": "local",
+            "name": "org.multimc.jarmods:83568134-99ad-44d3-acfb-9ed1e96aa5ca:1"
+        }
+    ],
+    "name": "Sparrow110 Client (jar mod)",
+    "uid": "org.multimc.jarmod.7046b93b-8937-46fd-8696-d95c581e1adb"
+}

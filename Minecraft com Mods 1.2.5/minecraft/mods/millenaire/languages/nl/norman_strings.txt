@@ -1,0 +1,41 @@
+culture.norman=Norman
+
+//Norman:
+villager.abbot=
+villager.carpenter=
+Timmermanvillager.cattleFarmerMale=Vee Boer
+villager.cattleFarmerFemale=Vee Boerin
+villager.boy=Jongenvillager.girl=Meisje
+villager.teenagerMale=Jongere
+villager.teenagerFemale=Jongere
+villager.farmer=
+Boervillager.merchant_viking= Viking Handelaar
+villager.merchant_weapon=
+Wapen Handelaarvillager.merchant_plant=
+Planten Handelaarvillager.merchant_art=Kunst Handelaar
+villager.merchant_wool=Wool Handelaar
+villager.merchant_food=Eten Handelaar
+villager.guard=Bewaker
+villager.guildmaster=Gilde Meester
+villager.knight=Ridder
+villager.lady=Vrouw
+villager.lumberman=Houthakke
+villager.merchant=Handelaar
+villager.miner=Mijnwerker
+villager.monk=Monnik
+villager.priester=
+villager.seneschal= Senesjal 
+villager.smith=Smid
+villager.wife=Dorps Vrouw
+
+villager.lonelumberman=Houthakker
+villager.lonelumbermantaiga=Houthakker
+villager.loneminer=
+Mijnwerkervillager.lonemonk=Monnik
+villager.loneabbot=
+villager.alchemist=
+villager.alchemistassistant=Alchemistassistant
+villager.bandit=
+Bandietvillager.armoredbandit= Bandiet
+villager.felonbaron=
+villager.felonsoldier=FelonSoldaat

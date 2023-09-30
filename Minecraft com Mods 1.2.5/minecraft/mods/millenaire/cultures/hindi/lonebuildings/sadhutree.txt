@@ -1,0 +1,16 @@
+name:Sadhu ke Peer
+weight:5
+radius:10
+biome:forest
+biome:foresthills
+
+//extraBiomes mod
+biome:forested island
+biome:rainforest
+biome:jungle
+max:1
+keyLoneBuildingGenerateTag:sadhu_tree_generate
+keyLoneBuildingListTag:sadhu_tree_list
+
+//starting buildings:
+centre:sadhutree

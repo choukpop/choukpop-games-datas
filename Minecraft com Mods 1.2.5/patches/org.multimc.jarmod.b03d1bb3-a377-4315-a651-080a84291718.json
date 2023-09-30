@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "NEI_ThaumcraftPlugin 1.1.1.19",
+            "MMC-filename": "b03d1bb3-a377-4315-a651-080a84291718.jar",
+            "MMC-hint": "local",
+            "name": "org.multimc.jarmods:170f870c-dc02-4568-931f-d87e14367912:1"
+        }
+    ],
+    "name": "NEI_ThaumcraftPlugin 1.1.1.19 (jar mod)",
+    "uid": "org.multimc.jarmod.b03d1bb3-a377-4315-a651-080a84291718"
+}

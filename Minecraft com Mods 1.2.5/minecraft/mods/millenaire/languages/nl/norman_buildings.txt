@@ -1,0 +1,114 @@
+
+abbey_A0= Abdij
+
+archives_A0= 
+Archieven
+armoury_A0= Arsenaal
+
+bakery_A0=Bakkerij
+
+carpenterhouse_A0=Timmerman Huis
+
+cattlefarm_A0=Veeboederij
+church_A0=
+ Kerk
+church_A2= Kerk
+
+farm_A0=Boederij
+
+farm_B0=
+Boederij
+forge_A0=
+Smid
+fort_A0=Fort
+fort_A_lefttower_A0=Soldaten Toren
+
+fort_A_righttower_A0=Soldaten Toren
+grove_A0=Park
+grove_B0=park
+
+grove_C0=park
+
+guardhouse_A0=Soldaat Huis
+
+guesthouse_A0=Gast Huis
+
+guildhouse_A0=
+Gebouw van de Gild
+inn_A0=Herberg
+lumbermanhut_A0=Houthakker Hut
+
+lumbermanhut_B0=Houthakker Hut
+
+manor_A0=
+ Stadhuis
+market_A0=Markt
+
+pigfarm_A0=varken Boederij
+
+playerestate_A0=Stadlandgoed
+playerhugefield_A0=Mega Plot
+
+playerlargefield_A0=Groot Plot
+
+playerlargehouse_A0=Bourgeois Huis
+
+playersmallfield_A0=Klein Plot
+
+playersmallhouse_A0=Klein House
+
+presbytery_A0=
+ Pastorie 
+quarry_A0=Mijn
+sheepchickenfarm_A0=Schapen Boederij
+
+tavern_A0= Taveerne
+
+watchtower_A0=Wachttoren
+
+fountain_A0=
+ Fontein
+largefountain_A0=Grote Fontein
+well_A0=Put
+
+alchemyworkshop_A0=Alchemy Werkplaats
+
+
+playerfort_A0= Speler Kasteel
+anomalyone_A0=
+
+anomalytwo_A0=
+
+anomalythree_A0=
+
+
+
+lonelumbermanhut_A0=Houthakker Hut
+
+lonelumbermantaigahut_A0=Houthakker Hut
+
+lonemine_A0=
+ Verlate Mijn
+loneabbey_A0=
+Verlate Abdij
+ruinedfarm_A0=
+ Boederij Ruine
+ruinedfarm_B0=Boederij Ruine
+ruinedfarm_C0=Boederij Ruine
+banditlair_A0=Bandiet Schuilplaats
+
+alchemisttower_A0=
+ Alchemisten Toren
+bandittower_A0=Bandieten Toren
+abandonedmill_A0=Afgedane Molen
+
+abandonedmine_A0=
+ Afgedane Mijn
+abandonedtower_A0=vernielde Toren
+
+loneinn_A0=Afgelege Herberg
+
+lonemill_A0=Afgelege WaterMolen
+feloncastle_A0= Felonkasteel
+
+pantheon_A0=

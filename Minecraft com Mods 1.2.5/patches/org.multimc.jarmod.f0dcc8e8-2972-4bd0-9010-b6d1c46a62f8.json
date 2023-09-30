@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "MC 1.2.5 - Player API client 1.5",
+            "MMC-filename": "f0dcc8e8-2972-4bd0-9010-b6d1c46a62f8.jar",
+            "MMC-hint": "local",
+            "name": "org.multimc.jarmods:b400a991-b73f-4c46-856e-24ed152c5740:1"
+        }
+    ],
+    "name": "MC 1.2.5 - Player API client 1.5 (jar mod)",
+    "uid": "org.multimc.jarmod.f0dcc8e8-2972-4bd0-9010-b6d1c46a62f8"
+}

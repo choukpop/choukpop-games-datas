@@ -1,0 +1,226 @@
+//Item key;item id;item meta;label (indicative only)
+
+akwardpotion;373;16;Poção
+alchemistamulet;mln24;0;
+alchimistexplosive;1519;3;
+arrow;262;0;Flecha
+beefcooked;364;0;Bife
+beefraw;363;0;Bife Cru
+bone;352;0;Osso
+book;340;0;Livro
+bookshelves;47;0;Estante
+bottle;374;0;Garrafa de vidro
+boudin;mln21;0;
+bow;261;0;Arco
+bowlempty;281;0;Tigela
+bowlsoup;282;0;Sopa de Cogumelos
+bread;297;0;Pão
+brickmould;mln32;0;
+bucketempty;325;0;Balde
+bucketlava;327;0;Balde de Lava
+bucketmilk;335;0;Leite
+bucketwater;326;0;Balde de Água
+cactus;81;0;Cacto
+cake;92;0;Bolo
+calva;mln5;0;
+chickencurry;mln31;0;
+chickenmeat;365;0;Frango Cru
+cider;mln4;0;
+ciderapple;mln3;0;
+clay;337;0;Argila
+clock;347;0;Relógio
+coal;263;0;Carvão
+cobblestone;4;0;Pedregulho
+compass;345;0;Bússola
+cookedbrick;1519;0;
+cookedfish;350;0;Peixe Assado
+cookie;357;0;Biscoito
+denier;mln0;0;
+denierargent;mln2;0;
+denieror;mln1;0;
+diamond;264;0;Diamante
+diamondaxe;279;0;Machado de Diamante
+diamondboots;313;0;Botas de Diamante
+diamondchest;311;0;Peitoral de Diamante
+diamondhelmet;310;0;Capacete de Diamante
+diamondhoe;293;0;Enxada de Diamante
+diamondlegs;312;0;Perneiras de Diamante
+diamondpickaxe;278;0;Picareta de Diamante
+diamondshovel;277;0;Pá de Diamante
+diamondsword;276;0;Espada de Diamante
+dirt;3;0;Terra
+dirtwall;1518;1;
+dye_black;351;0;Saco de Tinta
+dye_blue;351;4;Lápis-Lazúli
+dye_brown;351;3;Sementes de Cacau
+dye_cyan;351;6;Corante Ciano
+dye_gray;351;8;Corante Cinza
+dye_green;351;2;Verde Cacto
+dye_lightblue;351;12;Corante Azul-claro
+dye_lightgray;351;7;Corante Cinza-claro
+dye_magenta;351;13;Corante Magenta
+dye_orange;351;14;Corante Laranja
+dye_pink;351;9;Corante Rosa
+dye_purple;351;5;Corante Lilás
+dye_red;351;1;Vermelho Rosa
+dye_white;351;15;Farinha de Osso
+dye_yellow;351;11;Amarelo Dente-de-Leão
+egg;344;0;Ovo
+enderpearl;368;0;Pérola de Ender
+feather;288;0;Pena
+fishcooked;350;0;Peixe Assado
+fishraw;349;0;Peixe Cru
+flint;318;0;Pederneira
+flintandsteel;259;0;Isqueiro
+glass;20;0;Vidro
+gold;266;0;Barra de Ouro
+goldore;14;0;Minério de Ouro
+gunpowder;289;0;Pólvora
+indianstatue;mln34;0;
+iron;265;0;Barra de Ferro
+ironore;15;0;Minério de Ferro
+japaneseguardboots;mln70;0;
+japaneseguardhelmet;mln68;0;
+japaneseguardlegs;mln67;0;
+japaneseguardplate;mln69;0;
+japanesewarriorblueboots;mln62;0;
+japanesewarriorbluehelmet;mln60;0;
+japanesewarriorbluelegs;mln59;0;
+japanesewarriorblueplate;mln61;0;
+japanesewarriorredboots;mln66;0;
+japanesewarriorredhelmet;mln64;0;
+japanesewarriorredlegs;mln63;0;
+japanesewarriorredplate;mln65;0;
+leather;334;0;Couro
+leatherboots;301;0;Botas de Couro
+leatherchest;299;0;Túnica de Couro
+leatherhelmet;298;0;Touca de Couro
+leatherlegs;300;0;Calça de Couro
+maize;mln40;0;
+masa;mln42;0;
+mayanaxe;mln55;0;
+mayangold;1519;2;
+mayanhoe;mln57;0;
+mayanmace;mln53;0;
+mayanpickaxe;mln54;0;
+mayanshovel;mln56;0;
+mayanstatue;mln39;0;
+melonseeds;362;0;Sementes de Melancia
+melonslice;360;0;Melancia
+mudbrick;1519;1;
+mushroombrown;39;0;Cogumelo
+mushroomred;40;0;Cogumelo
+netherwart;372;0;Fungo do Submundo
+normanaxe;mln8;0;
+normanboots;mln16;0;
+normanbroadsword;mln12;0;
+normanchest;mln14;0;
+normanhelmet;mln13;0;
+normanhoe;mln10;0;
+normanlegs;mln15;0;
+normanpickaxe;mln7;0;
+normanshovel;mln9;0;
+obsidian;49;0;Obsidiana
+obsidianflake;mln52;0;
+painting;321;0;Quadro
+paper;339;0;Papel
+paperwall;1521;0;
+parchmentbuildings;mln18;0;
+parchmentcomplete;mln20;0;
+parchmentindianbuildings;mln36;0;
+parchmentindiancomplete;mln38;0;
+parchmentindianitems;mln37;0;
+parchmentindianvillagers;mln35;0;
+parchmentitems;mln19;0;
+parchmentmayanbuildings;mln44;0;
+parchmentmayancomplete;mln46;0;
+parchmentmayanitems;mln45;0;
+parchmentmayanvillagers;mln43;0;
+parchmentsadhu;mln47;0;
+parchmentvillagers;mln17;0;
+planks_birch;5;2;Tábuas
+planks_jungle;5;3;Tábuas
+planks_oak;5;0;Tábuas
+planks_pine;5;1;Tábuas
+porkchops;319;0;Costeleta de Porco Crua
+pumpkin;86;0;Abóbora
+pumpkinseeds;361;0;Sementes de Abóbora
+rasgulla;mln33;0;
+redflower;38;0;Rosa
+redstone;331;0;Redstone
+rice;mln28;0;
+rottenflesh;367;0;Carne Podre
+saddle;73;0;Minério de Redstone
+sand;12;0;Areia
+sandstone;24;0;Arenito
+sapling;6;0;Muda
+sapling_birch;6;2;Muda
+sapling_jungle;6;3;Muda
+sapling_pine;6;1;Muda
+seeds;295;0;Sementes
+shears;359;0;Tesoura
+skollhatiamulet;mln26;0;
+slimeball;341;0;Bola de Gosma
+snow;78;0;Neve
+spidereye;375;0;Olho de Aranha
+steelaxe;258;0;Machado de Ferro
+steelboots;309;0;Botas de Ferro
+steelchest;307;0;Peitoral de Ferro
+steelhelmet;306;0;Capacete de Ferro
+steelhoe;292;0;Enxada de Ferro
+steellegs;308;0;Perneiras de Ferro
+steelpickaxe;257;0;Picareta de Ferro
+steelshovel;256;0;Pá de Ferro
+steelsword;267;0;Espada de Ferro
+stone;1;0;Pedra
+stoneaxe;275;0;Machado de Pedra
+stonehoe;291;0;Enxada de Pedra
+stonepickaxe;274;0;Picareta de Pedra
+stoneshovel;273;0;Pá de Pedra
+stonesword;272;0;Espada de Pedra
+string;287;0;Linha
+sugarcane;338;0;Canas-de-Açúcar
+tachisword;mln50;0;
+tapestry;mln22;0;
+thatched;1517;2;
+timberframe_cross;1517;1;
+timberframe_plain;1517;0;
+tnt;46;0;TNT
+tripes;mln6;0;
+turmeric;mln29;0;
+udon;mln49;0;
+unknownpowder;mln48;0;
+vegcurry;mln30;0;
+villagewand;mln11;0;
+vine;106;0;Vinhas
+vishnuamulet;mln23;0;
+wah;mln41;0;
+wheat;296;0;Trigo
+wood;17;0;
+wood_any;17;-1;
+wood_birch;17;2;
+wood_jungle;17;3;
+wood_pine;17;1;
+woodaxe;271;0;Machado de Madeira
+woodhoe;290;0;Enxada de Madeira
+woodpickaxe;270;0;Picareta de Madeira
+woodshovel;269;0;Pá de Madeira
+woodsword;268;0;Espada de Madeira
+wool_black;35;15;Lã Preta
+wool_blue;35;11;Lã Azul
+wool_brown;35;12;Lã Marrom
+wool_cyan;35;9;Lã Ciano
+wool_gray;35;7;Lã Cinza
+wool_green;35;13;Lã Verde
+wool_lightblue;35;3;Lã Azul Clara
+wool_lightgray;35;8;Lã Cinza Claro
+wool_magenta;35;2;Lã Magenta
+wool_orange;35;1;Lã Laranja
+wool_pink;35;6;Lã Rosa
+wool_purple;35;10;Lã Lilás
+wool_red;35;14;Lã Vermelha
+wool_white;35;0;Lã
+wool_yellow;35;4;Lã Amarela
+yddrasilamulet;mln25;0;
+yellowflower;37;0;Flor
+yumibow;mln58;0;

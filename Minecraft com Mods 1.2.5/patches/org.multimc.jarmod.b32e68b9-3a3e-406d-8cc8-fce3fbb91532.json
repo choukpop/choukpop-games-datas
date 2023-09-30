@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "NotEnoughItems-Client 1.3.0.1",
+            "MMC-filename": "b32e68b9-3a3e-406d-8cc8-fce3fbb91532.jar",
+            "MMC-hint": "local",
+            "name": "org.multimc.jarmods:2a303a8b-5229-426c-9bdf-d8664baabfdf:1"
+        }
+    ],
+    "name": "NotEnoughItems-Client 1.3.0.1 (jar mod)",
+    "uid": "org.multimc.jarmod.b32e68b9-3a3e-406d-8cc8-fce3fbb91532"
+}

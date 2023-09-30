@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "WorldEditCUI-1.2.5-classes",
+            "MMC-filename": "0077a0c8-10f5-4f71-b018-d5c0753d0b87.jar",
+            "MMC-hint": "local",
+            "name": "org.multimc.jarmods:7fa3b305-8bd9-4ce8-a77a-8e66e58bcd52:1"
+        }
+    ],
+    "name": "WorldEditCUI-1.2.5-classes (jar mod)",
+    "uid": "org.multimc.jarmod.0077a0c8-10f5-4f71-b018-d5c0753d0b87"
+}

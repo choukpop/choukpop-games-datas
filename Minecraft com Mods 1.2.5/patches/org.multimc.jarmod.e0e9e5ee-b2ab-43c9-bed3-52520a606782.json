@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "larga-isso-enderman-mod-1.0-joserobjr",
+            "MMC-filename": "e0e9e5ee-b2ab-43c9-bed3-52520a606782.jar",
+            "MMC-hint": "local",
+            "name": "org.multimc.jarmods:b2e2dbed-959b-414a-aceb-8cb476dbca96:1"
+        }
+    ],
+    "name": "larga-isso-enderman-mod-1.0-joserobjr (jar mod)",
+    "uid": "org.multimc.jarmod.e0e9e5ee-b2ab-43c9-bed3-52520a606782"
+}

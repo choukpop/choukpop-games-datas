@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "NEI_RailCraftPlugin 1.3.1.2",
+            "MMC-filename": "45a2ac5e-e909-409d-bd4e-50b7edd984ff.jar",
+            "MMC-hint": "local",
+            "name": "org.multimc.jarmods:a70bc046-a599-4068-b144-39e2534bbf3a:1"
+        }
+    ],
+    "name": "NEI_RailCraftPlugin 1.3.1.2 (jar mod)",
+    "uid": "org.multimc.jarmod.45a2ac5e-e909-409d-bd4e-50b7edd984ff"
+}
