@@ -1,4 +1,0 @@
-1) Abra o arquivo buildcraft-C-additionalbuildcraftobjects-100.zip usando o WinRAR
-2) Abra o arquivo joserobjr-patch-abo-100.zip
-3) Arraste a pasta AdditionalBuildcraftObjects para dentro do arquivo original do Mod
-4) Confirme tudo e feche as janelas

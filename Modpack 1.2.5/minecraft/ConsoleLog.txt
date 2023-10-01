@@ -1,0 +1,485 @@
+setupTexture: "/thaumcraft/resources/blocks.png", id: 232
+setupTexture: "/thaumcraft/resources/items.png", id: 233
+setupTexture: "/thaumcraft/resources/particles.png", id: 234
+setupTexture: "/thaumcraft/resources/s_0_0.png", id: 235
+setupTexture: "/thaumcraft/resources/s_0_1.png", id: 236
+setupTexture: "/thaumcraft/resources/s_0_2.png", id: 237
+setupTexture: "/thaumcraft/resources/s_0_3.png", id: 238
+setupTexture: "/thaumcraft/resources/s_0_4.png", id: 239
+setupTexture: "/thaumcraft/resources/s_0_5.png", id: 240
+setupTexture: "/thaumcraft/resources/s_1_0.png", id: 241
+setupTexture: "/thaumcraft/resources/s_1_1.png", id: 242
+setupTexture: "/thaumcraft/resources/s_1_2.png", id: 243
+setupTexture: "/thaumcraft/resources/s_1_3.png", id: 244
+setupTexture: "/thaumcraft/resources/s_1_4.png", id: 245
+setupTexture: "/thaumcraft/resources/s_1_5.png", id: 246
+setupTexture: "/thaumcraft/resources/seal5.png", id: 247
+setupTexture: "/thaumcraft/resources/tunnel.png", id: 248
+setupTexture: "/thaumcraft/resources/particlefield.png", id: 249
+setupTexture: "/thaumcraft/resources/particlefield32.png", id: 250
+setupTexture: "/thaumcraft/resources/p_large.png", id: 251
+setupTexture: "/thaumcraft/resources/p_small.png", id: 252
+setupTexture: "/thaumcraft/resources/tcubeanim.png", id: 253
+setupTexture: "/thaumcraft/resources/tcrucibleanim.png", id: 254
+[IC2] Loading IC2 submodule: bcIntegration31x
+[IC2] BuildCraft integration module loaded
+[IC2] Loading IC2 submodule: cgIntegration14x
+[IC2] CraftGuide integration module loaded
+[IC2] Loading IC2 submodule: neiIntegration11x
+[IC2] NEI integration module loaded
+[Portal Gun 1.2.5v3] Added Block ID 243 to grabbing blacklist. Metadata specific: 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+[Portal Gun 1.2.5v3] Added Block ID 245 to grabbing blacklist. Not metadata specific.
+[Portal Gun 1.2.5v3] Added Block ID 244 to grabbing blacklist. Not metadata specific.
+[Portal Gun 1.2.5v3] Added Block ID 227 to grabbing blacklist. Not metadata specific.
+[Portal Gun 1.2.5v3] Added Block ID 250 to grabbing blacklist. Not metadata specific.
+[Portal Gun 1.2.5v3] Added Block ID 223 to grabbing blacklist. Not metadata specific.
+[Portal Gun 1.2.5v3] Added Block ID 219 to grabbing blacklist. Not metadata specific.
+[Portal Gun 1.2.5v3] Added Block ID 226 to grabbing blacklist. Not metadata specific.
+[Portal Gun 1.2.5v3] Added Block ID 220 to grabbing blacklist. Not metadata specific.
+[Portal Gun 1.2.5v3] Added Block ID 234 to grabbing blacklist. Not metadata specific.
+[IC2] Loaded minor compatibility modules: Portal Gun
+setupTexture: "/net/minecraft/src/buildcraft/core/gui/block_textures.png", id: 255
+setupTexture: "/net/minecraft/src/buildcraft/core/gui/item_textures.png", id: 256
+CONFLICT @ 3809 item slot already occupied by MoCItemFood@61ae3301 while adding buildcraft.core.ItemBuildCraftTexture@427dae5d
+CONFLICT @ 3813 item slot already occupied by MoCItemWeapon@25730c75 while adding buildcraft.core.ItemBuildCraftTexture@2c678a9a
+CONFLICT @ 3814 item slot already occupied by MoCItemWeapon@749ae160 while adding buildcraft.core.ItemBuildCraftTexture@64b98633
+CONFLICT @ 3815 item slot already occupied by MoCItemWeapon@6b15a586 while adding buildcraft.core.ItemBuildCraftTexture@18350f87
+CONFLICT @ 3816 item slot already occupied by MoCItem@3b077c00 while adding buildcraft.core.ItemBuildCraftTexture@1327fd4d
+CONFLICT @ 3811 item slot already occupied by MoCItemWeapon@6546a0e9 while adding buildcraft.transport.ItemGate@49a7e499
+setupTexture: "/net/minecraft/src/AdditionalBuildcraftObjects/gui/block_textures.png", id: 257
+CONFLICT @ 3805 item slot already occupied by MoCItemFishBowl@24b69a23 while adding buildcraft.builders.ItemBptTemplate@f8b6821
+CONFLICT @ 3818 item slot already occupied by MoCItem@3b8e2570 while adding buildcraft.builders.ItemBptBluePrint@41b705a6
+TextureFX registered: buildcraft.energy.TextureOilFX@37ad3bf1, texId: 255, index: 205
+TextureFX registered: buildcraft.energy.TextureFuelFX@4b0efc31, texId: 256, index: 48
+TextureFX registered: buildcraft.energy.TextureOilFlowFX@15223412, texId: 255, index: 206
+CONFLICT @ 3817 item slot already occupied by MoCItem@8b8b270 while adding buildcraft.core.ItemRedstoneChipset@1dfd547a
+setupTexture: "/terrain.png", id: 258
+TextureFX registered: ModTextureStatic /terrain.png @ 144, texId: 255, index: 144
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 144 With /net/minecraft/src/buildcraft/additionalpipes/resources/BlueItem.png. 61 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 145, texId: 255, index: 145
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 145 With /net/minecraft/src/buildcraft/additionalpipes/resources/BlueLiquid.png. 60 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 146, texId: 255, index: 146
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 146 With /net/minecraft/src/buildcraft/additionalpipes/resources/BluePower.png. 59 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 147, texId: 255, index: 147
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 147 With /net/minecraft/src/buildcraft/additionalpipes/resources/Dist0.png. 58 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 148, texId: 255, index: 148
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 148 With /net/minecraft/src/buildcraft/additionalpipes/resources/Dist1.png. 57 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 149, texId: 255, index: 149
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 149 With /net/minecraft/src/buildcraft/additionalpipes/resources/Dist2.png. 56 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 150, texId: 255, index: 150
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 150 With /net/minecraft/src/buildcraft/additionalpipes/resources/Dist3.png. 55 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 151, texId: 255, index: 151
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 151 With /net/minecraft/src/buildcraft/additionalpipes/resources/Dist4.png. 54 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 152, texId: 255, index: 152
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 152 With /net/minecraft/src/buildcraft/additionalpipes/resources/Dist5.png. 53 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 153, texId: 255, index: 153
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 153 With /net/minecraft/src/buildcraft/additionalpipes/resources/AdvancedWoodClosed.png. 52 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 154, texId: 255, index: 154
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 154 With /net/minecraft/src/buildcraft/additionalpipes/resources/AdvancedWood.png. 51 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 155, texId: 255, index: 155
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 155 With /net/minecraft/src/buildcraft/additionalpipes/resources/AdvInsert.png. 50 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 156, texId: 255, index: 156
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 156 With /net/minecraft/src/buildcraft/additionalpipes/resources/RS.png. 49 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 157, texId: 255, index: 157
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 157 With /net/minecraft/src/buildcraft/additionalpipes/resources/RSP.png. 48 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 158, texId: 255, index: 158
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 158 With /net/minecraft/src/buildcraft/additionalpipes/resources/RSL.png. 47 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 159, texId: 255, index: 159
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 159 With /net/minecraft/src/buildcraft/additionalpipes/resources/RSLP.png. 46 left.
+setupTexture: "/eloraam/base/base1.png", id: 259
+setupTexture: "/eloraam/world/world1.png", id: 260
+setupTexture: "/eloraam/world/worlditems1.png", id: 261
+setupTexture: "/gfx/forestry/blocks/apiary_base.png", id: 262
+setupTexture: "/gfx/forestry/blocks/apiary_tank_resource_empty.png", id: 263
+setupTexture: "/gfx/forestry/blocks/apiary_tank_product_empty.png", id: 264
+setupTexture: "/gfx/forestry/blocks/apiaristchest_block.png", id: 265
+setupTexture: "/gfx/forestry/blocks/arboretum_base.png", id: 266
+setupTexture: "/gfx/forestry/blocks/arboretum_ceiling.png", id: 267
+setupTexture: "/gfx/forestry/blocks/arboretum_terrarium.png", id: 268
+setupTexture: "/gfx/forestry/blocks/arboretum_showcase.png", id: 269
+setupTexture: "/gfx/forestry/blocks/farm_base.png", id: 270
+setupTexture: "/gfx/forestry/blocks/farm_ceiling.png", id: 271
+setupTexture: "/gfx/forestry/blocks/farm_terrarium.png", id: 272
+setupTexture: "/gfx/forestry/blocks/farm_showcase.png", id: 273
+setupTexture: "/gfx/forestry/blocks/plantation_base.png", id: 274
+setupTexture: "/gfx/forestry/blocks/plantation_ceiling.png", id: 275
+setupTexture: "/gfx/forestry/blocks/plantation_terrarium.png", id: 276
+setupTexture: "/gfx/forestry/blocks/plantation_showcase.png", id: 277
+setupTexture: "/gfx/forestry/blocks/pumpkinfarm_base.png", id: 278
+setupTexture: "/gfx/forestry/blocks/pumpkinfarm_ceiling.png", id: 279
+setupTexture: "/gfx/forestry/blocks/pumpkinfarm_terrarium.png", id: 280
+setupTexture: "/gfx/forestry/blocks/pumpkinfarm_showcase.png", id: 281
+setupTexture: "/gfx/forestry/blocks/peatbog_base.png", id: 282
+setupTexture: "/gfx/forestry/blocks/peatbog_ceiling.png", id: 283
+setupTexture: "/gfx/forestry/blocks/peatbog_terrarium.png", id: 284
+setupTexture: "/gfx/forestry/blocks/peatbog_showcase.png", id: 285
+setupTexture: "/gfx/forestry/blocks/mushroomfarm_base.png", id: 286
+setupTexture: "/gfx/forestry/blocks/mushroomfarm_ceiling.png", id: 287
+setupTexture: "/gfx/forestry/blocks/mushroomfarm_terrarium.png", id: 288
+setupTexture: "/gfx/forestry/blocks/mushroomfarm_showcase.png", id: 289
+setupTexture: "/gfx/forestry/blocks/netherfarm_base.png", id: 290
+setupTexture: "/gfx/forestry/blocks/netherfarm_ceiling.png", id: 291
+setupTexture: "/gfx/forestry/blocks/netherfarm_terrarium.png", id: 292
+setupTexture: "/gfx/forestry/blocks/netherfarm_showcase.png", id: 293
+setupTexture: "/gfx/forestry/blocks/forester_pedestal.png", id: 294
+setupTexture: "/gfx/forestry/blocks/forester_extension.png", id: 295
+setupTexture: "/gfx/forestry/blocks/forester_blade1.png", id: 296
+setupTexture: "/gfx/forestry/blocks/forester_blade2.png", id: 297
+setupTexture: "/gfx/forestry/blocks/forester_column_0.png", id: 298
+setupTexture: "/gfx/forestry/blocks/treetap_pedestal.png", id: 299
+setupTexture: "/gfx/forestry/blocks/treetap_extension.png", id: 300
+setupTexture: "/gfx/forestry/blocks/treetap_blade1.png", id: 301
+setupTexture: "/gfx/forestry/blocks/treetap_blade2.png", id: 302
+setupTexture: "/gfx/forestry/blocks/treetap_column_0.png", id: 303
+setupTexture: "/gfx/forestry/blocks/engine_bronze_base.png", id: 304
+setupTexture: "/gfx/forestry/blocks/engine_bronze_extension.png", id: 305
+setupTexture: "/gfx/forestry/blocks/engine_bronze_piston.png", id: 306
+setupTexture: "/gfx/forestry/blocks/engine_trunk_low.png", id: 307
+setupTexture: "/gfx/forestry/blocks/engine_trunk_medium.png", id: 308
+setupTexture: "/gfx/forestry/blocks/engine_trunk_high.png", id: 309
+setupTexture: "/gfx/forestry/blocks/engine_trunk_higher.png", id: 310
+setupTexture: "/gfx/forestry/blocks/engine_trunk_highest.png", id: 311
+setupTexture: "/gfx/forestry/blocks/engine_copper_base.png", id: 312
+setupTexture: "/gfx/forestry/blocks/engine_copper_extension.png", id: 313
+setupTexture: "/gfx/forestry/blocks/engine_copper_piston.png", id: 314
+setupTexture: "/gfx/forestry/blocks/engine_tin_base.png", id: 315
+setupTexture: "/gfx/forestry/blocks/engine_tin_extension.png", id: 316
+setupTexture: "/gfx/forestry/blocks/engine_tin_piston.png", id: 317
+setupTexture: "/gfx/forestry/blocks/generator_base.png", id: 318
+setupTexture: "/gfx/forestry/blocks/generator_tank_resource_empty.png", id: 319
+setupTexture: "/gfx/forestry/blocks/generator_tank_resource_low.png", id: 320
+setupTexture: "/gfx/forestry/blocks/generator_tank_resource_medium.png", id: 321
+setupTexture: "/gfx/forestry/blocks/generator_tank_resource_high.png", id: 322
+setupTexture: "/gfx/forestry/blocks/generator_tank_resource_maximum.png", id: 323
+setupTexture: "/gfx/forestry/blocks/generator_tank_product_empty.png", id: 324
+setupTexture: "/gfx/forestry/blocks/fermenter_base.png", id: 325
+setupTexture: "/gfx/forestry/blocks/fermenter_tank_resource_empty.png", id: 326
+setupTexture: "/gfx/forestry/blocks/fermenter_tank_resource_low.png", id: 327
+setupTexture: "/gfx/forestry/blocks/fermenter_tank_resource_medium.png", id: 328
+setupTexture: "/gfx/forestry/blocks/fermenter_tank_resource_high.png", id: 329
+setupTexture: "/gfx/forestry/blocks/fermenter_tank_resource_maximum.png", id: 330
+setupTexture: "/gfx/forestry/blocks/fermenter_tank_product_empty.png", id: 331
+setupTexture: "/gfx/forestry/blocks/fermenter_tank_product_low.png", id: 332
+setupTexture: "/gfx/forestry/blocks/fermenter_tank_product_medium.png", id: 333
+setupTexture: "/gfx/forestry/blocks/fermenter_tank_product_high.png", id: 334
+setupTexture: "/gfx/forestry/blocks/fermenter_tank_product_maximum.png", id: 335
+setupTexture: "/gfx/forestry/blocks/still_base.png", id: 336
+setupTexture: "/gfx/forestry/blocks/still_tank_resource_empty.png", id: 337
+setupTexture: "/gfx/forestry/blocks/still_tank_resource_low.png", id: 338
+setupTexture: "/gfx/forestry/blocks/still_tank_resource_medium.png", id: 339
+setupTexture: "/gfx/forestry/blocks/still_tank_resource_high.png", id: 340
+setupTexture: "/gfx/forestry/blocks/still_tank_resource_maximum.png", id: 341
+setupTexture: "/gfx/forestry/blocks/still_tank_product_empty.png", id: 342
+setupTexture: "/gfx/forestry/blocks/still_tank_product_low.png", id: 343
+setupTexture: "/gfx/forestry/blocks/still_tank_product_medium.png", id: 344
+setupTexture: "/gfx/forestry/blocks/still_tank_product_high.png", id: 345
+setupTexture: "/gfx/forestry/blocks/still_tank_product_maximum.png", id: 346
+setupTexture: "/gfx/forestry/blocks/bottler_base.png", id: 347
+setupTexture: "/gfx/forestry/blocks/bottler_tank_resource_empty.png", id: 348
+setupTexture: "/gfx/forestry/blocks/bottler_tank_resource_low.png", id: 349
+setupTexture: "/gfx/forestry/blocks/bottler_tank_resource_medium.png", id: 350
+setupTexture: "/gfx/forestry/blocks/bottler_tank_resource_high.png", id: 351
+setupTexture: "/gfx/forestry/blocks/bottler_tank_resource_maximum.png", id: 352
+setupTexture: "/gfx/forestry/blocks/bottler_tank_product_empty.png", id: 353
+setupTexture: "/gfx/forestry/blocks/raintank_base.png", id: 354
+setupTexture: "/gfx/forestry/blocks/raintank_tank_resource_empty.png", id: 355
+setupTexture: "/gfx/forestry/blocks/raintank_tank_resource_low.png", id: 356
+setupTexture: "/gfx/forestry/blocks/raintank_tank_resource_medium.png", id: 357
+setupTexture: "/gfx/forestry/blocks/raintank_tank_resource_high.png", id: 358
+setupTexture: "/gfx/forestry/blocks/raintank_tank_resource_maximum.png", id: 359
+setupTexture: "/gfx/forestry/blocks/raintank_tank_product_empty.png", id: 360
+setupTexture: "/gfx/forestry/blocks/carpenter_base.png", id: 361
+setupTexture: "/gfx/forestry/blocks/carpenter_tank_resource_empty.png", id: 362
+setupTexture: "/gfx/forestry/blocks/carpenter_tank_resource_low.png", id: 363
+setupTexture: "/gfx/forestry/blocks/carpenter_tank_resource_medium.png", id: 364
+setupTexture: "/gfx/forestry/blocks/carpenter_tank_resource_high.png", id: 365
+setupTexture: "/gfx/forestry/blocks/carpenter_tank_resource_maximum.png", id: 366
+setupTexture: "/gfx/forestry/blocks/carpenter_tank_product_empty.png", id: 367
+setupTexture: "/gfx/forestry/blocks/moistener_base.png", id: 368
+setupTexture: "/gfx/forestry/blocks/moistener_tank_resource_empty.png", id: 369
+setupTexture: "/gfx/forestry/blocks/moistener_tank_resource_low.png", id: 370
+setupTexture: "/gfx/forestry/blocks/moistener_tank_resource_medium.png", id: 371
+setupTexture: "/gfx/forestry/blocks/moistener_tank_resource_high.png", id: 372
+setupTexture: "/gfx/forestry/blocks/moistener_tank_resource_maximum.png", id: 373
+setupTexture: "/gfx/forestry/blocks/moistener_tank_product_empty.png", id: 374
+setupTexture: "/gfx/forestry/blocks/centrifuge_base.png", id: 375
+setupTexture: "/gfx/forestry/blocks/centrifuge_tank_resource_empty.png", id: 376
+setupTexture: "/gfx/forestry/blocks/centrifuge_tank_product_empty.png", id: 377
+setupTexture: "/gfx/forestry/blocks/squeezer_base.png", id: 378
+setupTexture: "/gfx/forestry/blocks/squeezer_tank_resource_empty.png", id: 379
+setupTexture: "/gfx/forestry/blocks/squeezer_tank_product_empty.png", id: 380
+setupTexture: "/gfx/forestry/blocks/squeezer_tank_product_low.png", id: 381
+setupTexture: "/gfx/forestry/blocks/squeezer_tank_product_medium.png", id: 382
+setupTexture: "/gfx/forestry/blocks/squeezer_tank_product_high.png", id: 383
+setupTexture: "/gfx/forestry/blocks/squeezer_tank_product_maximum.png", id: 384
+setupTexture: "/gfx/forestry/blocks/fabricator_block.png", id: 385
+setupTexture: "/gfx/forestry/blocks/rainmaker_pedestal.png", id: 386
+setupTexture: "/gfx/forestry/blocks/rainmaker_extension.png", id: 387
+setupTexture: "/gfx/forestry/blocks/rainmaker_blade1.png", id: 388
+setupTexture: "/gfx/forestry/blocks/rainmaker_blade2.png", id: 389
+setupTexture: "/gfx/forestry/blocks/rainmaker_column_0.png", id: 390
+setupTexture: "/gfx/forestry/blocks/mailbox_block.png", id: 391
+setupTexture: "/gfx/forestry/blocks/trader_block.png", id: 392
+setupTexture: "/gfx/forestry/blocks/philatelist_block.png", id: 393
+TextureFX registered: ModTextureStatic /terrain.png @ 160, texId: 255, index: 160
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 160 With /gfx/forestry/blocks/propolis_open.png. 45 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 161, texId: 255, index: 161
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 161 With /gfx/forestry/blocks/propolis_yneg.png. 44 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 162, texId: 255, index: 162
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 162 With /gfx/forestry/blocks/propolis_ypos.png. 43 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 163, texId: 255, index: 163
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 163 With /gfx/forestry/blocks/propolis_zneg.png. 42 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 164, texId: 255, index: 164
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 164 With /gfx/forestry/blocks/propolis_zpos.png. 41 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 165, texId: 255, index: 165
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 165 With /gfx/forestry/blocks/propolis_xneg.png. 40 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 166, texId: 255, index: 166
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 166 With /gfx/forestry/blocks/propolis_xpos.png. 39 left.
+TextureFX registered: forestry.core.TextureBiomassFX@675b9962, texId: 209, index: 13
+TextureFX registered: forestry.core.TextureBiofuelFX@7005df84, texId: 209, index: 12
+TextureFX registered: forestry.factory.TextureMilkFX@425ab527, texId: 209, index: 15
+TextureFX registered: forestry.core.TextureHoneyFX@40274b0c, texId: 209, index: 76
+TextureFX registered: forestry.factory.TextureSeedOilFX@7b8c5ae3, texId: 209, index: 74
+TextureFX registered: forestry.core.TextureJuiceFX@25ab53e9, texId: 209, index: 75
+TextureFX registered: forestry.core.TextureMeadFX@324f39f6, texId: 209, index: 77
+TextureFX registered: forestry.core.TextureGlassFX@484a7b98, texId: 209, index: 49
+TextureFX registered: forestry.core.TextureHabitatLocatorFX@6cc656cd, texId: 209, index: 105
+TextureFX registered: ModTextureStatic /terrain.png @ 167, texId: 255, index: 167
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 167 With /net/minecraft/src/buildcraft/krapht/gui/logisticspipe.png. 38 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 168, texId: 255, index: 168
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 168 With /net/minecraft/src/buildcraft/krapht/gui/logisticspipeprovider.png. 37 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 169, texId: 255, index: 169
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 169 With /net/minecraft/src/buildcraft/krapht/gui/logisticspiperequester.png. 36 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 170, texId: 255, index: 170
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 170 With /net/minecraft/src/buildcraft/krapht/gui/logisticspipecrafter.png. 35 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 171, texId: 255, index: 171
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 171 With /net/minecraft/src/buildcraft/krapht/gui/logisticspiperouted.png. 34 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 172, texId: 255, index: 172
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 172 With /net/minecraft/src/buildcraft/krapht/gui/logisticspipenotrouted.png. 33 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 173, texId: 255, index: 173
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 173 With /net/minecraft/src/buildcraft/krapht/gui/logisticspipesatellite.png. 32 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 174, texId: 255, index: 174
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 174 With /net/minecraft/src/buildcraft/krapht/gui/logisticspipesupplier.png. 31 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 175, texId: 255, index: 175
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 175 With /net/minecraft/src/buildcraft/krapht/gui/logisticspipechassirouted.png. 30 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 176, texId: 255, index: 176
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 176 With /net/minecraft/src/buildcraft/krapht/gui/logisticspipechassinotrouted.png. 29 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 177, texId: 255, index: 177
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 177 With /net/minecraft/src/buildcraft/krapht/gui/logisticspipechassidirection.png. 28 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 178, texId: 255, index: 178
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 178 With /net/minecraft/src/buildcraft/krapht/gui/logisticspipechassi1.png. 27 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 179, texId: 255, index: 179
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 179 With /net/minecraft/src/buildcraft/krapht/gui/logisticspipechassi2.png. 26 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 180, texId: 255, index: 180
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 180 With /net/minecraft/src/buildcraft/krapht/gui/logisticspipechassi3.png. 25 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 181, texId: 255, index: 181
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 181 With /net/minecraft/src/buildcraft/krapht/gui/logisticspipechassi4.png. 24 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 182, texId: 255, index: 182
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 182 With /net/minecraft/src/buildcraft/krapht/gui/logisticspipechassi5.png. 23 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 183, texId: 255, index: 183
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 183 With /net/minecraft/src/buildcraft/krapht/gui/logisticspipebuildersupplier.png. 22 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 184, texId: 255, index: 184
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 184 With /net/minecraft/src/buildcraft/krapht/gui/logisticspipeliquidsupplier.png. 21 left.
+TextureFX registered: railcraft.render.TextureCreosoteOilFX@75b77362, texId: 226, index: 0
+setupTexture: "/eloraam/wiring/redpower1.png", id: 394
+setupTexture: "/eloraam/control/control1.png", id: 395
+setupTexture: "/eloraam/lighting/lighting1.png", id: 396
+setupTexture: "/eloraam/logic/logic1.png", id: 397
+setupTexture: "/eloraam/logic/logic2.png", id: 398
+setupTexture: "/eloraam/logic/array1.png", id: 399
+setupTexture: "/eloraam/logic/sensor1.png", id: 400
+setupTexture: "/eloraam/machine/machine1.png", id: 401
+TextureFX registered: ModTextureStatic /terrain.png @ 185, texId: 255, index: 185
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 185 With /net/minecraft/src/buildcraft/sneakypipes/textures/sneakypipe.png. 20 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 186, texId: 255, index: 186
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 186 With /net/minecraft/src/buildcraft/sneakypipes/textures/sandpipe.png. 19 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 187, texId: 255, index: 187
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 187 With /net/minecraft/src/buildcraft/sneakypipes/textures/glasspipe.png. 18 left.
+TextureFX registered: ModTextureStatic /terrain.png @ 188, texId: 255, index: 188
+Overriding /net/minecraft/src/buildcraft/core/gui/block_textures.png @ 188 With /net/minecraft/src/buildcraft/sneakypipes/textures/voidpipe.png. 17 left.
+
+Starting up SoundSystem...
+Initializing LWJGL OpenAL
+    (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+OpenAL initialized.
+
+TextureFX registered: bv@4fbb4d13, texId: 258, index: 237
+TextureFX registered: qa@2a11e086, texId: 258, index: 205
+TextureFX registered: zp@5bc73b95, texId: 258, index: 14
+setupTexture: "/gui/items.png", id: 402
+TextureFX registered: tu@94b987e, texId: 402, index: 54
+TextureFX registered: ht@6c910670, texId: 402, index: 70
+TextureFX registered: ael@15d3b14c, texId: 258, index: 206
+TextureFX registered: gf@18bbe47e, texId: 258, index: 238
+TextureFX registered: nh@103d03fc, texId: 258, index: 31
+TextureFX registered: nh@727186e1, texId: 258, index: 47
+TextureFX removed: bv@4fbb4d13, texId: 258, index: 237
+TextureFX registered: TextureHDLavaFX@71aa29a4, texId: 258, index: 237
+TextureFX removed: qa@2a11e086, texId: 258, index: 205
+TextureFX registered: TextureHDWaterFX@1f03499, texId: 258, index: 205
+TextureFX removed: zp@5bc73b95, texId: 258, index: 14
+TextureFX registered: TextureHDPortalFX@711abe7d, texId: 258, index: 14
+TextureFX removed: ael@15d3b14c, texId: 258, index: 206
+TextureFX registered: TextureHDWaterFlowFX@71c4f8ad, texId: 258, index: 206
+TextureFX removed: gf@18bbe47e, texId: 258, index: 238
+TextureFX registered: TextureHDLavaFlowFX@51031838, texId: 258, index: 238
+TextureFX removed: nh@103d03fc, texId: 258, index: 31
+TextureFX registered: TextureHDFlamesFX@5157ba7d, texId: 258, index: 31
+TextureFX removed: nh@727186e1, texId: 258, index: 47
+TextureFX registered: TextureHDFlamesFX@751a0f7c, texId: 258, index: 47
+TextureFX removed: tu@94b987e, texId: 402, index: 54
+TextureFX registered: TextureHDCompassFX@6c6f1555, texId: 402, index: 54
+TextureFX removed: ht@6c910670, texId: 402, index: 70
+TextureFX registered: TextureHDWatchFX@6b199ac5, texId: 402, index: 70
+Loading custom colors: /misc/grasscolor.png
+Loading custom colors: /misc/foliagecolor.png
+setupTexture: "/ctm.png", id: 403
+MatchingCtmPng: true
+Registering default ConnectedTextures
+natural.properties not found
+Using default configuration for Natural Textures.
+setupTexture: "/title/bg/panorama0.png", id: 405
+setupTexture: "/title/bg/panorama1.png", id: 406
+setupTexture: "/title/bg/panorama2.png", id: 407
+setupTexture: "/title/bg/panorama3.png", id: 408
+setupTexture: "/title/bg/panorama4.png", id: 409
+setupTexture: "/title/bg/panorama5.png", id: 410
+setupTexture: "/title/mclogo.png", id: 411
+setupTexture: "/gui/gui.png", id: 412
+setupTexture: "/gui/particles.png", id: 414
+setupTexture: "/gui/background.png", id: 416
+Force loading 0 chunks.
+Unloading chunk: [7, 7]
+Unloading chunk: [7, 8]
+Unloading chunk: [7, 9]
+Unloading chunk: [7, 10]
+Unloading chunk: [7, 11]
+Unloading chunk: [7, 12]
+Unloading chunk: [7, 13]
+Unloading chunk: [7, 14]
+Unloading chunk: [7, 15]
+Unloading chunk: [7, 16]
+TextureFX registered: Portal_TextureAnimation@12398592, texId: 223, index: 5
+TextureFX registered: thaumcraft.FXAnimatedTexture@52ca1bd2, texId: 232, index: 252
+TextureFX registered: thaumcraft.FXAnimatedTexture@12eadbe7, texId: 232, index: 253
+TextureFX registered: thaumcraft.FXAnimatedTexture@6bf18541, texId: 232, index: 254
+TextureFX registered: thaumcraft.arcana.TextureVoidCompassFX@353a98b8, texId: 233, index: 61
+TextureFX registered: eloraam.core.TextureAnimFX@372c0146, texId: 401, index: 239
+TextureFX registered: eloraam.core.TextureAnimFX@735dd1a7, texId: 401, index: 255
+TextureFX registered: ModTextureStatic /terrain.png @ 168, texId: 258, index: 168
+TextureFX registered: ModTextureStatic /terrain.png @ 169, texId: 258, index: 169
+TextureFX registered: ModTextureStatic /terrain.png @ 170, texId: 258, index: 170
+TextureFX registered: ModTextureStatic /gui/items.png @ 102, texId: 402, index: 102
+TextureFX registered: ModTextureStatic /gui/items.png @ 118, texId: 402, index: 118
+TextureFX registered: ModTextureStatic /gui/items.png @ 119, texId: 402, index: 119
+TextureFX registered: ModTextureStatic /gui/items.png @ 120, texId: 402, index: 120
+TextureFX registered: ModTextureStatic /gui/items.png @ 134, texId: 402, index: 134
+TextureFX registered: ModTextureStatic /gui/items.png @ 144, texId: 402, index: 144
+TextureFX registered: ModTextureStatic /gui/items.png @ 145, texId: 402, index: 145
+TextureFX registered: ModTextureStatic /gui/items.png @ 146, texId: 402, index: 146
+TextureFX registered: ModTextureStatic /gui/items.png @ 147, texId: 402, index: 147
+TextureFX registered: ModTextureStatic /gui/items.png @ 148, texId: 402, index: 148
+TextureFX registered: ModTextureStatic /gui/items.png @ 149, texId: 402, index: 149
+TextureFX registered: ModTextureStatic /gui/items.png @ 150, texId: 402, index: 150
+TextureFX registered: ModTextureStatic /gui/items.png @ 152, texId: 402, index: 152
+TextureFX registered: ModTextureStatic /gui/items.png @ 160, texId: 402, index: 160
+TextureFX registered: ModTextureStatic /gui/items.png @ 161, texId: 402, index: 161
+TextureFX registered: ModTextureStatic /gui/items.png @ 162, texId: 402, index: 162
+setupTexture: "/terrain/sun.png", id: 418
+setupTexture: "/terrain/moon_phases.png", id: 419
+setupTexture: "/environment/clouds.png", id: 420
+setupTexture: "/mob/char.png", id: 421
+setupTexture: "%blur%/misc/vignette.png", id: 422
+setupTexture: "/gui/icons.png", id: 423
+setupTexture: "%blur%/misc/glint.png", id: 424
+setupTexture: "/codechicken/wirelessredstone/addons/addons1.png", id: 425
+setupTexture: "/codechicken/wirelessredstone/addons/triang.png", id: 426
+Modifying RenderManager Entity Map (EntityLinkbook)
+Loaded mistaqur.nei.thaumcraft.NEIThaumcraftConfig
+Loaded codechicken.nei.plugins.redpower.NEIRedPowerConfig
+Loaded mistaqur.nei.railcraft.NEIRailCraftConfig
+Removing old IC2 recipe handlers...
+Loaded mistaqur.nei.ic2.NEI_IC2_Config
+Loaded mistaqur.nei.forestry.NEIForestryConfig
+Loaded mistaqur.nei.buildcraft.NEIBuildcraftConfig
+Loaded ee.client.nei.NEIEquivalentExchangeConfig
+Loaded codechicken.wirelessredstone.addons.NEIWirelessAddonConfig
+Loaded codechicken.wirelessredstone.core.NEIWirelessCoreConfig
+Loaded codechicken.wirelessredstone.redpower.NEIWirelessRedPowerConfig
+setupTexture: "/thaumcraft/resources/guidetector.png", id: 427
+load stuffs
+[Rei's Minimap] MCPatcher HD Fix: Not found
+[Portal Gun 1.2.5v3] Portal data does not exist!
+[Portal Gun 1.2.5v3] Loading properties.
+[Portal Gun 1.2.5v3] Added thaumcraft.world.EntityWisp to turret exceptions.
+[Portal Gun 1.2.5v3] Properties loaded.
+[Portal Gun 1.2.5v3] Loading local properties.
+[Portal Gun 1.2.5v3] Local properties loaded.
+setupTexture: "/mob/pig.png", id: 435
+setupTexture: "/mob/saddle.png", id: 436
+setupTexture: "/mob/cow.png", id: 437
+setupTexture: "%clamp%/misc/shadow.png", id: 438
+setupTexture: "/thaumcraft/resources/crystalg.png", id: 439
+setupTexture: "/thaumcraft/resources/crystalb.png", id: 440
+setupTexture: "/thaumcraft/resources/crystaly.png", id: 441
+setupTexture: "/particles.png", id: 442
+setupTexture: "/mocreatures/horsezebra.png", id: 443
+setupTexture: "/thaumcraft/resources/crystal.png", id: 444
+setupTexture: "/thaumcraft/resources/crystalr.png", id: 445
+setupTexture: "/mocreatures/horsedarkbrown.png", id: 446
+setupTexture: "/mob/creeper.png", id: 447
+setupTexture: "/mocreatures/horsewhite.png", id: 448
+setupTexture: "/mob/babbyCreeper.png", id: 449
+setupTexture: "/mob/sheep.png", id: 450
+setupTexture: "/mob/sheep_fur.png", id: 451
+setupTexture: "/mob/spider.png", id: 452
+setupTexture: "/mob/spider_eyes.png", id: 453
+Unloading chunk: [-1, -1]
+Unloading chunk: [-1, 0]
+Unloading chunk: [0, -1]
+setupTexture: "/item/chest.png", id: 454
+Unloading chunk: [-1, -1]
+Unloading chunk: [-1, 0]
+Unloading chunk: [0, -1]
+Unloading chunk: [-1, -1]
+Unloading chunk: [-1, 0]
+Unloading chunk: [0, -1]
+Unloading chunk: [-1, -1]
+Unloading chunk: [-1, 0]
+Unloading chunk: [0, -1]
+Unloading chunk: [-1, -1]
+Unloading chunk: [-1, 0]
+Unloading chunk: [0, -1]
+Unloading chunk: [-1, -1]
+Unloading chunk: [-1, 0]
+Unloading chunk: [0, -1]
+setupTexture: "/thaumcraft/resources/bzombie.png", id: 455
+setupTexture: "/mob/skeleton.png", id: 456
+setupTexture: "/mocreatures/horsebat.png", id: 457
+Unloading chunk: [0, 0]
+Unloading chunk: [-1, -1]
+Unloading chunk: [-1, 0]
+Unloading chunk: [0, -1]
+Unloading chunk: [0, 0]
+Allocated subtessellator, count: 1
+Unloading chunk: [-1, -1]
+Unloading chunk: [-1, 0]
+Unloading chunk: [0, -1]
+Unloading chunk: [0, 0]
+Unloading chunk: [-1, -1]
+Unloading chunk: [-1, 0]
+Unloading chunk: [0, -1]
+Unloading chunk: [0, 0]
+setupTexture: "/mob/zombie.png", id: 458
+Unloading chunk: [-1, -1]
+Unloading chunk: [-1, 0]
+Unloading chunk: [0, -1]
+Unloading chunk: [0, 0]
+Unloading chunk: [-1, -1]
+Unloading chunk: [0, -1]
+Unloading chunk: [0, 0]
+Stopping!
+
+SoundSystem shutting down...
+    Author: Paul Lamb, www.paulscode.com
+

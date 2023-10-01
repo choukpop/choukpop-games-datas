@@ -1,3 +1,0 @@
-sells=udon,rice,cookedfish
-
-buys=udon,rice,fishraw,cookedfish
