@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "FPS146",
+            "MMC-filename": "2cd96e7f-ed19-44c4-9963-cda8d64611d8.jar",
+            "MMC-hint": "local",
+            "name": "org.multimc.jarmods:2cd96e7f-ed19-44c4-9963-cda8d64611d8:1"
+        }
+    ],
+    "name": "FPS146 (jar mod)",
+    "uid": "org.multimc.jarmod.2cd96e7f-ed19-44c4-9963-cda8d64611d8"
+}
