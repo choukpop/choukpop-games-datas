@@ -1,4 +1,4 @@
-ofRenderDistanceFine:96
+ofRenderDistanceFine:64
 ofFogType:3
 ofFogStart:0.8
 ofMipmapLevel:4
@@ -43,7 +43,7 @@ ofChunkUpdates:1
 ofChunkUpdatesDynamic:false
 ofTime:2
 ofClearWater:false
-ofDepthFog:true
+ofDepthFog:false
 ofAaLevel:0
 ofAfLevel:1
 ofProfiler:false
@@ -53,6 +53,6 @@ ofRandomMobs:false
 ofSmoothBiomes:true
 ofCustomFonts:true
 ofCustomColors:false
-ofShowCapes:true
+ofShowCapes:false
 ofNaturalTextures:true
 ofFullscreenMode:Default

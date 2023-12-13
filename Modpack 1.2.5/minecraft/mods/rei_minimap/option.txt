@@ -5,7 +5,7 @@ Auto Update Check: Disable
 Map Shape: Square
 Texture: Rei Minimap
 Map Position: Upper Right
-Map Scale: Large
+Map Scale: Auto
 Map Opacity: Percent100
 Large Map Scale: Normal
 Large Map Opacity: Percent100
