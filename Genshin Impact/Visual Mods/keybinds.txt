@@ -1,0 +1,25 @@
+
+key = alt no_shift no_ctrl x
+back = shift no_alt no_ctrl x
+
+_sSort=Generic_Newest
+
+python genshin_merge_mods.py -e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
