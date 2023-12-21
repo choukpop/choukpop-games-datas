@@ -54,7 +54,7 @@ https://myanimelist.net/anime/53434/Maou_no_Ore_ga_Dorei_Elf_wo_Yome_ni_Shitanda
 => Animes <=
 ==================================
 => Ecchi <=
-=> 134
+=> 136
 ==================================
 
 High School DxD
@@ -410,6 +410,12 @@ Charger Girl Ju-den Chan (Fight Ippatsu! Juuden-chan!!)
 ----------------------------------------------------------------------------------------------------
 Seton Academy: Join the Pack! (Murenase! Seton Gakuen)
 ----------------------------------------------------------------------------------------------------
+Heaven's Lost Property (Sora no Otoshimono)
+ - Sora no Otoshimono
+ - Sora no Otoshimono: Forte
+----------------------------------------------------------------------------------------------------
+Magic Breast Secret Sword Scroll (Manyuu Hikenchou)
+----------------------------------------------------------------------------------------------------
 
 
 
@@ -432,7 +438,7 @@ Seton Academy: Join the Pack! (Murenase! Seton Gakuen)
 
 ==================================
 => Powers <=
-=> 106
+=> 107
 ==================================
 
 The Seven Deadly Sins (Nanatsu no Taizai)
@@ -778,6 +784,8 @@ The Demon Sword Master of Excalibur Academy (Seiken Gakuin no Makentsukai)
 Berserk of Gluttony (Boushoku no Berserk)
 ----------------------------------------------------------------------------------------------------
 Maoyu (Maoyuu Maou Yuusha)
+----------------------------------------------------------------------------------------------------
+Parasyte: The Maxim (Kiseijuu: Sei no Kakuritsu)
 ----------------------------------------------------------------------------------------------------
 
 
@@ -1268,9 +1276,6 @@ Assistant of Superstar
 
 
 
-https://myanimelist.net/anime/5958/Sora_no_Otoshimono
-https://myanimelist.net/anime/10465/Manyuu_Hikenchou
-
 
 
 // Maybe Powers
@@ -1297,7 +1302,6 @@ https://myanimelist.net/anime/48753/Jahy-sama_wa_Kujikenai
 https://myanimelist.net/anime/50481/Eiyuuou_Bu_wo_Kiwameru_Tame_Tenseisu__Soshite_Sekai_Saikyou_no_Minarai_Kishi%E2%99%80
 https://myanimelist.net/anime/53438/Higeki_no_Genkyou_to_Naru_Saikyou_Gedou_Last_Boss_Joou_wa_Tami_no_Tame_ni_Tsukushimasu
 https://myanimelist.net/anime/40075/Koi_to_Producer__EVOL%C3%97LOVE
-https://myanimelist.net/anime/22535/Kiseijuu__Sei_no_Kakuritsu
 
 
 
