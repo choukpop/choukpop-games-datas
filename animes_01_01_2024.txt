@@ -8,11 +8,11 @@ inZOI
 Windblown (https://windblown.game)
 Unending Dawn (https://gamertweak.com/unending-dawn-release-date)
 Wutheringwaves (https://wutheringwaves.kurogame.com/en)
-Projectmugen (https://www.projectmugen.com/)
+Projectmugen (https://www.projectmugen.com)
 Rocket Racing
 tales of kenzera ZAU
 last sentinel game
-the first descendant (https://store.steampowered.com/app/2074920/The_First_Descendant/)
+the first descendant (https://store.steampowered.com/app/2074920/The_First_Descendant)
 light no fire game
 
 Zenless (https://zenless.hoyoverse.com/en-us/main)
@@ -31,14 +31,18 @@ Zenless (https://zenless.hoyoverse.com/en-us/main)
 
 
 
+https://myanimelist.net/anime/51180/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e_3rd_Season - 3 jan
+https://myanimelist.net/anime/55813/Mashle_2nd_Season - 6 jan
+https://myanimelist.net/anime/55690/Boku_no_Kokoro_no_Yabai_Yatsu_Season_2 - 7 jan
+https://myanimelist.net/anime/53488/Shin_no_Nakama_ja_Nai_to_Yuusha_no_Party_wo_Oidasareta_node_Henkyou_de_Slow_Life_suru_Koto_ni_Shimashita_2nd - 7 jan
+https://myanimelist.net/anime/49889/Tsuki_ga_Michibiku_Isekai_Douchuu_2nd_Season - 8 jan
+https://myanimelist.net/anime/51648/Nozomanu_Fushi_no_Boukensha - 8 jan
+https://myanimelist.net/anime/54837/Akuyaku_Reijou_Level_99__Watashi_wa_Ura-Boss_desu_ga_Maou_dewa_Arimasen - 9 jan
+https://myanimelist.net/anime/53421/Dosanko_Gal_wa_Namara_Menkoi - 9 jan
 
 
-https://myanimelist.net/anime/49889/Tsuki_ga_Michibiku_Isekai_Douchuu_2nd_Season - 2024 jan
-https://myanimelist.net/anime/51648/Nozomanu_Fushi_no_Boukensha - 2024 jan
-https://myanimelist.net/anime/54837/Akuyaku_Reijou_Level_99__Watashi_wa_Ura-Boss_desu_ga_Maou_dewa_Arimasen - 2024 jan
-https://myanimelist.net/anime/53488/Shin_no_Nakama_ja_Nai_to_Yuusha_no_Party_wo_Oidasareta_node_Henkyou_de_Slow_Life_suru_Koto_ni_Shimashita_2nd - 2024 jan
-https://myanimelist.net/anime/53421/Dosanko_Gal_wa_Namara_Menkoi - 2024 jan
-https://myanimelist.net/anime/55690/Boku_no_Kokoro_no_Yabai_Yatsu_Season_2 - 2024 jan
+
+
 
 
 https://myanimelist.net/anime/53516/Tensei_shitara_Dainana_Ouji_Datta_node_Kimama_ni_Majutsu_wo_Kiwamemasu - 2024 april
@@ -54,7 +58,7 @@ https://myanimelist.net/anime/53434/Maou_no_Ore_ga_Dorei_Elf_wo_Yome_ni_Shitanda
 => Animes <=
 ==================================
 => Ecchi <=
-=> 136
+=> 138
 ==================================
 
 High School DxD
@@ -416,6 +420,10 @@ Heaven's Lost Property (Sora no Otoshimono)
 ----------------------------------------------------------------------------------------------------
 Magic Breast Secret Sword Scroll (Manyuu Hikenchou)
 ----------------------------------------------------------------------------------------------------
+Golden Boy
+----------------------------------------------------------------------------------------------------
+The Seven Heavenly Virtues (Nanatsu no Bitoku)
+----------------------------------------------------------------------------------------------------
 
 
 
@@ -469,6 +477,7 @@ The Misfit of Demon King Academy (Maou Gakuin no Futekigousha: Shijou Saikyou no
 My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World (Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita)
 ----------------------------------------------------------------------------------------------------
 Tsukimichi Moonlit Fantasy (Tsuki ga Michibiku Isekai Douchuu)
+ - Tsuki ga Michibiku Isekai Douchuu
 ----------------------------------------------------------------------------------------------------
 Date A Live
  - Date A Live
@@ -630,6 +639,7 @@ Edens Zero
 
 ----------------------------------------------------------------------------------------------------
 Mashle: Magic and Muscles (Mashle)
+ - Mashle
 ----------------------------------------------------------------------------------------------------
 Hell's Paradise (Jigokuraku)
 ----------------------------------------------------------------------------------------------------
@@ -680,6 +690,7 @@ The Devil is a Part-Timer! (Hataraku Maou-sama!)
 
 ----------------------------------------------------------------------------------------------------
 Banished From The Hero's Party, I Decided To Live A Quiet Life In The Countryside (Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita)
+ - Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita
 ----------------------------------------------------------------------------------------------------
 Bem
 ----------------------------------------------------------------------------------------------------
@@ -810,7 +821,7 @@ Parasyte: The Maxim (Kiseijuu: Sei no Kakuritsu)
 => Others Animes <=
 ==================================
 => Note 10 <=
-=> 46
+=> 48
 ==================================
 
 Golden Time
@@ -826,7 +837,7 @@ Rascal Does Not Dream of Bunny Girl Senpai (Seishun Buta Yarou wa Bunny Girl Sen
 ----------------------------------------------------------------------------------------------------
 Classroom of the Elite (Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e)
  - Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
- - Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season
+ - Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season
 ----------------------------------------------------------------------------------------------------
 Real Girl (3D Kanojo Real Girl)
  - 3D Kanojo: Real Girl
@@ -937,6 +948,12 @@ The Girl I Like Forgot Her Glasses (Suki na Ko ga Megane wo Wasureta)
 ----------------------------------------------------------------------------------------------------
 My Tiny Senpai (Uchi no Kaisha no Chiisai Senpai no Hanashi)
 ----------------------------------------------------------------------------------------------------
+Our Dating Story: The Experienced You and The Inexperienced Me (Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.)
+----------------------------------------------------------------------------------------------------
+The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo)
+ - Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo
+ - Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo Season 2
+----------------------------------------------------------------------------------------------------
 
 
 
@@ -959,7 +976,7 @@ My Tiny Senpai (Uchi no Kaisha no Chiisai Senpai no Hanashi)
 
 ==================================
 => Note 9 <=
-=> 55
+=> 56
 ==================================
 
 Toradora!
@@ -1065,7 +1082,6 @@ This Art Club Has a Problem! (Kono Bijutsu-bu ni wa Mondai ga Aru!)
 ----------------------------------------------------------------------------------------------------
 The Dangers in My Heart (Boku no Kokoro no Yabai Yatsu)
  - Boku no Kokoro no Yabai Yatsu
- - Boku no Kokoro no Yabai Yatsu 2
 ----------------------------------------------------------------------------------------------------
 A Galaxy Next Door (Otonari ni Ginga)
 ----------------------------------------------------------------------------------------------------
@@ -1110,6 +1126,10 @@ The Squid Girl (Shinryaku! Ika Musume)
 ----------------------------------------------------------------------------------------------------
 Nyan Koi!
 ----------------------------------------------------------------------------------------------------
+Uma Musume: Pretty Derby
+ - Uma Musume: Pretty Derby
+ - Uma Musume: Pretty Derby Season 2
+----------------------------------------------------------------------------------------------------
 
 
 
@@ -1132,7 +1152,7 @@ Nyan Koi!
 
 ==================================
 => Note 8 <=
-=> 16
+=> 17
 ==================================
 
 Tsuredure Children (Tsurezure Children)
@@ -1206,11 +1226,7 @@ Cockroach Girls (Gokicha!!)
 => New Season <=
 ==================================
 
-The Eminence in Shadow (Kage no Jitsuryokusha ni Naritakute!) 2
-----------------------------------------------------------------------------------------------------
-Our Dating Story: The Experienced You and The Inexperienced Me (Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.)
-----------------------------------------------------------------------------------------------------
-The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo)
+
 ----------------------------------------------------------------------------------------------------
 
 
@@ -1278,15 +1294,8 @@ Assistant of Superstar
 
 
 
-// Maybe Powers
-https://myanimelist.net/anime/53881/Arknights__Touin_Kiro
-https://myanimelist.net/anime/8425/Gosick
-
-
 
 // Romance
-https://myanimelist.net/anime/34881/Aho_Girl
-https://myanimelist.net/anime/38816/Hello_World
 https://myanimelist.net/anime/2966/Ookami_to_Koushinryou
 https://myanimelist.net/anime/169/Shingetsutan_Tsukihime
 https://myanimelist.net/anime/30123/Akagami_no_Shirayuki-hime
@@ -1295,16 +1304,15 @@ https://myanimelist.net/anime/26351/Nagato_Yuki-chan_no_Shoushitsu
 
 
 // Random
-https://myanimelist.net/anime/35249/Uma_Musume__Pretty_Derby
 https://myanimelist.net/anime/52081/Edomae_Elf
 https://myanimelist.net/anime/20787/Black_Bullet
 https://myanimelist.net/anime/48753/Jahy-sama_wa_Kujikenai
 https://myanimelist.net/anime/50481/Eiyuuou_Bu_wo_Kiwameru_Tame_Tenseisu__Soshite_Sekai_Saikyou_no_Minarai_Kishi%E2%99%80
 https://myanimelist.net/anime/53438/Higeki_no_Genkyou_to_Naru_Saikyou_Gedou_Last_Boss_Joou_wa_Tami_no_Tame_ni_Tsukushimasu
 https://myanimelist.net/anime/40075/Koi_to_Producer__EVOL%C3%97LOVE
-
-
-
+https://myanimelist.net/anime/12291/Acchi_Kocchi
+https://myanimelist.net/anime/28825/Himouto_Umaru-chan
+https://myanimelist.net/anime/14921/RDG__Red_Data_Girl
 
 
 
