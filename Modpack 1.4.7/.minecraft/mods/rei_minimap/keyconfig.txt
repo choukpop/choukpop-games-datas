@@ -1,4 +1,4 @@
-Menu Key: P
+Menu Key: Slash
 Toggle Enable: None
 Toggle Render Type: None
 Toggle Zoom: Z

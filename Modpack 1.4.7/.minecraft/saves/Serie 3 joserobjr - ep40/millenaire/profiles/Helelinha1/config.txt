@@ -1,0 +1,1 @@
+village_diplomacy=212/73/389,5

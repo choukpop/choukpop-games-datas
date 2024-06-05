@@ -1,0 +1,3 @@
+quest:normanrasgullas;step:0;startTime:4734000;currentStepStartTime:4734000;villager:child,7077166893655473577,212/73/389;villager:startvillager,6720780414392040264,212/73/389
+quest:sweettrader;step:0;startTime:4764000;currentStepStartTime:4764000;villager:girl,465605741268777939,212/73/389;villager:startvillager,8996643029296623971,212/73/389
+quest:lumbermancider;step:0;startTime:4764000;currentStepStartTime:4764000;villager:startvillager,2625915318737327503,212/73/389

@@ -1,0 +1,18 @@
+COMANDOS INICIAIS
+
+/give all
+/give 102 999999
+/give 201 9999
+/give 202 99999
+/give 203 1000
+/give 204 1000
+/give 223 1000
+/give 224 1000
+/prop ue 1
+/prop nostamina 1
+/prop godmode 1
+/prop abyss 12
+/prop bplevel 50
+/prop worldlevel 8
+/prop unlockmap on
+/unlockall

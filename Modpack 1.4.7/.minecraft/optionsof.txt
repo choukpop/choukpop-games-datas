@@ -1,4 +1,4 @@
-ofRenderDistanceFine:96
+ofRenderDistanceFine:128
 ofLimitFramerateFine:0
 ofFogType:3
 ofFogStart:0.2
@@ -6,15 +6,15 @@ ofMipmapLevel:4
 ofMipmapLinear:false
 ofLoadFar:true
 ofPreloadedChunks:2
-ofOcclusionFancy:true
-ofSmoothFps:false
-ofSmoothWorld:false
+ofOcclusionFancy:false
+ofSmoothFps:true
+ofSmoothWorld:true
 ofAoLevel:1.0
 ofClouds:1
 ofCloudsHeight:1.0
 ofTrees:0
 ofGrass:1
-ofDroppedItems:1
+ofDroppedItems:2
 ofRain:1
 ofWater:1
 ofAnimatedWater:0
@@ -42,7 +42,7 @@ ofSky:true
 ofStars:true
 ofSunMoon:true
 ofChunkUpdates:1
-ofChunkLoading:1
+ofChunkLoading:0
 ofChunkUpdatesDynamic:false
 ofTime:0
 ofClearWater:true
