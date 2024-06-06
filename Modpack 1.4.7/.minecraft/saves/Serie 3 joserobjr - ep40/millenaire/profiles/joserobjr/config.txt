@@ -1,4 +1,0 @@
-village_diplomacy=212/73/389,5
-village_diplomacy=-414/74/-950,5
-village_diplomacy=747/70/-422,5
-village_diplomacy=1338/66/-212,5

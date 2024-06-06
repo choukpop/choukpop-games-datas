@@ -1,3 +1,0 @@
-Repère de bandits;409/66/43;banditlair;norman
-Ch'en;-539/60/-573;lonemayancave;mayan
-Meunier solitaire;1031/69/-169;lonemill;norman

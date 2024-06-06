@@ -1,4 +1,0 @@
-Saint-Pierre-l'océan;212/73/389;militaire;norman
-Maebashi;-414/74/-950;nogyo;japanese
-Le Bô-l'océan;747/70/-422;militaire;norman
-Achakari;1338/66/-212;indian_fort;hindi
