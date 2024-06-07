@@ -11,11 +11,11 @@ bobView:false
 anaglyph3d:false
 advancedOpengl:false
 fpsLimit:0
-difficulty:1
+difficulty:0
 fancyGraphics:false
 ao:true
 clouds:false
-skin:Faithful Tekkit Lite.zip
+skin:Fanver_Universal_1.4.x.zip
 lastServer:
 lang:en_US
 chatVisibility:0
