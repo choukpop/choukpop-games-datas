@@ -1,23 +1,32 @@
 
 https://wutheringlab.com
 
-https://wutheringlab.com/guide/coriolus-farming-guide
 https://wutheringlab.com/guide/laternberry-farming-guide
 https://wutheringlab.com/guide/iris-farming-guide
+https://wutheringlab.com/guide/coriolus-farming-guide
 https://wutheringlab.com/guide/belle-poppy-farming-guide
 
 
 
+https://wutheringlab.com/character/yinlin-build
+https://wutheringlab.com/character/rover-havoc-build
+https://wutheringlab.com/character/jianxin-build
+https://wutheringlab.com/character/calcharo-build
+https://wutheringlab.com/character/mortefi-build
+https://wutheringlab.com/character/verina-build
+
+
+
+
+
 Characters Pulls:
- - Yinlin
+ - Changli
 
 
 
 Characters want to Build:
- - Yinlin
  - Baizhi
  - Rover (Havoc)
- - Mortefi
 
 
 
@@ -45,9 +54,12 @@ Characters Ascend Materials
  - Lingyang
 
 
+===> Missions
+==> Daily
+ - The Fabled Magnetic Cube Mechanics Prelude
 
-
-
+==> Others
+ - 
 
 
 
