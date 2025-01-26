@@ -1,369 +1,334 @@
 
 https://genshin-impact.fandom.com/wiki/Parametric_Transformer
 https://genshin-impact.fandom.com/wiki/NPC#Vendor_NPCs
-https://genshin-impact.fandom.com/wiki/Fishing#List_of_Fish
 
 https://genshin-impact.fandom.com/wiki/Delaroche
 
 
 
-Characters Pulls:
- - Neuvillette
- - Ayaka
- - Yoimiya
+https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_Breakthrough_Thinking (Xiangling's Ending)
+https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_The_Importance_of_Eating_Well
+https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_Where%27d_the_Ingredients_Go%3F
+Gourmet Supremos: Within Our Duties - MISSAO DIARIA INAZUMA (The Gourmet Supremos: Where'd the Ingredients Go?)
+
+
+
+https://genshin-impact.fandom.com/wiki/Hmm%3F_Natlan%3F
+
+
+
+https://game8.co/games/Genshin-Impact/archives/486173
+[Cana de Pesca]
+Veloz Lutador do Magma
+Chifrado Pseudoflogistico
+Solar da Onde Verde
+Solar do Crspusculo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+⊰◇⊱───────────────⊰◆⊱⊰◆⊱⊰◆⊱───────────────⊰◇⊱ ✅❌
+Road Map 5.3 - 5.7
+
+5.3:
+ - Mavuika
+ - Xianyun
  - Shenhe
+ - Citlali
+ - Chronicled Banner
+5.4:
+ - Furina
+ - Wriothesley
+ - Hydro Xiao???
+ - Kokomi / Cyno / Ayato
+5.5:
+ - Venti
+ - Iansan
+ - 5* Electro???
+ - Albedo / Eula / Kley
+5.6:
+ - Mualani
+ - Capitano / Columbina
+ - Sigewinne / Clorinde
+ - Kokomi / Xilonen
+5.7:
+ - Mavuika
+ - 5* NEW???
+ - Yoimiya
+ - Kinich / Chasca / Citlali
 
- - Raiden C2
+
+
+
+
+⊰◇⊱───────────────⊰◆⊱⊰◆⊱⊰◆⊱───────────────⊰◇⊱ ✅❌
+Mavuika Banner - 5.3? (https://gensh.honeyhunterworld.com/mavuika_106/?lang=EN)
+   - Weapon (https://gensh.honeyhunterworld.com/i_n12514/?lang=EN)
+   - C0
+
+Yae Miko Banner - x.x?
+   - Weapon (https://gensh.honeyhunterworld.com/i_n14509/?lang=PT) ✅
+
+Furina Banner - 5.x?
+   - C1
+   - Weapon (https://gensh.honeyhunterworld.com/i_n11513/?lang=PT) ✅
+
+Alhaitham Banner - x.x? (https://gensh.honeyhunterworld.com/alhatham_078/?lang=PT) ✅
+   - Weapon (https://gensh.honeyhunterworld.com/i_n11512/?lang=PT) ✅
+
+Navia Banner - x.x? (https://gensh.honeyhunterworld.com/navia_091/?lang=PT) ✅ - Cristal Caleidoscopico
+   - Weapon (https://gensh.honeyhunterworld.com/i_n12512/?lang=PT) - Mecautomatos / Only Books
+
+Arlecchino Banner - 5.3?
+   - Weapon (https://gensh.honeyhunterworld.com/i_n13512/?lang=PT) - Punho Incandescente / Ascended Item Weapon / Engrenagem Dinamica
+
+Clorinde Banner - x.x? (https://gensh.honeyhunterworld.com/clorinde_098/?lang=PT) ✅ - Cristal Caleidoscopico / Constancia do Servo
+   - Weapon (https://gensh.honeyhunterworld.com/i_n11515/?lang=PT) - Mecautomatos / Only Books
+
+
+
+
+
+⊰◇⊱───────────────⊰◆⊱⊰◆⊱⊰◆⊱───────────────⊰◇⊱
+Characters Pulls:
+ - Mavuika
+ - Yoimiya
+
+ - Shenhe (https://keqingmains.com/shenhe/#Substats) (nao vou pegar na 5.x pq deve vir na mesma versao da mavuika)
  - Alhaitham
- - Nahida
 
-
-
-
-
-
-
-
-Builds Characters don't have:
- - Lynette -> Alhaitham
- - Diona   -> Neuvillette
- - Collei  -> Yoimiya
- - Kirara  -> Ayaka
- - Candace -> Shenhe
-
-
-
-Characters Ascension Items (Boss): ✔️❌
- - Cyno
- - Charlotte
+ - Yelan C1
+ - Raiden C2
  - Navia
- - Kuki Shinobu
+ - Clorinde
+
+ - Xianyun
+
+
+
+
+
+⊰◇⊱───────────────⊰◆⊱⊰◆⊱⊰◆⊱───────────────⊰◇⊱ ✅❌
+Builds Characters don't have:
+ - Collei   -> Yoimiya ✅
+ - Gorou    -> Xilonen DPS ❌
+ - Kirara   -> Alhaitham ✅
+ - Mika     -> Shenhe ✅
+
+
+
+
+
+⊰◇⊱───────────────⊰◆⊱⊰◆⊱⊰◆⊱───────────────⊰◇⊱
+Builds Characters (WIP): https://game8.co/games/Genshin-Impact/archives/305858
+=== Pyro / Hydro / Dendro / Electro / Anemo / Cryo / Geo
+ - Arlecchino (Can Improve)
+ - Hutao (Can Improve)
+ - Furina (Can Improve)
+ - Kokomi (Can Improve)
+ - Yae Miko (Can Improve)
+ - Raiden Shogun (Can Improve)
+ - Kazuha (Can Improve)
+ - Ganyu (Can Improve)
+ - Ayaka (Can Improve)
+ - Zhongli (Can Improve)
+
+ - Yanfei (Can Improve)
+ - Bennet (Can Improve)
+ - Xiangling (Can Improve)
+ - Xingqiu (Can Improve)
+ - Mona (Can Improve)
+ - Cyno (Build)
+ - Charlotte (Can Improve)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+⊰◇⊱───────────────⊰◆⊱⊰◆⊱⊰◆⊱───────────────⊰◇⊱
+Characters Ascension Items (Boss): ✔️❌
+ - Alhaitham
+ - Navia
  - Wanderer
  - Jean
- - Yunjin
+ - Dehya
 
-===> Oceanid (https://genshin.honeyhunterworld.com/i_202/?lang=PT)
- - Barbara (20)
- - Xingqiu (20+12)
- - Tartaglia (20+12+8+4+2) ❌
-===> Hypostasis Electro (https://genshin.honeyhunterworld.com/i_203/?lang=PT)
- - Razor (20+12+8+4+2)
- - Beidou (20+12+8+4+2)
- - Fischl (20+12)
- - Keqing (20+12+8+4+2)
-===> Matriz de Controle Semi-perpétua (https://genshin.honeyhunterworld.com/i_n113039/?lang=PT)
- - Candace (20+12+8+4+2)
- - Faruzan (20+12+8+4+2)
- - Dehya (20+12+8+4+2)
-===> Gerador de Campo Experimental (https://genshin.honeyhunterworld.com/i_n113052/?lang=PT)
- - Charlotte (20+12)
-===> Regisvine Electro (https://genshin.honeyhunterworld.com/i_n113037/?lang=PT)
- - Dori (20+12+8+4+2)
- - Cyno (20+12+8)
-===> Semente de Fogo Eterno (https://genshin.honeyhunterworld.com/i_201/?lang=PT)
- - Diluc (20+12+8+4+2)
- - Amber (20+12+8+4)
- - Klee (20+12+8+4+2) ❌
- - Xinyan (20+12+8+4+2)
-===> Núcleo de Geada (https://genshin.honeyhunterworld.com/i_204/?lang=PT)
- - Qiqi (20+12+8)
- - Chongyun (20+12+8+4+2) ❌
- - Diona (20+12+8+4+2)
- - Rosaria (20+12)
-===> Componente Mecânico Reserva: Coppelius (https://genshin.honeyhunterworld.com/i_n113050/?lang=PT)
- - Freminet (20+12+8+4+2)
- - Navia (20+12+8+4+2) ❌
-===> Coração do Mecanismo Contínuo (https://genshin.honeyhunterworld.com/i_211/?lang=PT)
- - Gorou (20+12+8+4+2)
-===> Anel da Melancolia Eterna (https://genshin.honeyhunterworld.com/i_n113045/?lang=PT)
- - Kirara (20+12+8+4+2)
- - Baizhu (20+12+8+4+2) ❌
-===> Presa Rúnica (https://genshin.honeyhunterworld.com/i_486/?lang=PT)
- - Shikanoin Heizou (20+12+8+4+2)
- - Kuki Shinobu (20+12+8+4+2)
-===> Calibre Perpétuo (https://genshin.honeyhunterworld.com/i_n113038/?lang=PT)
- - Nilou (20+12+8+4+2) ❌
- - Layla (20+12)
- - Wanderer (20+12+8+4+2) ❌
-===> Componente Mecânico Reserva: Coppelia (https://genshin.honeyhunterworld.com/i_n113049/?lang=PT)
- - Lynette (20+12+8+4+2)
-===> Falso Estame (https://genshin.honeyhunterworld.com/i_n113044/?lang=PT)
- - Alhaitham (20+12+8+4+2) ❌
- - Mika (20+12+8+4+2)
-===> Torre da Terra (https://genshin.honeyhunterworld.com/i_206/?lang=PT)
- - Ningguang (20+12+8+4+2)
- - Noelle (20+12+8+4+2)
- - Albedo (20+12+8+4+2) ❌
-===> Núcleo de Marionete (https://genshin.honeyhunterworld.com/i_210/?lang=PT)
- - Sayu (20+12+8+4)
-===> Semente de Furacão (https://genshin.honeyhunterworld.com/i_205/?lang=PT)
- - Jean (20+12+8+4+2) ❌
- - Venti (20+12+8+4+2) ❌
- - Sucrose (20+12)
-===> Pérola Ardente (https://genshin.honeyhunterworld.com/i_212/?lang=PT)
- - Yoimiya (20+12+8+4+2) ❌
- - Thoma (20+12+8+4+2)
-===> Chifre do Rei Canino (https://genshin.honeyhunterworld.com/i_215/?lang=PT)
- - Arataki Itto (20+12+8+4+2) ❌
- - Yunjin (20+12+8+4+2)
-===> Chifre de Água do Mar Primoridal (https://genshin.honeyhunterworld.com/i_n113053/?lang=PT)
- - Chevreuse (20+12+8+4+2) ❌
-===> 
+
+
+
+
+⊰◇⊱───────────────⊰◆⊱⊰◆⊱⊰◆⊱───────────────⊰◇⊱
+Characters Ascension Items (Items / Books):
+ - 
+ - 
  - 
 
 
 
-Characters Ascension Items: ✔️❌❗
-===> Gancho do Lobo (https://genshin.honeyhunterworld.com/i_613/?lang=PT)
- - Razor
- - Mika
-===> Jade Nocticulosa (https://genshin.honeyhunterworld.com/i_606/?lang=PT)
- - Beidou
-===> Lâmpada de Grama (https://genshin.honeyhunterworld.com/i_609/?lang=PT)
- - Diluc
- - Amber
- - Fischl
-===> Cor Lapis (https://genshin.honeyhunterworld.com/i_602/?lang=PT)
- - Chongyun
- - Keqing
-===> Bagas de Espinheiro (https://genshin.honeyhunterworld.com/i_n101220/?lang=PT)
- - Candace
- - Faruzan
-===> Cogumelo Philanemo (https://genshin.honeyhunterworld.com/i_607/?lang=PT)
- - Barbara
- - Klee
- - Mona
-===> Violeta (https://genshin.honeyhunterworld.com/i_611/?lang=PT)
- - Qiqi
- - Xinyan
- - Baizhu
-===> Lótus de Leite (https://genshin.honeyhunterworld.com/i_600/?lang=PT)
- - Diona
-===> Lótus Kalpalata (https://genshin.honeyhunterworld.com/i_n101217/?lang=PT)
- - Dori
- - Nahida ✔️
-===> Flor Rociomarinha (https://genshin.honeyhunterworld.com/i_n101233/?lang=PT)
- - Freminet
-===> Pérola Sango (https://genshin.honeyhunterworld.com/i_685/?lang=PT)
- - Gorou
-===> Lótus Nilotpala (https://genshin.honeyhunterworld.com/i_n101215/?lang=PT)
- - Layla
-===> Campânula Lumidouce (https://genshin.honeyhunterworld.com/i_n101235/?lang=PT)
- - Lynette
- - Chevreuse
-===> Medula de Cristal (https://genshin.honeyhunterworld.com/i_679/?lang=PT)
- - Sayu
-===> Onikabuto (https://genshin.honeyhunterworld.com/i_677/?lang=PT)
- - Arataki Itto
- - Shikanoin Heizou
-===> Pétalas da Flor de Sakura (https://genshin.honeyhunterworld.com/i_678/?lang=PT)
- - Ayaka
- - Ayato
+✅❌
+⊰◇⊱───────────────⊰◆⊱⊰◆⊱⊰◆⊱───────────────⊰◇⊱
+===> Semente de Furacão
+ - Sucrose (20 ✅)
+ - Venti ❌
+
+===> Prisma do Relâmpago
+ - Keqing (2 / 4 / 8 / 12 / 20 ✅)
+ - Fischl (20 ✅)
+ - Razor (2 / 4 / 8 / 12 / 20 ✅)
+ - Beidou (2 / 4 / 8 / 12 / 20 ✅)
+
+===> Torre da Terra
+ - Ningguang (12 / 20 ✅)
+ - Noelle (4 / 8 / 12 / 20 ✅)
+ - Albedo ❌
+
+===> Núcleo de Geada
+ - Qiqi (8 / 12 / 20 ✅)
+ - Chongyun (2 / 4 / 8 / 12 / 20 ✅)
+ - Diona (2 / 4 / 8 / 12 / 20 ✅)
+ - Rosaria (12 / 20 ✅)
+
+===> Semente de Fogo Eterno
+ - Diluc (2 / 4 / 8 / 12 / 20 ✅)
+ - Amber (2 / 4 / 8 / 12 / 20 ✅)
+ - Klee ❌
+ - Xinyan (2 / 4 / 8 / 12 / 20 ✅)
+
+===> Coração Purificador
+ - Barbara (20 ✅)
+ - Xingqiu (20 ✅)
+ - Tartaglia ❌
+
+===> Jade Juvenil
+ - Xiao ❌
+
+===> Florescimento Cristalino
+ - Eula ❌
+
+===> Núcleo de Marionete
+ - Sayu (4 / 8 / 12 / 20 ✅)
+
+===> Coração do Mecanismo Contínuo
+ - Gorou (2 / 4 / 8 / 12 / 20 ✅)
+
+===> Pérola Ardente
+ - Yoimiya ❌
+ - Thoma (2 / 4 / 8 / 12 / 20 ✅)
+
+===> Orvalho da Repudiação
+ - Ayato ❌
+
+===> Chifre do Rei Canino
+ - Itto ❌
+ - Yunjin (2 / 4 / 8 / 12 / 20 ✅)
+
+===> Barbatana Falsa do Dragão Herdeiro das Profundezas	
+ - Shenhe ❌
+
+===> Presa Rúnica
+ - Heizou (2 / 4 / 8 / 12 / 20 ✅)
+ - Kuki (2 / 4 / 8 / 12 / 20 ✅)
+
+===> Bico-Gancho do Terrorgumelo
+ - Colei (2 / 4 / 8 / 12 / 20 ✅)
+
+===> Fruto do Trovão
+ - Dori (2 / 4 / 8 / 12 / 20 ✅)
+ - Cyno  (12 / 20 ✅)
+
+===> Calibre Perpétuo
+ - Nilou ❌
+ - Layla (12 / 20 ✅)
+ - Wanderer ❌
+
+===> Tetraedro da Luz Guiadora
+ - Candace (2 / 4 / 8 / 12 / 20 ✅)
+ - Faruzen (2 / 4 / 8 / 12 / 20 ✅)
+ - Dehya (2 / 4 / 8 / 12 / 20 ✅)
+
+===> Vinhas da Destruição
+ - Yaoyao (2 / 4 / 8 / 12 / 20 ✅)
+ - Kaveh ❌
+
+===> Falso Estame
+ - Alhaitham ❌
+ - Mika (2 / 4 / 8 / 12 / 20 ✅)
+
+===> Anel da Melancolia Eterna
+ - Kirara (2 / 4 / 8 / 12 / 20 ✅)
+ - Baizhu ❌
+
+===> Componente Mecânico Reserva: Coppelia
+ - Lynette (2 / 4 / 8 / 12 / 20 ✅)
+ - Chiori ❌
+
+===> Componente Mecânico Reserva: Coppelius
+ - Freminet (2 / 4 / 8 / 12 / 20 ✅)
+ - Navia ❌
+
+===> Resolução do Imperador
+ - Lynei ❌
+ - Gaming (2 / 4 / 8 / 12 / 20 ✅)
+
+===> "Dispositivo Tubion"
+ - Wriothesley ❌
+
+===> Chifre de Água do Mar Primoridal
+ - Chevreuse (2 / 4 / 8 / 12 / 20 ✅)
+ - Clorinde ❌
+
+===> Água Que Falhou de Transcender
+ - Sigewinne ❌
+
+===> Escamas de Linha das Nuvens
+ - Xianyun ❌
+ - Sethos (2 / 4 / 8 / 12 / 20 ✅)
+
+===> Fragmento da Melodia Dourada
+ - Emilie ❌
+
+===> Marca da Bênção Vinculadora
+ - Mualani ❌
+
+===> Fogorromã Madura
+ - Kachina (2 / 4 / 8 / 12 / 20 ✅)
+ - Kinich ❌
+
+===> Núcleo da Fonte Secreta com Inscrição Dourada
+ - Xilonen ❌
+
 ===> 
  - 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Characters: ✔️❌
- - Tartaglia [https://genshin.honeyhunterworld.com/tartaglia_033/?lang=EN] ❌
- - Shenhe [https://genshin.honeyhunterworld.com/shenhe_063/?lang=EN] ❌
- - Xiao [https://genshin.honeyhunterworld.com/xiao_026/?lang=EN] ❌
- - Nahida [https://genshin.honeyhunterworld.com/nahida_073/?lang=EN] ✔️
- - Ayato [https://genshin.honeyhunterworld.com/ayato_066/?lang=EN] ❌
- - Wanderer [https://genshin.honeyhunterworld.com/wanderer_075/?lang=EN] ❌
- - Yoimiya [https://genshin.honeyhunterworld.com/yoimiya_049/?lang=EN] ✔️
- - Ayaka [https://genshin.honeyhunterworld.com/ayaka_002/?lang=EN] ✔️
- - Jean [https://genshin.honeyhunterworld.com/qin_003/?lang=EN] ❌
- - Zhongli [https://genshin.honeyhunterworld.com/zhongli_030/?lang=EN] ✔️
- - Neuvillette [https://genshin.honeyhunterworld.com/neuvillette_087/?lang=EN] ✔️
-
-
-
-Boss Farms:
-[Stormterror]
-Jean
-
-[Lupus Boreas, Dominator of Wolves]
-Venti, Xingqiu, Keqing, Sucrose, Fischl, Ningguang, Barbara
-
-[Childe]
-Zhongli, Tartaglia, Xiao, Rosaria, Diona
-
-[Azhdaha]
-Yoimiya, Ayaka
-
-[La Signora]
-Shenhe, Yun Jin, Kujou Sara
-
-[Magatsu Mitake Narukami no Mikoto]
-Ayato, Cyno, Kuki Shinobu, Shikanoin Heizou, Candace
-
-[Shouki no Kami, the Prodigal]
-Nahida, Faruzan, Alhaitham, Layla, Wanderer
-
-[Guardian of Apep's Oasis]
-Lynette, Neuvillette
-
-
-
- - Kuki Shinobu ✔️ [https://genshin.honeyhunterworld.com/shinobu_065/?lang=EN]
- - Shikanoin Heizou [https://genshin.honeyhunterworld.com/heizo_059/?lang=EN]
-
- - Diona [https://genshin.honeyhunterworld.com/diona_039/?lang=EN]
- - Rosaria [https://genshin.honeyhunterworld.com/rosaria_045/?lang=EN]
-
- - Faruzan [https://genshin.honeyhunterworld.com/faruzan_076/?lang=EN]
- - Candace [https://genshin.honeyhunterworld.com/candace_072/?lang=EN]
-
- - Lynette [https://genshin.honeyhunterworld.com/linette_083/?lang=EN]
-
- - Yun Jin [https://genshin.honeyhunterworld.com/yunjin_064/?lang=EN]
-
- - Keqing ✔️ [https://genshin.honeyhunterworld.com/keqing_042/?lang=EN]
- - Fischl [https://genshin.honeyhunterworld.com/fischl_031/?lang=EN]
-
- - Kujou Sara ✔️ [https://genshin.honeyhunterworld.com/sara_056/?lang=EN]
-
- - Layla ✔️ [https://genshin.honeyhunterworld.com/layla_074/?lang=EN]
- - Wanderer [https://genshin.honeyhunterworld.com/wanderer_075/?lang=EN]
-
- - Ningguang [https://genshin.honeyhunterworld.com/ningguang_027/?lang=EN]
- - Zhongli ✔️ [https://genshin.honeyhunterworld.com/zhongli_030/?lang=EN]
-
- - Cyno [https://genshin.honeyhunterworld.com/cyno_071/?lang=EN]
-
- - Xingqiu ✔️ [https://genshin.honeyhunterworld.com/xingqiu_025/?lang=EN]
- - Barbara ✔️ [https://genshin.honeyhunterworld.com/barbara_014/?lang=EN]
- - Tartaglia [https://genshin.honeyhunterworld.com/tartaglia_033/?lang=EN]
-
- - Sucrose ✔️ [https://genshin.honeyhunterworld.com/sucrose_043/?lang=EN]
- - Jean [https://genshin.honeyhunterworld.com/qin_003/?lang=EN]
- - Venti [https://genshin.honeyhunterworld.com/venti_022/?lang=EN]
-
- - Xiao [https://genshin.honeyhunterworld.com/xiao_026/?lang=EN]
-
- - Alhaitham [https://genshin.honeyhunterworld.com/alhatham_078/?lang=EN]
-
- - Neuvillette ✔️ [https://genshin.honeyhunterworld.com/neuvillette_087/?lang=EN]
-
-
-
-
-
-
-
-
-Enemies: ✔️❌
- - Slimes [https://genshin.honeyhunterworld.com/i_23/?lang=EN] ❌
-
- - All Below [https://genshin.honeyhunterworld.com/i_33/?lang=EN] ❌
- - Samachurls [https://genshin.honeyhunterworld.com/i_43/?lang=EN] ❌
- - Hilichurls Arqueiros [https://genshin.honeyhunterworld.com/i_53/?lang=EN] ❌
- - Mitachurls / Lavachurls [https://genshin.honeyhunterworld.com/i_63/?lang=EN] ❌
-
- - Feiticeiro Abismo  [https://genshin.honeyhunterworld.com/i_73/?lang=EN] ❌
-
- - Guardas das Ruinas / Cacadores das Ruinas [https://genshin.honeyhunterworld.com/i_83/?lang=EN] ❌
- - Feiticeiros Cicin de Fatui [https://genshin.honeyhunterworld.com/i_93/?lang=EN] ❌
- - Cobradires de Dividas Fatui [https://genshin.honeyhunterworld.com/i_103/?lang=EN] ❌
- - Soldados dos Fatui / Agentes de Dividas / Feiticeiros Cicin [https://genshin.honeyhunterworld.com/i_113/?lang=EN] ❌
- - Ladroes de Tesouro [https://genshin.honeyhunterworld.com/i_123/?lang=EN] ❌
- - Flores Gigantes [https://genshin.honeyhunterworld.com/i_133/?lang=EN] ❌
- - Crias de Dragarto Geo / Dragartos Geo / Dragartos Profundezas [https://genshin.honeyhunterworld.com/i_143/?lang=EN] ❌
- - Nobushi [https://genshin.honeyhunterworld.com/i_163/?lang=EN] ❌
- - Soldados das Ruinas [https://genshin.honeyhunterworld.com/i_173/?lang=EN] ❌
- - Dama de Snezhnaya [https://genshin.honeyhunterworld.com/i_183/?lang=EN] ❌
- - Espectros [https://genshin.honeyhunterworld.com/i_187/?lang=EN] ❌
- - Caninos da Fenda [https://genshin.honeyhunterworld.com/i_176/?lang=EN] ❌
- - Sepertes Negras [https://genshin.honeyhunterworld.com/i_153/?lang=EN] ❌
-
- - Cogumelos (sem Pyro / Electro) [https://genshin.honeyhunterworld.com/i_n112061/?lang=EN] ❌ / (com Pyro / Electro) [https://genshin.honeyhunterworld.com/i_n112064/?lang=EN] ❌
- - Eremitas [https://genshin.honeyhunterworld.com/i_n112067/?lang=EN] ❌
- - Dragao das Ruinas [https://genshin.honeyhunterworld.com/i_n112070/?lang=EN] ❌
- - Estruturas Primordiais [https://genshin.honeyhunterworld.com/i_n112073/?lang=EN] ❌
-
- - Mecautômato [https://genshin.honeyhunterworld.com/i_n112085/?lang=EN]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Builds:
-=> Yelan
- - 30k HP
-
-=> Kujou Sara (https://www.instagram.com/p/CmhSWhoKDbF) [Team]
- - 50% Rate : 100% Damage
- - 180% ER
- - 1500 ATK
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ - 
+ - 
 
 
 
