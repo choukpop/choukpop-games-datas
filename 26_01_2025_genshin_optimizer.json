@@ -381,9 +381,9 @@
             "level": 90,
             "ascension": 6,
             "talent": {
-                "auto": 2,
-                "skill": 8,
-                "burst": 9
+                "auto": 6,
+                "skill": 9,
+                "burst": 10
             },
             "constellation": 0,
             "id": "Mavuika"
@@ -9819,13 +9819,13 @@
                     "compareBuildTcId": ""
                 }
             ],
-            "lastEdit": 1737874118589,
+            "lastEdit": 1737956843959,
             "id": "team_0"
         }
     ],
     "dbMeta": {
         "name": "Database 1",
-        "lastEdit": 1737874316486,
+        "lastEdit": 1737957146208,
         "gender": "F"
     },
     "display_weapon": {
@@ -9916,7 +9916,7 @@
             "catalyst"
         ],
         "element": [
-            "anemo"
+            "pyro"
         ],
         "rarity": [
             5,
