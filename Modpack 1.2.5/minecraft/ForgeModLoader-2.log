@@ -1,8 +1,8 @@
-2024-05-06 04:20:08 [INFO] Forge Mod Loader version 2.2.106.176 for Minecraft c:1.2.5, s:1.2.5 loading
-2024-05-06 04:20:08 [INFO] Forge Mod Loader has detected optifine OptiFine_1.2.5_HD_C6, enabling compatibility features
-2024-05-06 04:20:08 [FINE] Attempting to load mods contained in the minecraft jar file and associated classes
-2024-05-06 04:20:08 [SEVERE] Unable to process our input to locate the minecraft code
-2024-05-06 04:20:18 [SEVERE] A critical error has occurred.
+2024-09-06 14:53:44 [INFO] Forge Mod Loader version 2.2.106.176 for Minecraft c:1.2.5, s:1.2.5 loading
+2024-09-06 14:53:44 [INFO] Forge Mod Loader has detected optifine OptiFine_1.2.5_HD_C6, enabling compatibility features
+2024-09-06 14:53:44 [FINE] Attempting to load mods contained in the minecraft jar file and associated classes
+2024-09-06 14:53:44 [SEVERE] Unable to process our input to locate the minecraft code
+2024-09-06 14:53:54 [SEVERE] A critical error has occurred.
 cpw.mods.fml.common.LoaderException
 	at cpw.mods.fml.common.ModClassLoader.getParentSources(ModClassLoader.java:77)
 	at cpw.mods.fml.common.Loader.load(Loader.java:384)
@@ -11,14 +11,14 @@ cpw.mods.fml.common.LoaderException
 	at net.minecraft.client.Minecraft.a(Minecraft.java:386)
 	at net.minecraft.client.Minecraft.run(Minecraft.java:738)
 	at java.base/java.lang.Thread.run(Thread.java:842)
-2024-05-06 04:20:18 [SEVERE] 0 mods loaded
+2024-09-06 14:53:54 [SEVERE] 0 mods loaded
 Optifine OptiFine_1.2.5_HD_C6
 Minecraft Forge 3.3.8.164
 FML v2.2.106.176
 Forge Mod Loader version 2.2.106.176 for Minecraft 1.2.5
 
-2024-05-06 04:20:19 [FINE] Beginning mod initialization
-2024-05-06 04:20:19 [FINE] Mod initialization complete
-2024-05-06 04:20:19 [FINE] Beginning mod post-initialization
-2024-05-06 04:20:19 [FINE] Mod post-initialization complete
-2024-05-06 04:20:19 [INFO] Forge Mod Loader load complete, 0 mods loaded
+2024-09-06 14:53:55 [FINE] Beginning mod initialization
+2024-09-06 14:53:55 [FINE] Mod initialization complete
+2024-09-06 14:53:55 [FINE] Beginning mod post-initialization
+2024-09-06 14:53:55 [FINE] Mod post-initialization complete
+2024-09-06 14:53:55 [INFO] Forge Mod Loader load complete, 0 mods loaded

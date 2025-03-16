@@ -1,4 +1,9 @@
 
+Alt + O + C + A -> autofit columns
+Alt + O + R + A -> autofit rows
+https://answers.microsoft.com/en-us/msoffice/forum/all/how-to-automatically-adjust-column-widths-in-excel/f88abb8b-7e65-40e6-8a03-83decab25420
+https://gensh.honeyhunterworld.com/fam_art_set/?lang=PT
+
 https://genshin-impact.fandom.com/wiki/Parametric_Transformer
 https://genshin-impact.fandom.com/wiki/NPC#Vendor_NPCs
 
@@ -6,23 +11,21 @@ https://genshin-impact.fandom.com/wiki/Delaroche
 
 
 
-https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_Breakthrough_Thinking (Xiangling's Ending)
-https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_The_Importance_of_Eating_Well
-https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_Where%27d_the_Ingredients_Go%3F
-Gourmet Supremos: Within Our Duties - MISSAO DIARIA INAZUMA (The Gourmet Supremos: Where'd the Ingredients Go?)
+https://www.hoyolab.com/article/17367380 - Perfectionist
 
 
 
-https://genshin-impact.fandom.com/wiki/Hmm%3F_Natlan%3F
+
+https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos#Achievements
+ - Boom Shaka-Laka, More Boom-Shaka-Laka
+ - Don't Blame the Mora!
 
 
 
-https://game8.co/games/Genshin-Impact/archives/486173
-[Cana de Pesca]
-Veloz Lutador do Magma
-Chifrado Pseudoflogistico
-Solar da Onde Verde
-Solar do Crspusculo
+
+
+
+
 
 
 
@@ -42,14 +45,8 @@ Solar do Crspusculo
 
 
 ⊰◇⊱───────────────⊰◆⊱⊰◆⊱⊰◆⊱───────────────⊰◇⊱ ✅❌
-Road Map 5.3 - 5.7
+Road Map 5.4 - 5.7
 
-5.3:
- - Mavuika
- - Xianyun
- - Shenhe
- - Citlali
- - Chronicled Banner
 5.4:
  - Furina
  - Wriothesley
@@ -60,15 +57,18 @@ Road Map 5.3 - 5.7
  - Iansan
  - 5* Electro???
  - Albedo / Eula / Kley
+ - Xianyun / Xilonen
 5.6:
  - Mualani
- - Capitano / Columbina
+ - Capitano? / Columbina?
  - Sigewinne / Clorinde
  - Kokomi / Xilonen
+ - Emilie / Kinich
 5.7:
  - Mavuika
+ - Skirk???
  - 5* NEW???
- - Yoimiya
+ - Yoimiya / Navia
  - Kinich / Chasca / Citlali
 
 
@@ -76,9 +76,8 @@ Road Map 5.3 - 5.7
 
 
 ⊰◇⊱───────────────⊰◆⊱⊰◆⊱⊰◆⊱───────────────⊰◇⊱ ✅❌
-Mavuika Banner - 5.3? (https://gensh.honeyhunterworld.com/mavuika_106/?lang=EN)
-   - Weapon (https://gensh.honeyhunterworld.com/i_n12514/?lang=EN)
-   - C0
+Arlecchino Banner
+   - Weapon (https://gensh.honeyhunterworld.com/i_n13512/?lang=PT) - Punho Incandescente / Ascended Item Weapon / Engrenagem Dinamica
 
 Yae Miko Banner - x.x?
    - Weapon (https://gensh.honeyhunterworld.com/i_n14509/?lang=PT) ✅
@@ -93,17 +92,32 @@ Alhaitham Banner - x.x? (https://gensh.honeyhunterworld.com/alhatham_078/?lang=P
 Navia Banner - x.x? (https://gensh.honeyhunterworld.com/navia_091/?lang=PT) ✅ - Cristal Caleidoscopico
    - Weapon (https://gensh.honeyhunterworld.com/i_n12512/?lang=PT) - Mecautomatos / Only Books
 
-Arlecchino Banner - 5.3?
-   - Weapon (https://gensh.honeyhunterworld.com/i_n13512/?lang=PT) - Punho Incandescente / Ascended Item Weapon / Engrenagem Dinamica
-
 Clorinde Banner - x.x? (https://gensh.honeyhunterworld.com/clorinde_098/?lang=PT) ✅ - Cristal Caleidoscopico / Constancia do Servo
    - Weapon (https://gensh.honeyhunterworld.com/i_n11515/?lang=PT) - Mecautomatos / Only Books
 
 
 
+⊰◇⊱───────────────⊰◆⊱⊰◆⊱⊰◆⊱───────────────⊰◇⊱ ✅❌
+Talents Characters:
+ - Zhongli
+ - Ganyu
+ - Ayaka
+ - Tighnari
+ - Arlecchino (NAO SEI)
+ - Hutao
+ - Lisa
+ - Bennet
+ - Mona
+ - Charlotte
+ - Kujou Sara
+ - Xiangling
+ - Sucrose
+ - Xingqiu
+ - 
 
 
-⊰◇⊱───────────────⊰◆⊱⊰◆⊱⊰◆⊱───────────────⊰◇⊱
+
+⊰◇⊱───────────────⊰◆⊱⊰◆⊱⊰◆⊱───────────────⊰◇⊱ ✅❌
 Characters Pulls:
  - Mavuika
  - Yoimiya
@@ -120,21 +134,15 @@ Characters Pulls:
 
 
 
-
-
 ⊰◇⊱───────────────⊰◆⊱⊰◆⊱⊰◆⊱───────────────⊰◇⊱ ✅❌
 Builds Characters don't have:
  - Collei   -> Yoimiya ✅
- - Gorou    -> Xilonen DPS ❌
  - Kirara   -> Alhaitham ✅
  - Mika     -> Shenhe ✅
 
 
 
-
-
-⊰◇⊱───────────────⊰◆⊱⊰◆⊱⊰◆⊱───────────────⊰◇⊱
-Builds Characters (WIP): https://game8.co/games/Genshin-Impact/archives/305858
+⊰◇⊱───────────────⊰◆⊱⊰◆⊱⊰◆⊱───────────────⊰◇⊱ ✅❌
 === Pyro / Hydro / Dendro / Electro / Anemo / Cryo / Geo
  - Arlecchino (Can Improve)
  - Hutao (Can Improve)
@@ -173,164 +181,13 @@ Builds Characters (WIP): https://game8.co/games/Genshin-Impact/archives/305858
 
 
 
-⊰◇⊱───────────────⊰◆⊱⊰◆⊱⊰◆⊱───────────────⊰◇⊱
+⊰◇⊱───────────────⊰◆⊱⊰◆⊱⊰◆⊱───────────────⊰◇⊱ ✅❌
 Characters Ascension Items (Boss): ✔️❌
  - Alhaitham
  - Navia
  - Wanderer
  - Jean
  - Dehya
-
-
-
-
-
-⊰◇⊱───────────────⊰◆⊱⊰◆⊱⊰◆⊱───────────────⊰◇⊱
-Characters Ascension Items (Items / Books):
- - 
- - 
- - 
-
-
-
-✅❌
-⊰◇⊱───────────────⊰◆⊱⊰◆⊱⊰◆⊱───────────────⊰◇⊱
-===> Semente de Furacão
- - Sucrose (20 ✅)
- - Venti ❌
-
-===> Prisma do Relâmpago
- - Keqing (2 / 4 / 8 / 12 / 20 ✅)
- - Fischl (20 ✅)
- - Razor (2 / 4 / 8 / 12 / 20 ✅)
- - Beidou (2 / 4 / 8 / 12 / 20 ✅)
-
-===> Torre da Terra
- - Ningguang (12 / 20 ✅)
- - Noelle (4 / 8 / 12 / 20 ✅)
- - Albedo ❌
-
-===> Núcleo de Geada
- - Qiqi (8 / 12 / 20 ✅)
- - Chongyun (2 / 4 / 8 / 12 / 20 ✅)
- - Diona (2 / 4 / 8 / 12 / 20 ✅)
- - Rosaria (12 / 20 ✅)
-
-===> Semente de Fogo Eterno
- - Diluc (2 / 4 / 8 / 12 / 20 ✅)
- - Amber (2 / 4 / 8 / 12 / 20 ✅)
- - Klee ❌
- - Xinyan (2 / 4 / 8 / 12 / 20 ✅)
-
-===> Coração Purificador
- - Barbara (20 ✅)
- - Xingqiu (20 ✅)
- - Tartaglia ❌
-
-===> Jade Juvenil
- - Xiao ❌
-
-===> Florescimento Cristalino
- - Eula ❌
-
-===> Núcleo de Marionete
- - Sayu (4 / 8 / 12 / 20 ✅)
-
-===> Coração do Mecanismo Contínuo
- - Gorou (2 / 4 / 8 / 12 / 20 ✅)
-
-===> Pérola Ardente
- - Yoimiya ❌
- - Thoma (2 / 4 / 8 / 12 / 20 ✅)
-
-===> Orvalho da Repudiação
- - Ayato ❌
-
-===> Chifre do Rei Canino
- - Itto ❌
- - Yunjin (2 / 4 / 8 / 12 / 20 ✅)
-
-===> Barbatana Falsa do Dragão Herdeiro das Profundezas	
- - Shenhe ❌
-
-===> Presa Rúnica
- - Heizou (2 / 4 / 8 / 12 / 20 ✅)
- - Kuki (2 / 4 / 8 / 12 / 20 ✅)
-
-===> Bico-Gancho do Terrorgumelo
- - Colei (2 / 4 / 8 / 12 / 20 ✅)
-
-===> Fruto do Trovão
- - Dori (2 / 4 / 8 / 12 / 20 ✅)
- - Cyno  (12 / 20 ✅)
-
-===> Calibre Perpétuo
- - Nilou ❌
- - Layla (12 / 20 ✅)
- - Wanderer ❌
-
-===> Tetraedro da Luz Guiadora
- - Candace (2 / 4 / 8 / 12 / 20 ✅)
- - Faruzen (2 / 4 / 8 / 12 / 20 ✅)
- - Dehya (2 / 4 / 8 / 12 / 20 ✅)
-
-===> Vinhas da Destruição
- - Yaoyao (2 / 4 / 8 / 12 / 20 ✅)
- - Kaveh ❌
-
-===> Falso Estame
- - Alhaitham ❌
- - Mika (2 / 4 / 8 / 12 / 20 ✅)
-
-===> Anel da Melancolia Eterna
- - Kirara (2 / 4 / 8 / 12 / 20 ✅)
- - Baizhu ❌
-
-===> Componente Mecânico Reserva: Coppelia
- - Lynette (2 / 4 / 8 / 12 / 20 ✅)
- - Chiori ❌
-
-===> Componente Mecânico Reserva: Coppelius
- - Freminet (2 / 4 / 8 / 12 / 20 ✅)
- - Navia ❌
-
-===> Resolução do Imperador
- - Lynei ❌
- - Gaming (2 / 4 / 8 / 12 / 20 ✅)
-
-===> "Dispositivo Tubion"
- - Wriothesley ❌
-
-===> Chifre de Água do Mar Primoridal
- - Chevreuse (2 / 4 / 8 / 12 / 20 ✅)
- - Clorinde ❌
-
-===> Água Que Falhou de Transcender
- - Sigewinne ❌
-
-===> Escamas de Linha das Nuvens
- - Xianyun ❌
- - Sethos (2 / 4 / 8 / 12 / 20 ✅)
-
-===> Fragmento da Melodia Dourada
- - Emilie ❌
-
-===> Marca da Bênção Vinculadora
- - Mualani ❌
-
-===> Fogorromã Madura
- - Kachina (2 / 4 / 8 / 12 / 20 ✅)
- - Kinich ❌
-
-===> Núcleo da Fonte Secreta com Inscrição Dourada
- - Xilonen ❌
-
-===> 
- - 
- - 
- - 
-
-
 
 
 

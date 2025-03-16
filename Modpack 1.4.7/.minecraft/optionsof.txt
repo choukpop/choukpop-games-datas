@@ -5,11 +5,11 @@ ofFogStart:0.2
 ofMipmapLevel:0
 ofMipmapLinear:false
 ofLoadFar:false
-ofPreloadedChunks:0
+ofPreloadedChunks:2
 ofOcclusionFancy:false
 ofSmoothFps:false
 ofSmoothWorld:false
-ofAoLevel:0.0
+ofAoLevel:1.0
 ofClouds:3
 ofCloudsHeight:1.0
 ofTrees:1
@@ -42,7 +42,7 @@ ofSky:false
 ofStars:false
 ofSunMoon:true
 ofChunkUpdates:1
-ofChunkLoading:2
+ofChunkLoading:1
 ofChunkUpdatesDynamic:true
 ofTime:0
 ofClearWater:true
