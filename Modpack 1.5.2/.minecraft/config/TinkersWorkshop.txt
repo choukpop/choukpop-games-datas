@@ -200,7 +200,7 @@ tools {
     I:Excavator=14069
     I:"Frying Pan"=14058
     I:Hammer=14070
-    I:Hoe=31665
+    I:Hoe=31682
     I:Longbow=14062
     I:Longsword=14056
     I:"Lumber Axe"=14061
