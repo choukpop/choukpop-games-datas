@@ -3,7 +3,7 @@ sound:0.20422535
 invertYMouse:false
 mouseSensitivity:0.6056338
 fov:1.0
-gamma:1337.0
+gamma:0.0
 viewDistance:1
 guiScale:3
 particles:2
@@ -11,7 +11,7 @@ bobView:false
 anaglyph3d:false
 advancedOpengl:true
 fpsLimit:0
-difficulty:3
+difficulty:0
 fancyGraphics:false
 ao:true
 clouds:false
@@ -28,7 +28,7 @@ snooperEnabled:true
 fullscreen:false
 enableVsync:false
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 showCape:true
 touchscreen:false

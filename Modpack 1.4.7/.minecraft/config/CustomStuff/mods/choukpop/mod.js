@@ -1,57 +1,115 @@
 
+// mod.addRecipe("[product] [quantity]", [width], [height], [ingredient 1], [ingredient 2], [ingredient 3], [ingredient 4], [ingredient 5], [ingredient 6], [ingredient 7], [ingredient 8], [ingredient 9]);
+// mod.addShapelessRecipe("[product] [quantity]", [ingredient 1], [ingredient 2], [ingredient 3], [ingredient 4], [ingredient 5], [ingredient 6], [ingredient 7], [ingredient 8], [ingredient 9]);
+
+// mod.addAlias([block or item ID], "[alias name]");
+// mod.addAliasWithMetadata([block or item ID], [metadata number], "[alias name]");
+
+// mod.removeRecipe("[product] [quantity]", [width], [height], [ingredient 1], [ingredient 2], [ingredient 3], [ingredient 4], [ingredient 5], [ingredient 6], [ingredient 7], [ingredient 8], [ingredient 9]);
+// mod.removeShapelessRecipe("[product] [quantity]", [ingredient 1], [ingredient 2], [ingredient 3], [ingredient 4], [ingredient 5], [ingredient 6], [ingredient 7], [ingredient 8], [ingredient 9]);
+
+
+
 // Energy Crystal
-mod.addAliasWithMetadata(30241, 27, "energycrystal");
-mod.addRecipe("energycrystal 1", 3, 3, 331, 331, 331, 331, ":gemRuby", 331, 331, 331, 331);
+mod.addAliasWithMetadata(30241, 27, "energy_crystal");
+mod.addAlias(331, "redstone");
+mod.addRecipe("energy_crystal 1", 3, 3, "redstone", "redstone", "redstone", "redstone", ":gemRuby", "redstone", "redstone", "redstone", "redstone");
 
 // Lapotron Crystal
 // DONT USE IC2 RECIPE (HARD RECIPE)
-mod.addAliasWithMetadata(30240, 27, "lapotroncrystal");
-mod.addRecipe("lapotroncrystal 1", 3, 3, 22, 30191, 22, 30241, ":gemSapphire", 30241, 22, 30191, 22);
-mod.addRecipe("lapotroncrystal 1", 3, 3, 22, 30191, 22, 30241, 264, 30241, 22, 30191, 22);
+mod.addAliasWithMetadata(30240, 27, "lapotron_crystal");
+mod.addAlias(264, "diamond");
+mod.addRecipe("lapotron_crystal 1", 3, 3, 22, 30191, 22, 30241, ":gemSapphire", 30241, 22, 30191, 22);
+mod.addRecipe("lapotron_crystal 1", 3, 3, 22, 30191, 22, 30241, "diamond", 30241, 22, 30191, 22);
 
 
 
 // Irradiant Glass Pane
-mod.addAliasWithMetadata(30831, 5, "irradiantglasspane");
-mod.addAliasWithMetadata(30831, 2, "irradianturanium");
-mod.addRecipe("irradiantglasspane 1", 3, 3, 230, 230, 230, "irradianturanium", 230, "irradianturanium", 230, 230, 230);
+mod.addAliasWithMetadata(30831, 5, "irradiant_glass_pane");
+mod.addAliasWithMetadata(30831, 2, "irradiant_uranium");
+mod.addRecipe("irradiant_glass_pane 1", 3, 3, 230, 230, 230, "irradiant_uranium", 230, "irradiant_uranium", 230, 230, 230);
+
+// Iridium Iron Plate
+mod.addAliasWithMetadata(30831, 6, "iridium_iron_plate");
+mod.addAlias(30249, "refined_iron");
+mod.addAliasWithMetadata(30831, 10, "iridium_ingot");
+mod.addRecipe("iridium_iron_plate 1", 3, 3, "refined_iron", "refined_iron", "refined_iron", "refined_iron", "iridium_ingot", "refined_iron", "refined_iron", "refined_iron", "refined_iron");
+
+// Reinforced Iridium Iron Plate
+mod.addAliasWithMetadata(30831, 7, "reinforced_iridium_iron_plate");
+mod.addAlias(30187, "advanced_alloy");
+mod.addAlias(30150, "carbon_plate");
+mod.addRecipe("reinforced_iridium_iron_plate 1", 3, 3, "advanced_alloy", "carbon_plate", "advanced_alloy", "carbon_plate", "iridium_iron_plate", "carbon_plate", "advanced_alloy", "carbon_plate", "advanced_alloy");
+
+// Sunnarium Part
+mod.addAliasWithMetadata(30831, 9, "sunnarium_part");
+mod.addAlias(30188, "uu_matter");
+mod.addRecipe("sunnarium_part 1", 1, 3, "uu_matter", 348, "uu_matter");
+
+// Irradiant Reinforced Plate
+mod.addAliasWithMetadata(30831, 8, "irradiant_reinforced_plate");
+mod.addAliasWithMetadata(351, 4, "lapis_lazuli");
+mod.addRecipe("irradiant_reinforced_plate 1", 3, 3, "redstone", "sunnarium_part", "redstone", "lapis_lazuli", "reinforced_iridium_iron_plate", "lapis_lazuli", "redstone", "diamond", "redstone");
+
+
 
 // Advanced Solar Panel
-mod.addAliasWithMetadata(194, 0, "advancedsolarpanel");
-mod.addAliasWithMetadata(246, 3, "solarpanel");
-mod.addAliasWithMetadata(250, 12, "advancedmachineblock");
-mod.addRecipe("advancedsolarpanel 1", 3, 3, "irradiantglasspane", "irradiantglasspane", "irradiantglasspane", 30187, "solarpanel", 30187, 30190, "advancedmachineblock", 30190);
+mod.addAliasWithMetadata(194, 0, "advanced_solar_panel");
+mod.addAliasWithMetadata(246, 3, "solar_panel");
+mod.addAliasWithMetadata(250, 12, "advanced_machine_block");
+mod.addAlias(30190, "advanced_circuit");
+mod.addRecipe("advanced_solar_panel 1", 3, 3, "irradiant_glass_pane", "irradiant_glass_pane", "irradiant_glass_pane", "advanced_alloy", "solar_panel", "advanced_alloy", "advanced_circuit", "advanced_machine_block", "advanced_circuit");
 
 // Hybrid Solar Panel
-mod.addAliasWithMetadata(194, 1, "hybridsolarpanel");
-mod.addAliasWithMetadata(30831, 1, "sunnariumalloy");
-mod.addRecipe("hybridsolarpanel 1", 3, 3, "irradiantglasspane", "irradiantglasspane", "irradiantglasspane", 30147, "advancedsolarpanel", 30147, "sunnariumalloy", 30190, "sunnariumalloy");
+mod.addAliasWithMetadata(194, 1, "hybrid_solar_panel");
+mod.addAliasWithMetadata(30831, 1, "sunnarium_alloy");
+mod.addRecipe("hybrid_solar_panel 1", 3, 3, "irradiant_glass_pane", "irradiant_glass_pane", "irradiant_glass_pane", 30147, "advanced_solar_panel", 30147, "sunnarium_alloy", "irradiant_reinforced_plate", "sunnarium_alloy");
 
 // Ultimate Solar Panel
-mod.addAliasWithMetadata(194, 2, "ultimatesolarpanel");
-mod.addAliasWithMetadata(30831, 4, "enrichedsunnariumalloy");
-mod.addRecipe("ultimatesolarpanel 1", 3, 3, "irradiantglasspane", "irradiantglasspane", "irradiantglasspane", "sunnariumalloy", "hybridsolarpanel", "sunnariumalloy", "enrichedsunnariumalloy", 30190, "enrichedsunnariumalloy");
+mod.addAliasWithMetadata(194, 2, "ultimate_solar_panel");
+mod.addAliasWithMetadata(30831, 4, "enriched_sunnarium_alloy");
+mod.addRecipe("ultimate_solar_panel 1", 3, 3, "irradiant_glass_pane", "irradiant_glass_pane", "irradiant_glass_pane", "sunnarium_alloy", "hybrid_solar_panel", "sunnarium_alloy", "enriched_sunnarium_alloy", "irradiant_reinforced_plate", "enriched_sunnarium_alloy");
+
+
+
+// Advanced Solar Helmet
+mod.addAliasWithMetadata(30832, 0, "advanced_solar_helmet");
+mod.addAliasWithMetadata(30178, 0, "nanosuit_helmet");
+mod.addAliasWithMetadata(30184, 4, "2xins_gold_cable");
+mod.addAliasWithMetadata(227, 3, "lv_transformer");
+mod.addRecipe("advanced_solar_helmet 1", 3, 3, 0, "advanced_solar_panel", 0, "advanced_circuit", "nanosuit_helmet", "advanced_circuit", "2xins_gold_cable", "lv_transformer", "2xins_gold_cable");
+
+// Hybrid Solar Helmet
+mod.addAliasWithMetadata(30833, 0, "hybrid_solar_helmet");
+mod.addAliasWithMetadata(30184, 9, "glass_fibre_cable");
+mod.addAliasWithMetadata(227, 4, "mv_transformer");
+mod.addAliasWithMetadata(227, 5, "hv_transformer");
+mod.addAliasWithMetadata(30174, 0, "quantumsuit_helmet");
+mod.addRecipe("hybrid_solar_helmet 1", 3, 3, 0, "hybrid_solar_panel", 0, "advanced_circuit", "advanced_solar_helmet", "advanced_circuit", "glass_fibre_cable", "mv_transformer", "glass_fibre_cable");
+mod.addRecipe("hybrid_solar_helmet 1", 3, 3, 0, "hybrid_solar_panel", 0, "sunnarium_alloy", "quantumsuit_helmet", "sunnarium_alloy", "glass_fibre_cable", "hv_transformer", "glass_fibre_cable");
 
 // Ultimate Solar Helmet
-mod.addAliasWithMetadata(30476, 0, "ultimatesolarhelmet");
-mod.addAliasWithMetadata(227, 5, "hvtransformer");
+mod.addAliasWithMetadata(30834, 0, "IC2_ultimate_solar_helmet");
+mod.addAliasWithMetadata(30476, 0, "GS_ultimate_solar_helmet");
 mod.addAliasWithMetadata(30475, 1, "superconductor");
-mod.addRecipe("ultimatesolarhelmet 1", 3, 3, 0, "ultimatesolarpanel", 0, 30190, 30174, 30190, "superconductor", "hvtransformer", "superconductor");
+mod.addRecipe("IC2_ultimate_solar_helmet 1", 3, 3, 0, "ultimate_solar_panel", 0, "advanced_circuit", "quantumsuit_helmet", "advanced_circuit", "superconductor", "hv_transformer", "superconductor");
+mod.addRecipe("IC2_ultimate_solar_helmet 1", 3, 3, 0, "ultimate_solar_panel", 0, "enriched_sunnarium_alloy", "hybrid_solar_helmet", "enriched_sunnarium_alloy", "superconductor", "hv_transformer", "superconductor");
+mod.addShapelessRecipe("GS_ultimate_solar_helmet 1", "IC2_ultimate_solar_helmet");
+mod.addShapelessRecipe("IC2_ultimate_solar_helmet 1", "GS_ultimate_solar_helmet");
 
 
 
 // Refined Iron
 // DONT USE IC2 RECIPE (HARD RECIPE)
-mod.addAliasWithMetadata(30249, 0, "refinediron");
 mod.addAliasWithMetadata(263, 1, "charcoal");
-mod.removeShapelessRecipe("refinediron", 27002, 263, 265, 265, 265, 265, 265, 265, 265);
-mod.removeShapelessRecipe("refinediron", 27002, "charcoal", 265, 265, 265, 265, 265, 265, 265);
-mod.removeShapelessRecipe("refinediron", 27003, 263, 265, 265, 265, 265, 265, 265, 265);
-mod.removeShapelessRecipe("refinediron", 27003, "charcoal", 265, 265, 265, 265, 265, 265, 265);
+mod.removeShapelessRecipe("refined_iron", 27002, 263, 265, 265, 265, 265, 265, 265, 265);
+mod.removeShapelessRecipe("refined_iron", 27002, "charcoal", 265, 265, 265, 265, 265, 265, 265);
+mod.removeShapelessRecipe("refined_iron", 27003, 263, 265, 265, 265, 265, 265, 265, 265);
+mod.removeShapelessRecipe("refined_iron", 27003, "charcoal", 265, 265, 265, 265, 265, 265, 265);
 
 // Refined Iron Dust
-mod.addAliasWithMetadata(30031, 1, "refinedirondust");
-mod.addShapelessRecipe("refinedirondust 1", ":dustCoal", ":dustIron", ":dustIron");
+// mod.addAliasWithMetadata(30031, 1, "refined_iron_dust");
+// mod.addShapelessRecipe("refined_iron_dust 1", ":dustCoal", ":dustIron", ":dustIron");
 
 
 
