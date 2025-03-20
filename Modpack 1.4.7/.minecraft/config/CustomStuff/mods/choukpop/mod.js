@@ -122,8 +122,8 @@ mod.addRecipe("30217 1", 3, 3, 12258, 12258, 12258, 12258, 12258, 12258, 12258, 
 // Philosopher's Stone
 mod.addRecipe("27003 1", 3, 3, "iridium_iron_plate", 27002, "iridium_iron_plate", 27002, "advanced_machine_block", 27002, "iridium_iron_plate", 27002, "iridium_iron_plate");
 
-
-
+// Chest
+mod.addRecipe("54 4", 3, 3, ":logWood", ":logWood", ":logWood", ":logWood", 0, ":logWood", ":logWood", ":logWood", ":logWood");
 
 
 
