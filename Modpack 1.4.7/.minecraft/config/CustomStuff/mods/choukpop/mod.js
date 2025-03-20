@@ -116,9 +116,14 @@ mod.removeShapelessRecipe("refined_iron", 27003, "charcoal", 265, 265, 265, 265,
 // Valve Pipe
 mod.addRecipe("10456 1", 3, 1, 19436, 69, 19436);
 
-
-
 // Sticky Resin
 mod.addRecipe("30217 1", 3, 3, 12258, 12258, 12258, 12258, 12258, 12258, 12258, 12258, 12258);
+
+// Philosopher's Stone
+mod.addRecipe("27003 1", 3, 3, "iridium_iron_plate", 27002, "iridium_iron_plate", 27002, "advanced_machine_block", 27002, "iridium_iron_plate", 27002, "iridium_iron_plate");
+
+
+
+
 
 
