@@ -33,11 +33,11 @@ Show Slime Chunk: Disable
 Entities Radar: Disable
 Entity Player: Enable
 Entity Animal: Enable
-Entity Mob: Enable
-Entity Slime: Enable
-Entity Squid: Enable
-Entity Living: Enable
-Entity Lightning: Enable
+Entity Mob: Disable
+Entity Slime: Disable
+Entity Squid: Disable
+Entity Living: Disable
+Entity Lightning: Disable
 Entity Direction: Enable
 Marker: Enable
 Marker Icon: Enable

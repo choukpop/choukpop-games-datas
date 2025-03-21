@@ -73,29 +73,29 @@ mod.addRecipe("ultimate_solar_panel 1", 3, 3, "irradiant_glass_pane", "irradiant
 
 
 // Advanced Solar Helmet
-mod.addAliasWithMetadata(30832, 0, "advanced_solar_helmet");
-mod.addAliasWithMetadata(30178, 0, "nanosuit_helmet");
-mod.addAliasWithMetadata(30184, 4, "2xins_gold_cable");
-mod.addAliasWithMetadata(227, 3, "lv_transformer");
-mod.addRecipe("advanced_solar_helmet 1", 3, 3, 0, "advanced_solar_panel", 0, "advanced_circuit", "nanosuit_helmet", "advanced_circuit", "2xins_gold_cable", "lv_transformer", "2xins_gold_cable");
+// mod.addAliasWithMetadata(30832, 0, "advanced_solar_helmet");
+// mod.addAliasWithMetadata(30178, 0, "nanosuit_helmet");
+// mod.addAliasWithMetadata(30184, 4, "2xins_gold_cable");
+// mod.addAliasWithMetadata(227, 3, "lv_transformer");
+// mod.addRecipe("advanced_solar_helmet 1", 3, 3, 0, "advanced_solar_panel", 0, "advanced_circuit", "nanosuit_helmet", "advanced_circuit", "2xins_gold_cable", "lv_transformer", "2xins_gold_cable");
 
 // Hybrid Solar Helmet
-mod.addAliasWithMetadata(30833, 0, "hybrid_solar_helmet");
-mod.addAliasWithMetadata(30184, 9, "glass_fibre_cable");
-mod.addAliasWithMetadata(227, 4, "mv_transformer");
+// mod.addAliasWithMetadata(30833, 0, "hybrid_solar_helmet");
+// mod.addAliasWithMetadata(30184, 9, "glass_fibre_cable");
+// mod.addAliasWithMetadata(227, 4, "mv_transformer");
 mod.addAliasWithMetadata(227, 5, "hv_transformer");
 mod.addAliasWithMetadata(30174, 0, "quantumsuit_helmet");
-mod.addRecipe("hybrid_solar_helmet 1", 3, 3, 0, "hybrid_solar_panel", 0, "advanced_circuit", "advanced_solar_helmet", "advanced_circuit", "glass_fibre_cable", "mv_transformer", "glass_fibre_cable");
-mod.addRecipe("hybrid_solar_helmet 1", 3, 3, 0, "hybrid_solar_panel", 0, "sunnarium_alloy", "quantumsuit_helmet", "sunnarium_alloy", "glass_fibre_cable", "hv_transformer", "glass_fibre_cable");
+// mod.addRecipe("hybrid_solar_helmet 1", 3, 3, 0, "hybrid_solar_panel", 0, "advanced_circuit", "advanced_solar_helmet", "advanced_circuit", "glass_fibre_cable", "mv_transformer", "glass_fibre_cable");
+// mod.addRecipe("hybrid_solar_helmet 1", 3, 3, 0, "hybrid_solar_panel", 0, "sunnarium_alloy", "quantumsuit_helmet", "sunnarium_alloy", "glass_fibre_cable", "hv_transformer", "glass_fibre_cable");
 
 // Ultimate Solar Helmet
-mod.addAliasWithMetadata(30834, 0, "IC2_ultimate_solar_helmet");
+// mod.addAliasWithMetadata(30834, 0, "IC2_ultimate_solar_helmet");
 mod.addAliasWithMetadata(30476, 0, "GS_ultimate_solar_helmet");
 mod.addAliasWithMetadata(30475, 1, "superconductor");
-mod.addRecipe("IC2_ultimate_solar_helmet 1", 3, 3, 0, "ultimate_solar_panel", 0, "advanced_circuit", "quantumsuit_helmet", "advanced_circuit", "superconductor", "hv_transformer", "superconductor");
-mod.addRecipe("IC2_ultimate_solar_helmet 1", 3, 3, 0, "ultimate_solar_panel", 0, "enriched_sunnarium_alloy", "hybrid_solar_helmet", "enriched_sunnarium_alloy", "superconductor", "hv_transformer", "superconductor");
-mod.addShapelessRecipe("GS_ultimate_solar_helmet 1", "IC2_ultimate_solar_helmet");
-mod.addShapelessRecipe("IC2_ultimate_solar_helmet 1", "GS_ultimate_solar_helmet");
+mod.addRecipe("GS_ultimate_solar_helmet 1", 3, 3, 0, "ultimate_solar_panel", 0, "advanced_circuit", "quantumsuit_helmet", "advanced_circuit", "superconductor", "hv_transformer", "superconductor");
+// mod.addRecipe("GS_ultimate_solar_helmet 1", 3, 3, 0, "ultimate_solar_panel", 0, "enriched_sunnarium_alloy", "hybrid_solar_helmet", "enriched_sunnarium_alloy", "superconductor", "hv_transformer", "superconductor");
+// mod.addShapelessRecipe("IC2_ultimate_solar_helmet 1", "GS_ultimate_solar_helmet");
+// mod.addShapelessRecipe("GS_ultimate_solar_helmet 1", "IC2_ultimate_solar_helmet");
 
 
 
@@ -124,6 +124,9 @@ mod.addRecipe("27003 1", 3, 3, "iridium_iron_plate", 27002, "iridium_iron_plate"
 
 // Chest
 mod.addRecipe("54 4", 3, 3, ":logWood", ":logWood", ":logWood", ":logWood", 0, ":logWood", ":logWood", ":logWood", ":logWood");
+
+// Sticks
+mod.addRecipe("280 16", 1, 2, ":logWood", ":logWood");
 
 
 
