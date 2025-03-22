@@ -1,6 +1,6 @@
 
 OptiFine_1.4.6_HD_U_D5
-Fri Mar 21 18:02:27 GMT 2025
+Sat Mar 22 22:15:14 GMT 2025
 OS: Windows 11 (amd64) version 10.0
 Java: 1.8.0_441, Oracle Corporation
 VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
@@ -9,98 +9,98 @@ OpenGL: NVIDIA GeForce RTX 3060/PCIe/SSE2 version 4.6.0 NVIDIA 572.70, NVIDIA Co
 OpenGL Version: 4.0
 (Reflector) Class not present: LightCache
 (Reflector) Class not present: BlockCoord
-TextureFX registered: ic2.core.TextureLiquidFX@759404a0, texId: 11, index: 202
-TextureFX registered: bdj@486b732, texId: 19, index: 237
-TextureFX registered: bdm@232f7436, texId: 19, index: 205
-TextureFX registered: bdk@5eedbda, texId: 19, index: 14
-TextureFX registered: bdf@113512e, texId: 20, index: 54
-TextureFX registered: bde@53dfd922, texId: 20, index: 70
-TextureFX registered: bdl@252f1edb, texId: 19, index: 206
-TextureFX registered: bdi@38943b6b, texId: 19, index: 238
-TextureFX registered: bdh@267710ad, texId: 19, index: 31
-TextureFX registered: bdh@4de1d1fd, texId: 19, index: 47
-TextureFX removed: bdj@486b732, texId: 19, index: 237
-TextureFX registered: TextureHDLavaFX@2a3dbfdc, texId: 19, index: 237
-TextureFX removed: bdm@232f7436, texId: 19, index: 205
-TextureFX registered: TextureHDWaterFX@76c9de55, texId: 19, index: 205
-TextureFX removed: bdk@5eedbda, texId: 19, index: 14
-TextureFX registered: TextureHDPortalFX@4e35dece, texId: 19, index: 14
-TextureFX removed: bdl@252f1edb, texId: 19, index: 206
-TextureFX registered: TextureHDWaterFlowFX@304d7b23, texId: 19, index: 206
-TextureFX removed: bdi@38943b6b, texId: 19, index: 238
-TextureFX registered: TextureHDLavaFlowFX@534737c6, texId: 19, index: 238
-TextureFX removed: bdh@267710ad, texId: 19, index: 31
-TextureFX registered: TextureHDFlamesFX@a873474, texId: 19, index: 31
-TextureFX removed: bdh@4de1d1fd, texId: 19, index: 47
-TextureFX registered: TextureHDFlamesFX@6106bb98, texId: 19, index: 47
-TextureFX removed: bdf@113512e, texId: 20, index: 54
-TextureFX registered: TextureHDCompassFX@73495526, texId: 20, index: 54
-TextureFX removed: bde@53dfd922, texId: 20, index: 70
-TextureFX registered: TextureHDWatchFX@4c10166c, texId: 20, index: 70
+TextureFX registered: ic2.core.TextureLiquidFX@75a75, texId: 11, index: 202
+TextureFX registered: bdj@114701e8, texId: 19, index: 237
+TextureFX registered: bdm@2afc1476, texId: 19, index: 205
+TextureFX registered: bdk@484b753c, texId: 19, index: 14
+TextureFX registered: bdf@366b5653, texId: 20, index: 54
+TextureFX registered: bde@cdaeef2, texId: 20, index: 70
+TextureFX registered: bdl@907fede, texId: 19, index: 206
+TextureFX registered: bdi@760d2577, texId: 19, index: 238
+TextureFX registered: bdh@4807c6f3, texId: 19, index: 31
+TextureFX registered: bdh@74c1b30, texId: 19, index: 47
+TextureFX removed: bdj@114701e8, texId: 19, index: 237
+TextureFX registered: TextureHDLavaFX@4389299c, texId: 19, index: 237
+TextureFX removed: bdm@2afc1476, texId: 19, index: 205
+TextureFX registered: TextureHDWaterFX@77394d6c, texId: 19, index: 205
+TextureFX removed: bdk@484b753c, texId: 19, index: 14
+TextureFX registered: TextureHDPortalFX@a6fccc7, texId: 19, index: 14
+TextureFX removed: bdl@907fede, texId: 19, index: 206
+TextureFX registered: TextureHDWaterFlowFX@5a22a545, texId: 19, index: 206
+TextureFX removed: bdi@760d2577, texId: 19, index: 238
+TextureFX registered: TextureHDLavaFlowFX@287d8cc4, texId: 19, index: 238
+TextureFX removed: bdh@4807c6f3, texId: 19, index: 31
+TextureFX registered: TextureHDFlamesFX@751a61dd, texId: 19, index: 31
+TextureFX removed: bdh@74c1b30, texId: 19, index: 47
+TextureFX registered: TextureHDFlamesFX@26ab90fb, texId: 19, index: 47
+TextureFX removed: bdf@366b5653, texId: 20, index: 54
+TextureFX registered: TextureHDCompassFX@29e20bf4, texId: 20, index: 54
+TextureFX removed: bde@cdaeef2, texId: 20, index: 70
+TextureFX registered: TextureHDWatchFX@5bddecf7, texId: 20, index: 70
 Loading custom colors: /misc/grasscolor.png
 Loading custom colors: /misc/foliagecolor.png
-TextureFX registered: buildcraft.energy.render.TextureOilFX@2ec09fae, texId: 22, index: 205
-TextureFX registered: buildcraft.energy.render.TextureFuelFX@34bc0f0d, texId: 23, index: 0
-TextureFX registered: buildcraft.energy.render.TextureOilFlowFX@5ccd8266, texId: 22, index: 206
-TextureFX registered: com.pahimar.ee3.client.renderer.texturefx.TextureRedWaterFX@702ba3bb, texId: 111, index: 205
-TextureFX registered: com.pahimar.ee3.client.renderer.texturefx.TextureRedWaterFlowFX@fc4c582, texId: 111, index: 206
-TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@49ae1fe1, texId: 113, index: 0
-TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@763be380, texId: 113, index: 1
-TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@590a2e96, texId: 113, index: 2
-TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@11242203, texId: 113, index: 3
-TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@2344195b, texId: 113, index: 4
-TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@522b615d, texId: 113, index: 5
-TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@7aed7352, texId: 113, index: 6
-TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@7beee71d, texId: 113, index: 7
-TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@7b867eb3, texId: 113, index: 8
-TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@12061587, texId: 113, index: 9
-TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@5832f9c7, texId: 113, index: 10
-TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@75c31920, texId: 113, index: 11
-TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@44b20d04, texId: 113, index: 12
-TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@31a396f5, texId: 113, index: 13
-TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@359463e, texId: 113, index: 14
-TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@72515b6, texId: 113, index: 15
-TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@3a6d7e2, texId: 40, index: 0
-TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@21d4b91a, texId: 40, index: 1
-TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@77668eb5, texId: 40, index: 2
-TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@2632ec17, texId: 40, index: 3
-TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@131e26f4, texId: 40, index: 4
-TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@170641e4, texId: 40, index: 5
-TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@54d66697, texId: 40, index: 6
-TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@65b56a4e, texId: 40, index: 7
-TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@7fec98a, texId: 40, index: 8
-TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@2252a1f0, texId: 40, index: 9
-TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@455789f3, texId: 40, index: 10
-TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@b7e7c0d, texId: 40, index: 11
-TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@7a3d4671, texId: 40, index: 12
-TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@4d5735e7, texId: 40, index: 13
-TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@34b635af, texId: 40, index: 14
-TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@4c50a920, texId: 40, index: 15
-TextureFX registered: thermalexpansion.core.render.TextureEnderFX@94baffe, texId: 40, index: 64
-TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@37b9c5a9, texId: 314, index: 16
-TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@329c6573, texId: 314, index: 17
-TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@1d7b50f5, texId: 314, index: 18
-TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@1587ea3, texId: 314, index: 19
-TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@7f98abc6, texId: 314, index: 20
-TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@2efeeebb, texId: 314, index: 21
-TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@6945ff69, texId: 314, index: 22
-TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@2b2a2984, texId: 314, index: 23
-TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@115671bc, texId: 314, index: 24
-TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@46e6397d, texId: 314, index: 0
-TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@4a6fb34e, texId: 314, index: 1
-TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@56b18d18, texId: 314, index: 2
-TextureFX registered: binnie.extrabees.platform.TextureLiquidDNAFX@560284e2, texId: 314, index: 255
-TextureFX registered: forestry.core.render.TextureBiomassFX@4b88af4b, texId: 445, index: 13
-TextureFX registered: forestry.core.render.TextureBiofuelFX@6d3d9de9, texId: 445, index: 12
-TextureFX registered: forestry.core.render.TextureMilkFX@4f8bbd50, texId: 445, index: 15
-TextureFX registered: forestry.core.render.TextureHoneyFX@5b67731c, texId: 445, index: 76
-TextureFX registered: forestry.core.render.TextureSeedOilFX@7cf7bfcc, texId: 445, index: 74
-TextureFX registered: forestry.core.render.TextureJuiceFX@2ff146d5, texId: 445, index: 75
-TextureFX registered: forestry.core.render.TextureMeadFX@1fc299e0, texId: 445, index: 77
-TextureFX registered: forestry.core.render.TextureGlassFX@22cdc6f6, texId: 445, index: 49
-TextureFX registered: forestry.core.render.TextureIceFX@66ae853f, texId: 445, index: 73
-TextureFX registered: forestry.core.render.TextureHabitatLocatorFX@43207521, texId: 117, index: 105
-TextureFX registered: immibis.lxp.LiquidTextureFX@386ec786, texId: 463, index: 0
+TextureFX registered: buildcraft.energy.render.TextureOilFX@d4b5056, texId: 22, index: 205
+TextureFX registered: buildcraft.energy.render.TextureFuelFX@2cbc89aa, texId: 23, index: 0
+TextureFX registered: buildcraft.energy.render.TextureOilFlowFX@2f0d951d, texId: 22, index: 206
+TextureFX registered: com.pahimar.ee3.client.renderer.texturefx.TextureRedWaterFX@3c16a94f, texId: 111, index: 205
+TextureFX registered: com.pahimar.ee3.client.renderer.texturefx.TextureRedWaterFlowFX@4cef30d0, texId: 111, index: 206
+TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@51e593a0, texId: 113, index: 0
+TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@272dcbe5, texId: 113, index: 1
+TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@147a960b, texId: 113, index: 2
+TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@c3299e5, texId: 113, index: 3
+TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@2b644af0, texId: 113, index: 4
+TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@4c2a3036, texId: 113, index: 5
+TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@7727dff9, texId: 113, index: 6
+TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@9192232, texId: 113, index: 7
+TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@7733a2bb, texId: 113, index: 8
+TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@297e073e, texId: 113, index: 9
+TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@3e54c11a, texId: 113, index: 10
+TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@41a339c4, texId: 113, index: 11
+TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@509b6c8b, texId: 113, index: 12
+TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@432dfbb8, texId: 113, index: 13
+TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@2b4477f3, texId: 113, index: 14
+TextureFX registered: alz.mods.enhancedportals.client.TextureNetherPortalFX@34a447a5, texId: 113, index: 15
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@43fa9bcb, texId: 40, index: 0
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@4d943428, texId: 40, index: 1
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@25fa29ac, texId: 40, index: 2
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@5cd7783e, texId: 40, index: 3
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@4be494ac, texId: 40, index: 4
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@27bddc8c, texId: 40, index: 5
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@53fe269e, texId: 40, index: 6
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@340fa257, texId: 40, index: 7
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@5b21118e, texId: 40, index: 8
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@12b1ffda, texId: 40, index: 9
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@3059f1c4, texId: 40, index: 10
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@790de082, texId: 40, index: 11
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@2af3334c, texId: 40, index: 12
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@37a146e7, texId: 40, index: 13
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@48095606, texId: 40, index: 14
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@5e96b675, texId: 40, index: 15
+TextureFX registered: thermalexpansion.core.render.TextureEnderFX@2a84ed25, texId: 40, index: 64
+TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@4e2fb206, texId: 314, index: 16
+TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@6e1b9215, texId: 314, index: 17
+TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@68d56fc0, texId: 314, index: 18
+TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@20aca585, texId: 314, index: 19
+TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@7c80ac9d, texId: 314, index: 20
+TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@4eb91222, texId: 314, index: 21
+TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@d51cf5a, texId: 314, index: 22
+TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@4894d3f8, texId: 314, index: 23
+TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@31096a33, texId: 314, index: 24
+TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@26020076, texId: 314, index: 0
+TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@578f86f0, texId: 314, index: 1
+TextureFX registered: binnie.extrabees.platform.TextureExtraBeeLiquidsFX@127c3f00, texId: 314, index: 2
+TextureFX registered: binnie.extrabees.platform.TextureLiquidDNAFX@3e27cf6d, texId: 314, index: 255
+TextureFX registered: forestry.core.render.TextureBiomassFX@1b83c51b, texId: 445, index: 13
+TextureFX registered: forestry.core.render.TextureBiofuelFX@28c963d, texId: 445, index: 12
+TextureFX registered: forestry.core.render.TextureMilkFX@5099ee45, texId: 445, index: 15
+TextureFX registered: forestry.core.render.TextureHoneyFX@26de9f4a, texId: 445, index: 76
+TextureFX registered: forestry.core.render.TextureSeedOilFX@279f451e, texId: 445, index: 74
+TextureFX registered: forestry.core.render.TextureJuiceFX@2f352d8f, texId: 445, index: 75
+TextureFX registered: forestry.core.render.TextureMeadFX@54d4a505, texId: 445, index: 77
+TextureFX registered: forestry.core.render.TextureGlassFX@662e966b, texId: 445, index: 49
+TextureFX registered: forestry.core.render.TextureIceFX@2a0f614f, texId: 445, index: 73
+TextureFX registered: forestry.core.render.TextureHabitatLocatorFX@20ec2e05, texId: 117, index: 105
+TextureFX registered: immibis.lxp.LiquidTextureFX@10d93125, texId: 463, index: 0
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 59, texId: 197, index: 59
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 60, texId: 197, index: 60
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 61, texId: 197, index: 61
@@ -112,15 +112,15 @@ TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 66
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 67, texId: 197, index: 67
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 68, texId: 197, index: 68
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 69, texId: 197, index: 69
-TextureFX registered: buildcraft.core.render.TextureLiquidsFX@4a16734d, texId: 137, index: 0
+TextureFX registered: buildcraft.core.render.TextureLiquidsFX@24b9627f, texId: 137, index: 0
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 70, texId: 197, index: 70
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 71, texId: 197, index: 71
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 72, texId: 197, index: 72
-TextureFX registered: ro.narc.liquiduu.TextureFXElectrolyzed@e6d9d9a, texId: 137, index: 2
+TextureFX registered: ro.narc.liquiduu.TextureFXElectrolyzed@23bcc1c1, texId: 137, index: 2
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 73, texId: 197, index: 73
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 74, texId: 197, index: 74
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 75, texId: 197, index: 75
-TextureFX registered: ModTextureAnimation@5793f2a7, texId: 238, index: 34
+TextureFX registered: ModTextureAnimation@243e9632, texId: 238, index: 34
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 76, texId: 197, index: 76
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 77, texId: 197, index: 77
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 78, texId: 197, index: 78
@@ -132,74 +132,74 @@ TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 83
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 84, texId: 197, index: 84
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 85, texId: 197, index: 85
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 86, texId: 197, index: 86
-TextureFX registered: ModTextureAnimation@7629a133, texId: 237, index: 46
+TextureFX registered: ModTextureAnimation@3acbd8d1, texId: 237, index: 46
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 87, texId: 197, index: 87
-TextureFX registered: ModTextureAnimation@4fdb18fc, texId: 236, index: 48
+TextureFX registered: ModTextureAnimation@58d05a33, texId: 236, index: 48
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 88, texId: 197, index: 88
-TextureFX registered: ModTextureAnimation@57e04319, texId: 236, index: 49
+TextureFX registered: ModTextureAnimation@5d89178, texId: 236, index: 49
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 89, texId: 197, index: 89
-TextureFX registered: ModTextureAnimation@370291de, texId: 236, index: 50
+TextureFX registered: ModTextureAnimation@1c3e58b9, texId: 236, index: 50
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 90, texId: 197, index: 90
-TextureFX registered: ModTextureAnimation@26281166, texId: 236, index: 51
+TextureFX registered: ModTextureAnimation@5648b60c, texId: 236, index: 51
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 91, texId: 197, index: 91
-TextureFX registered: ModTextureAnimation@99b7912, texId: 236, index: 52
-TextureFX registered: ModTextureAnimation@5b5ac535, texId: 238, index: 50
-TextureFX registered: portalgun.client.render.TextureAnimation@5b432c6b, texId: 283, index: 5
+TextureFX registered: ModTextureAnimation@26d92a24, texId: 236, index: 52
+TextureFX registered: ModTextureAnimation@34f12e80, texId: 238, index: 50
+TextureFX registered: portalgun.client.render.TextureAnimation@2377bc08, texId: 283, index: 5
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 92, texId: 197, index: 92
-TextureFX registered: ModTextureAnimation@374014e4, texId: 236, index: 53
+TextureFX registered: ModTextureAnimation@2bd0defa, texId: 236, index: 53
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 93, texId: 197, index: 93
-TextureFX registered: ModTextureAnimation@6f634bd2, texId: 236, index: 54
+TextureFX registered: ModTextureAnimation@52b2ac51, texId: 236, index: 54
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 94, texId: 197, index: 94
-TextureFX registered: ModTextureAnimation@30eebdf2, texId: 236, index: 55
+TextureFX registered: ModTextureAnimation@7e062785, texId: 236, index: 55
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 95, texId: 197, index: 95
-TextureFX registered: ModTextureAnimation@418f3f48, texId: 236, index: 56
+TextureFX registered: ModTextureAnimation@3fde3715, texId: 236, index: 56
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 96, texId: 197, index: 96
-TextureFX registered: ModTextureAnimation@2de0280f, texId: 236, index: 57
+TextureFX registered: ModTextureAnimation@33e8ec45, texId: 236, index: 57
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 97, texId: 197, index: 97
-TextureFX registered: ModTextureAnimation@bdcf773, texId: 236, index: 58
-TextureFX registered: com.xcompwiz.mystcraft.client.texturefx.TextureLiquidFX@543f80ec, texId: 279, index: 15
+TextureFX registered: ModTextureAnimation@79a7f830, texId: 236, index: 58
+TextureFX registered: com.xcompwiz.mystcraft.client.texturefx.TextureLiquidFX@6aa86802, texId: 279, index: 15
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 98, texId: 197, index: 98
-TextureFX registered: ModTextureAnimation@5d81f0df, texId: 236, index: 59
-TextureFX registered: com.xcompwiz.mystcraft.client.texturefx.TexturePortalFX@43ca4626, texId: 280, index: 15
+TextureFX registered: ModTextureAnimation@1e7ae9e5, texId: 236, index: 59
+TextureFX registered: com.xcompwiz.mystcraft.client.texturefx.TexturePortalFX@7ffc34e5, texId: 280, index: 15
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 99, texId: 197, index: 99
-TextureFX registered: ModTextureAnimation@45e541e8, texId: 236, index: 60
+TextureFX registered: ModTextureAnimation@51168fc6, texId: 236, index: 60
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 100, texId: 197, index: 100
-TextureFX registered: ModTextureAnimation@22936c69, texId: 236, index: 61
+TextureFX registered: ModTextureAnimation@12e9b7e3, texId: 236, index: 61
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 101, texId: 197, index: 101
-TextureFX registered: ModTextureAnimation@30300519, texId: 236, index: 62
+TextureFX registered: ModTextureAnimation@67629e47, texId: 236, index: 62
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 102, texId: 197, index: 102
-TextureFX registered: ModTextureAnimation@17b1476a, texId: 236, index: 63
+TextureFX registered: ModTextureAnimation@4d9e709a, texId: 236, index: 63
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 103, texId: 197, index: 103
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 104, texId: 197, index: 104
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 105, texId: 197, index: 105
-TextureFX registered: dan200.computer.client.TextureComputerFX@27c3c867, texId: 26, index: 20
+TextureFX registered: dan200.computer.client.TextureComputerFX@6f9535af, texId: 26, index: 20
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 106, texId: 197, index: 106
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 107, texId: 197, index: 107
-TextureFX registered: ModTextureAnimation@494f4264, texId: 238, index: 66
+TextureFX registered: ModTextureAnimation@4423565a, texId: 238, index: 66
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 108, texId: 197, index: 108
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 109, texId: 197, index: 109
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 110, texId: 197, index: 110
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 111, texId: 197, index: 111
-TextureFX registered: dan200.computer.client.TextureComputerFX@4b05650f, texId: 26, index: 25
+TextureFX registered: dan200.computer.client.TextureComputerFX@328bb0ab, texId: 26, index: 25
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 112, texId: 197, index: 112
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 113, texId: 197, index: 113
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 114, texId: 197, index: 114
-TextureFX registered: thaumcraft.client.fx.FXAnimatedPotion@26b34a39, texId: 139, index: 177
-TextureFX registered: ModTextureAnimation@c3d0930, texId: 238, index: 82
-TextureFX registered: twilightforest.client.TextureTFMagicLeavesFX@db3bde, texId: 248, index: 88
-TextureFX registered: ModTextureAnimation@51ffcc13, texId: 239, index: 98
-TextureFX registered: ModTextureAnimation@93bd90, texId: 239, index: 99
-TextureFX registered: ModTextureAnimation@20ccbb73, texId: 239, index: 100
-TextureFX registered: ModTextureAnimation@9f81fbe, texId: 239, index: 101
-TextureFX registered: twilightforest.client.TextureTFMagicLeavesFX@26c8d5c6, texId: 248, index: 92
-TextureFX registered: twilightforest.client.TextureTFMagicLeavesFX@3ca42887, texId: 248, index: 94
-TextureFX registered: thaumcraft.client.fx.FXAnimatedTexture@291ecee4, texId: 139, index: 210
-TextureFX registered: ModTextureAnimation@6d31fa83, texId: 238, index: 114
-TextureFX registered: thaumcraft.client.fx.FXAnimatedTexture@73dba90a, texId: 138, index: 15
-TextureFX registered: thaumcraft.client.fx.FXAnimatedLava@4cf861e2, texId: 138, index: 18
-TextureFX registered: thaumcraft.client.fx.FXAnimatedInfusedOre@13ceff77, texId: 138, index: 22
-TextureFX registered: ModTextureAnimation@af9f59f, texId: 238, index: 194
-TextureFX registered: ModTextureAnimation@71834343, texId: 238, index: 210
+TextureFX registered: thaumcraft.client.fx.FXAnimatedPotion@6213a54b, texId: 139, index: 177
+TextureFX registered: ModTextureAnimation@194b11d4, texId: 238, index: 82
+TextureFX registered: twilightforest.client.TextureTFMagicLeavesFX@62e9563d, texId: 248, index: 88
+TextureFX registered: ModTextureAnimation@51ec2714, texId: 239, index: 98
+TextureFX registered: ModTextureAnimation@3d578cd0, texId: 239, index: 99
+TextureFX registered: ModTextureAnimation@255d83cb, texId: 239, index: 100
+TextureFX registered: ModTextureAnimation@6ed94dd4, texId: 239, index: 101
+TextureFX registered: twilightforest.client.TextureTFMagicLeavesFX@5e3d039c, texId: 248, index: 92
+TextureFX registered: twilightforest.client.TextureTFMagicLeavesFX@782cfed, texId: 248, index: 94
+TextureFX registered: thaumcraft.client.fx.FXAnimatedTexture@48613659, texId: 139, index: 210
+TextureFX registered: ModTextureAnimation@322924cb, texId: 238, index: 114
+TextureFX registered: thaumcraft.client.fx.FXAnimatedTexture@2a40a224, texId: 138, index: 15
+TextureFX registered: thaumcraft.client.fx.FXAnimatedLava@67dea030, texId: 138, index: 18
+TextureFX registered: thaumcraft.client.fx.FXAnimatedInfusedOre@26cc816c, texId: 138, index: 22
+TextureFX registered: ModTextureAnimation@389c0f62, texId: 238, index: 194
+TextureFX registered: ModTextureAnimation@7b698854, texId: 238, index: 210
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 0, texId: 197, index: 0
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 1, texId: 197, index: 1
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 2, texId: 197, index: 2
@@ -209,8 +209,8 @@ TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 5,
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 6, texId: 197, index: 6
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 7, texId: 197, index: 7
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 8, texId: 197, index: 8
-TextureFX registered: railcraft.client.textureFX.TextureCreosoteOilFX@40795c5a, texId: 461, index: 0
-TextureFX registered: thaumcraft.client.fx.FXAnimatedTexture@5e1298b5, texId: 139, index: 67
+TextureFX registered: railcraft.client.textureFX.TextureCreosoteOilFX@2a1aba1a, texId: 461, index: 0
+TextureFX registered: thaumcraft.client.fx.FXAnimatedTexture@5d135907, texId: 139, index: 67
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 9, texId: 197, index: 9
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 10, texId: 197, index: 10
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 11, texId: 197, index: 11
@@ -227,11 +227,11 @@ TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 21
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 22, texId: 197, index: 22
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 23, texId: 197, index: 23
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 24, texId: 197, index: 24
-TextureFX registered: railcraft.client.textureFX.TextureSteamFX@734b0518, texId: 461, index: 16
+TextureFX registered: railcraft.client.textureFX.TextureSteamFX@ae5dc37, texId: 461, index: 16
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 25, texId: 197, index: 25
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 26, texId: 197, index: 26
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 27, texId: 197, index: 27
-TextureFX registered: ModTextureAnimation@3f10c228, texId: 238, index: 242
+TextureFX registered: ModTextureAnimation@b1dc146, texId: 238, index: 242
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 28, texId: 197, index: 28
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 29, texId: 197, index: 29
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 30, texId: 197, index: 30
@@ -244,18 +244,18 @@ TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 36
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 37, texId: 197, index: 37
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 38, texId: 197, index: 38
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 39, texId: 197, index: 39
-TextureFX registered: ModTextureAnimation@1d2ec2e6, texId: 236, index: 0
+TextureFX registered: ModTextureAnimation@1c9625e7, texId: 236, index: 0
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 40, texId: 197, index: 40
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 41, texId: 197, index: 41
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 42, texId: 197, index: 42
-TextureFX registered: ModTextureAnimation@7835dd96, texId: 237, index: 2
-TextureFX registered: com.eloraam.redpower.core.TextureAnimFX@20b49b3f, texId: 286, index: 239
+TextureFX registered: ModTextureAnimation@55bc217f, texId: 237, index: 2
+TextureFX registered: com.eloraam.redpower.core.TextureAnimFX@294eb6c1, texId: 286, index: 239
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 43, texId: 197, index: 43
-TextureFX registered: ModTextureAnimation@5dc49b4b, texId: 237, index: 3
+TextureFX registered: ModTextureAnimation@16ebd9a1, texId: 237, index: 3
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 44, texId: 197, index: 44
-TextureFX registered: ModTextureAnimation@750311da, texId: 237, index: 4
+TextureFX registered: ModTextureAnimation@3b0aa9d6, texId: 237, index: 4
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 45, texId: 197, index: 45
-TextureFX registered: ModTextureAnimation@1c8baad9, texId: 237, index: 5
+TextureFX registered: ModTextureAnimation@c053099, texId: 237, index: 5
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 46, texId: 197, index: 46
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 47, texId: 197, index: 47
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 48, texId: 197, index: 48
@@ -269,4 +269,4 @@ TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 55
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 56, texId: 197, index: 56
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 57, texId: 197, index: 57
 TextureFX registered: LogisticsPipesTextureStatic /logisticspipes/empty.png @ 58, texId: 197, index: 58
-TextureFX registered: com.eloraam.redpower.core.TextureAnimFX@50f8d30b, texId: 286, index: 255
+TextureFX registered: com.eloraam.redpower.core.TextureAnimFX@53094e07, texId: 286, index: 255

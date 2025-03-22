@@ -4,7 +4,7 @@ invertYMouse:false
 mouseSensitivity:0.6056338
 fov:1.0
 gamma:0.5070422
-viewDistance:1
+viewDistance:0
 guiScale:3
 particles:2
 bobView:false

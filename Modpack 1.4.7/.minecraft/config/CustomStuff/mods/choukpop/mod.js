@@ -128,5 +128,25 @@ mod.addRecipe("54 4", 3, 3, ":logWood", ":logWood", ":logWood", ":logWood", 0, "
 // Sticks
 mod.addRecipe("280 16", 1, 2, ":logWood", ":logWood");
 
+// UU Matter
+// Marble
+mod.addAliasWithMetadata(253, 0, "marble");
+mod.addRecipe("marble 16", 3, 3, 0, 0, 0, 0, 0, 0, "uu_matter", 0, 0);
+
+// Basalt Cobblestone
+mod.addAliasWithMetadata(253, 3, "basalt_cobblestone");
+mod.addRecipe("basalt_cobblestone 16", 3, 3, 0, 0, 0, 0, 0, 0, 0, "uu_matter", 0);
+
+// Red Cobblestone
+mod.addAliasWithMetadata(254, 1, "red_cobblestone");
+mod.addRecipe("red_cobblestone 16", 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, "uu_matter");
+
+// Cracked Sand
+mod.addAlias(255, "cracked_sand");
+mod.addRecipe("cracked_sand 16", 3, 3, 0, 0, 0, 0, 0, "uu_matter", 0, 0, 0);
+
+
+
+
 
 
