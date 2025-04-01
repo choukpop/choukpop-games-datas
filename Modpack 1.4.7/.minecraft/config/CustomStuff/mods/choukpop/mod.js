@@ -55,10 +55,11 @@ mod.addRecipe("irradiant_reinforced_plate 1", 3, 3, "redstone", "sunnarium_part"
 
 // Advanced Solar Panel
 mod.addAliasWithMetadata(194, 0, "advanced_solar_panel");
+mod.addAlias(230, "reinforced_glass");
 mod.addAliasWithMetadata(246, 3, "solar_panel");
 mod.addAliasWithMetadata(250, 12, "advanced_machine_block");
 mod.addAlias(30190, "advanced_circuit");
-mod.addRecipe("advanced_solar_panel 1", 3, 3, "irradiant_glass_pane", "irradiant_glass_pane", "irradiant_glass_pane", "advanced_alloy", "solar_panel", "advanced_alloy", "advanced_circuit", "advanced_machine_block", "advanced_circuit");
+mod.addRecipe("advanced_solar_panel 1", 3, 3, "reinforced_glass", "reinforced_glass", "reinforced_glass", "advanced_alloy", "solar_panel", "advanced_alloy", "advanced_circuit", "advanced_machine_block", "advanced_circuit");
 
 // Hybrid Solar Panel
 mod.addAliasWithMetadata(194, 1, "hybrid_solar_panel");
@@ -145,8 +146,9 @@ mod.addRecipe("red_cobblestone 16", 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, "uu_matter");
 mod.addAlias(255, "cracked_sand");
 mod.addRecipe("cracked_sand 16", 3, 3, 0, 0, 0, 0, 0, "uu_matter", 0, 0, 0);
 
-
-
+// Obsidian
+mod.addShapelessRecipe("49 1", "2422:0");
+mod.addShapelessRecipe("49 1", "2422:1");
 
 
 

@@ -30,7 +30,7 @@ Omit Height Calc: Enable
 Hide Snow: Disable
 Show Chunk Grid: Disable
 Show Slime Chunk: Disable
-Entities Radar: Disable
+Entities Radar: Enable
 Entity Player: Enable
 Entity Animal: Enable
 Entity Mob: Disable
