@@ -3,7 +3,7 @@ ofLimitFramerateFine:0
 ofFogType:3
 ofFogStart:0.2
 ofMipmapLevel:4
-ofMipmapLinear:true
+ofMipmapType:1
 ofLoadFar:false
 ofPreloadedChunks:0
 ofOcclusionFancy:true
@@ -28,6 +28,7 @@ ofAnimatedSmoke:true
 ofVoidParticles:false
 ofWaterParticles:false
 ofPortalParticles:false
+ofPotionParticles:true
 ofDrippingWaterLava:true
 ofAnimatedTerrain:false
 ofAnimatedTextures:true
@@ -49,7 +50,7 @@ ofClearWater:true
 ofDepthFog:false
 ofAaLevel:0
 ofAfLevel:1
-ofProfiler:false
+ofProfiler:true
 ofBetterSnow:false
 ofSwampColors:false
 ofRandomMobs:false
@@ -61,3 +62,4 @@ ofShowCapes:true
 ofNaturalTextures:false
 ofLazyChunkLoading:false
 ofFullscreenMode:Default
+ofFastMath:true
