@@ -36,8 +36,6 @@ Fluid: fuel
 Fluid: uumatter
 Fluid: constructionfoam
 Fluid: ic2coolant
-Ore: oreCopper
-Ore: oreTin
 Ore: oreUranium
 Ore: oreLead
 Ore: treeLeaves

@@ -1,9 +1,9 @@
 music:0.0
-sound:0.20422535
+sound:0.6056338
 invertYMouse:false
 mouseSensitivity:0.6056338
 fov:1.0
-gamma:0.5070422
+gamma:0.0
 viewDistance:1
 guiScale:3
 particles:2
@@ -11,7 +11,7 @@ bobView:false
 anaglyph3d:false
 advancedOpengl:true
 fpsLimit:0
-difficulty:3
+difficulty:0
 fancyGraphics:false
 ao:0
 clouds:false
