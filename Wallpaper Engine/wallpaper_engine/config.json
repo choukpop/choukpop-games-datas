@@ -1,0 +1,5121 @@
+{
+	"?installdirectory" : "E:/Programas/Steam/steamapps/common/wallpaper_engine",
+	"ChouKpop" : 
+	{
+		"general" : 
+		{
+			"browser" : 
+			{
+				"advertiseexplore" : false,
+				"advertisesendtomobile" : false,
+				"advertiseworkshop" : false,
+				"advertiseworkshoppopup" : false,
+				"agegateconfirmed" : true,
+				"authorblocklistnames" : [],
+				"defaultfilterconfig" : 
+				{
+					"Anime" : true,
+					"recommendedresolution" : false,
+					"showotherresolution" : true
+				},
+				"explore" : 
+				{
+					"custom" : [],
+					"disliked" : [],
+					"favorites" : [],
+					"liked" : []
+				},
+				"filterinfo" : 
+				{
+					"installed" : 
+					{
+						"categorytags" : 
+						{
+							"Preset" : true,
+							"Wallpaper" : true
+						},
+						"descending" : false,
+						"ratingtags" : 
+						{
+							"Everyone" : true,
+							"Mature" : true,
+							"Questionable" : true
+						},
+						"resolutiontags" : 
+						{
+							"1280 x 720" : true,
+							"1366 x 768" : true,
+							"1920 x 1080" : true,
+							"2560 x 1440" : true,
+							"3840 x 2160" : true,
+							"Dual 3840 x 1080" : true,
+							"Dual 5120 x 1440" : true,
+							"Dual 7680 x 2160" : true,
+							"Dual Standard Definition" : true,
+							"Dynamic resolution" : true,
+							"Other resolution" : true,
+							"Portrait 1080 x 1920" : true,
+							"Portrait 1440 x 2560" : true,
+							"Portrait 2160 x 3840" : true,
+							"Portrait 720 x 1280" : true,
+							"Portrait Standard Definition" : true,
+							"Standard Definition" : true,
+							"Triple 11520 x 2160" : true,
+							"Triple 4096 x 768" : true,
+							"Triple 5760 x 1080" : true,
+							"Triple 7680 x 1440" : true,
+							"Triple Standard Definition" : true,
+							"Ultrawide 2560 x 1080" : true,
+							"Ultrawide 3440 x 1440" : true,
+							"Ultrawide Standard Definition" : true
+						},
+						"sort" : "name",
+						"sourcetags" : 
+						{
+							"Local" : true,
+							"Official" : true,
+							"Workshop" : true
+						},
+						"tags" : 
+						{
+							"Abstract" : true,
+							"Animal" : true,
+							"Anime" : true,
+							"CGI" : true,
+							"Cartoon" : true,
+							"Cyberpunk" : true,
+							"Fantasy" : true,
+							"Game" : true,
+							"Girls" : true,
+							"Guys" : true,
+							"Landscape" : true,
+							"MMD" : true,
+							"Medieval" : true,
+							"Memes" : true,
+							"Music" : true,
+							"Nature" : true,
+							"Pixel art" : true,
+							"Relaxing" : true,
+							"Retro" : true,
+							"Sci-Fi" : true,
+							"Sports" : true,
+							"Technology" : true,
+							"Television" : true,
+							"Unspecified" : true,
+							"Vehicle" : true
+						},
+						"type" : "",
+						"typetags" : 
+						{
+							"Application" : true,
+							"Scene" : true,
+							"Video" : true,
+							"Web" : true
+						},
+						"utilitytags" : {}
+					},
+					"workshop" : 
+					{
+						"categorytags" : 
+						{
+							"Preset" : true,
+							"Wallpaper" : true
+						},
+						"descending" : false,
+						"filterTitle" : true,
+						"ratingtags" : 
+						{
+							"Everyone" : true,
+							"Mature" : true,
+							"Questionable" : true
+						},
+						"resolutiontags" : 
+						{
+							"1280 x 720" : true,
+							"1366 x 768" : true,
+							"1920 x 1080" : true,
+							"2560 x 1440" : true,
+							"3840 x 2160" : true,
+							"Dual 3840 x 1080" : true,
+							"Dual 5120 x 1440" : true,
+							"Dual 7680 x 2160" : true,
+							"Dual Standard Definition" : true,
+							"Dynamic resolution" : true,
+							"Other resolution" : true,
+							"Portrait 1080 x 1920" : true,
+							"Portrait 1440 x 2560" : true,
+							"Portrait 2160 x 3840" : true,
+							"Portrait 720 x 1280" : true,
+							"Portrait Standard Definition" : true,
+							"Standard Definition" : true,
+							"Triple 11520 x 2160" : true,
+							"Triple 4096 x 768" : true,
+							"Triple 5760 x 1080" : true,
+							"Triple 7680 x 1440" : true,
+							"Triple Standard Definition" : true,
+							"Ultrawide 2560 x 1080" : true,
+							"Ultrawide 3440 x 1440" : true,
+							"Ultrawide Standard Definition" : true
+						},
+						"sort" : "most_recent",
+						"sourcetags" : 
+						{
+							"Local" : true,
+							"Official" : true,
+							"Workshop" : true
+						},
+						"tags" : 
+						{
+							"Abstract" : true,
+							"Animal" : true,
+							"Anime" : true,
+							"CGI" : true,
+							"Cartoon" : true,
+							"Cyberpunk" : true,
+							"Fantasy" : true,
+							"Game" : true,
+							"Girls" : true,
+							"Guys" : true,
+							"Landscape" : true,
+							"MMD" : true,
+							"Medieval" : true,
+							"Memes" : true,
+							"Music" : true,
+							"Nature" : true,
+							"Pixel art" : true,
+							"Relaxing" : true,
+							"Retro" : true,
+							"Sci-Fi" : true,
+							"Sports" : true,
+							"Technology" : true,
+							"Television" : true,
+							"Unspecified" : true,
+							"Vehicle" : true
+						},
+						"type" : "",
+						"typetags" : 
+						{
+							"Application" : true,
+							"Scene" : true,
+							"Video" : false,
+							"Web" : true
+						},
+						"utilitytags" : {}
+					}
+				},
+				"folders" : 
+				[
+					{
+						"folderColor" : "browseFolderColorPurple",
+						"folderIcon" : "fas fa-heart",
+						"items" : 
+						{
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2681633552/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2837241545/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2847409816/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2847458190/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2850947734/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2879016830/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2879034362/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2887658606/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2929592935/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3012694124/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3147499206/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3273742254/scene.pkg" : 1
+						},
+						"subfolders" : 
+						[
+							{
+								"folderColor" : "browseFolderColorBrightBlue",
+								"folderIcon" : "fas fa-tv-retro",
+								"items" : 
+								{
+									"3154247655" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2973415866/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3044433967/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3062463953/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3067102941/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3070377431/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3071306883/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3106567318/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3109281874/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3123015312/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3143245641/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3154247655/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3154265545/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3161625547/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3170725467/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3196768796/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3201045694/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3217994334/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3218004060/scene.pkg" : 1
+								},
+								"subfolders" : [],
+								"title" : "Dark Background",
+								"type" : "folder"
+							},
+							{
+								"folderColor" : "browseFolderColorRed",
+								"folderIcon" : "fas fa-snowflake",
+								"items" : 
+								{
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1722735270/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1722736871/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2298003897/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2300143225/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2300160102/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2300161927/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2303025320/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2312537172/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2312539393/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2347654963/scene.pkg" : 1
+								},
+								"subfolders" : [],
+								"title" : "Hot Girls",
+								"type" : "folder"
+							},
+							{
+								"folderColor" : "browseFolderColorRed",
+								"folderIcon" : "fas fa-heart",
+								"items" : 
+								{
+									"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2848812257/scene.pkg" : 1,
+									"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3001281398/scene.pkg" : 1,
+									"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3009305782/scene.pkg" : 1,
+									"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3023747857/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1963086322/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2383725119/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2834527021/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2848812257/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2964242992/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3023747857/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3035930839/mitsu_dxd_rias_gremory_01_loop1_outfit1_2160_BG.mp4" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3046283395/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3259878828/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3261199079/scene.pkg" : 1
+								},
+								"subfolders" : [],
+								"title" : "Rias Gremory",
+								"type" : "folder"
+							}
+						],
+						"title" : "Animes / Girls",
+						"type" : "folder"
+					},
+					{
+						"folderColor" : "browseFolderColorPurple",
+						"folderIcon" : "fas fa-gamepad-modern",
+						"items" : 
+						{
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1597247864/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1731760875/index.html" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2869871223/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2878581629/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2909310291/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3089600071/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3132798056/project.json" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3256599020/o4HiLVpigNYqh7St.mp4" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3327551185/gifscene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3357047435/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3359107215/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3463388687/scene.pkg" : 1
+						},
+						"subfolders" : 
+						[
+							{
+								"folderColor" : "browseFolderColorRed",
+								"folderIcon" : "fas fa-meteor",
+								"items" : 
+								{
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1620538657/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1807867753/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1926817461/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2091957524/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2099501344/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2155915381/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2158383985/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2181690420/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2238468607/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2291729231/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2593498945/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3322246910/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3332738796/scene.pkg" : 1
+								},
+								"subfolders" : [],
+								"title" : "Final Fantasy 7",
+								"type" : "folder"
+							},
+							{
+								"folderColor" : "browseFolderColorPurple",
+								"folderIcon" : "fas fa-gem",
+								"items" : 
+								{
+									"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2386983650/scene.pkg" : 1,
+									"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2459745485/I made a live wallpaper of the Inazuma Castle! - Links Below - Genshin_Impact.mp4" : 1,
+									"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2583070457/Untitled.mp4" : 1,
+									"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2789149546/scene.pkg" : 1,
+									"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3001026597/inazuma-logo-genshin-impact-moewalls-com.mp4" : 1,
+									"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3022873309/scene.pkg" : 1,
+									"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3055600522/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2386983650/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2459745485/I made a live wallpaper of the Inazuma Castle! - Links Below - Genshin_Impact.mp4" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2583070457/Untitled.mp4" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2745391563/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2789149546/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2807078301/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2809471182/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2818579400/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2823861646/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2837487911/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2860228152/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2926380602/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2941360787/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2950602653/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2963690820/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2984244646/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2999400093/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3001026597/inazuma-logo-genshin-impact-moewalls-com.mp4" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3003717240/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3024916966/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3055600522/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3059084783/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3083506132/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3085856409/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3099164683/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3118454781/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3182523091/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3293855626/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3337654357/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3398889039/scene.pkg" : 1
+								},
+								"subfolders" : 
+								[
+									{
+										"folderColor" : "browseFolderColorPurple",
+										"folderIcon" : "fas fa-heart",
+										"items" : 
+										{
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2634263380/scene.pkg" : 1,
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2843592608/scene.pkg" : 1,
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2943905254/scene.pkg" : 1,
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2953206415/scene.pkg" : 1,
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3258921851/scene.pkg" : 1,
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3262774006/scene.pkg" : 1,
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3285415928/scene.pkg" : 1,
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3345157157/scene.pkg" : 1,
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3346656618/scene.pkg" : 1,
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3359403831/scene.pkg" : 1,
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3423392873/scene.pkg" : 1
+										},
+										"subfolders" : [],
+										"title" : "Raiden Shogun",
+										"type" : "folder"
+									}
+								],
+								"title" : "Genshin Impact",
+								"type" : "folder"
+							},
+							{
+								"folderColor" : "browseFolderColorBrightBlue",
+								"folderIcon" : "fas fa-skull-crossbones",
+								"items" : 
+								{
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1569137558/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1996263463/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2256851453/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2271912059/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2351790413/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2431367675/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2721149849/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3359032591/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3370942041/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3371778796/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3371896157/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3386184280/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3387019970/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3402271981/scene.pkg" : 1
+								},
+								"subfolders" : 
+								[
+									{
+										"folderColor" : "browseFolderColorPurple",
+										"folderIcon" : "fas fa-star",
+										"items" : 
+										{
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2214900218/scene.pkg" : 1,
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2279351378/scene.pkg" : 1,
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2406504988/scene.pkg" : 1,
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2477032103/scene.pkg" : 1,
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2526877082/scene.pkg" : 1,
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2798519497/scene.pkg" : 1,
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2922431713/scene.pkg" : 1,
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3025443226/scene.pkg" : 1,
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3259381940/scene.pkg" : 1,
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3260131670/scene.pkg" : 1,
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3329005953/scene.pkg" : 1,
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3354654461/scene.pkg" : 1,
+											"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3356821846/scene.pkg" : 1
+										},
+										"subfolders" : [],
+										"title" : "Ahri",
+										"type" : "folder"
+									}
+								],
+								"title" : "League of Legends",
+								"type" : "folder"
+							},
+							{
+								"folderColor" : "browseFolderColorPurple",
+								"folderIcon" : "fas fa-star",
+								"items" : 
+								{
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3044228926/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3132740527/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3209460888/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3210703197/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3217668910/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3246388403/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3438237521/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3448030247/scene.pkg" : 1
+								},
+								"subfolders" : [],
+								"title" : "Stellar Blade",
+								"type" : "folder"
+							},
+							{
+								"folderColor" : "browseFolderColorGreen",
+								"folderIcon" : "fas fa-gamepad-modern",
+								"items" : 
+								{
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1473965309/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1590205156/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2338094750/[4K] Uncharted 4 - 14.mp4" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2338103763/[4K] Uncharted 4 - 12.mp4" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2338128530/[4K] Uncharted 4 - 8.mp4" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2338145312/[4K] Uncharted 4 - 2.mp4" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2338148031/[4K] Uncharted 4 - 1.mp4" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2395769267/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2407560154/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2774801339/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2886510506/Uncharted 4 - Main Menu.mp4" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3159607631/scene.pkg" : 1,
+									"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/945197416/Untitled.mp4" : 1
+								},
+								"subfolders" : [],
+								"title" : "Uncharted",
+								"type" : "folder"
+							}
+						],
+						"title" : "Games",
+						"type" : "folder"
+					},
+					{
+						"folderColor" : "browseFolderColorMagenta",
+						"folderIcon" : "fas fa-car",
+						"folderIconOpen" : "fas fa-car-burst",
+						"items" : 
+						{
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1300318269/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2870187639/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2961531884/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2963240175/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3029745918/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3049281870/scene.pkg" : 1
+						},
+						"subfolders" : [],
+						"title" : "Koenigsegg",
+						"type" : "folder"
+					},
+					{
+						"folderColor" : "browseFolderColorBrightBlue",
+						"folderIcon" : "fas fa-tv-retro",
+						"items" : 
+						{
+							"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2693584270/scene.pkg" : 1,
+							"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2944739842/scene.pkg" : 1,
+							"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2949797129/scene.pkg" : 1,
+							"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2963117784/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1589146637/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1778127565/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2114364041/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2133929232/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2164480110/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2180174584/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2229989955/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2231088993/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2234081139/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2242169648/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2252837996/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2290842134/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2295984689/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2570201407/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2677008918/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2693584270/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2733268913/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2768634693/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2768634693_2/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2849282407/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2888527740/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2901513882/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2929219049/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2940310114/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2940773207/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2942039570/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2944739842/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2949376286/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2949797129/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2963117784/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2963128144/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2972721770/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2974878948/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3001281398/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3003173438/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3009305782/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3175141540/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3284928979/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3301771216/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3345575787/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3371353455/scene.pkg" : 1
+						},
+						"subfolders" : [],
+						"title" : "Mobile",
+						"type" : "folder"
+					},
+					{
+						"folderColor" : "browseFolderColorBlue",
+						"folderIcon" : "fas fa-thumbs-up",
+						"items" : 
+						{
+							"1731760875" : 1,
+							"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1828698678/index.html" : 1,
+							"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2097111446/scene.pkg" : 1,
+							"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2184113985/scene.pkg" : 1,
+							"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2300160102/scene.pkg" : 1,
+							"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2303025320/scene.pkg" : 1,
+							"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2683949770/scene.pkg" : 1,
+							"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2919137307/scene.pkg" : 1,
+							"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/835043028/livetune feat 初音ミク「Redial」Music Video_final_ver.mp4" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1552562718/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1700912158/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1828698678/index.html" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1878867803/inedx.html" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1941590262/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2085885899/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2097111446/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2179802815/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2184113985/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2425520319/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2517518192/index.html" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2792814395/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2919137307/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2942300197/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2943474244/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2986163106/index.html" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2999300594/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3000089054/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3011126896/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3088996616/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3176115922/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/835043028/livetune feat 初音ミク「Redial」Music Video_final_ver.mp4" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/choukpop_mobile/index.html" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/choukpop_mobile/scene.json" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/dongeuran_wallpa/scene.json" : 1
+						},
+						"subfolders" : [],
+						"title" : "Random",
+						"type" : "folder"
+					},
+					{
+						"folderColor" : "browseFolderColorBrightBlue",
+						"folderIcon" : "fas fa-rocket",
+						"folderIconOpen" : "fas fa-rocket-launch",
+						"items" : 
+						{
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1275921440/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2463435445/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2683949770/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2803686024/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2820971480/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2927836891/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2977006353/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2981249186/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3025967409/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3071135377/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3244630201/scene.pkg" : 1
+						},
+						"subfolders" : [],
+						"title" : "Space",
+						"type" : "folder"
+					},
+					{
+						"folderColor" : "browseFolderColorPurple",
+						"folderIcon" : "fas fa-gift",
+						"items" : 
+						{
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2964682829/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2964701727/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3045782231/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3298258703/scene.pkg" : 1,
+							"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3339780537/scene.pkg" : 1
+						},
+						"subfolders" : [],
+						"title" : "Tzuyu",
+						"type" : "folder"
+					}
+				],
+				"lastselectedmonitor" : "Monitor0",
+				"paireddevices" : 
+				[
+					{
+						"alias" : "Realme RMX1931",
+						"displayHeight" : 2400,
+						"displayWidth" : 1080,
+						"id" : "94900D49-A187-4A00-99FF-C57F969FDE2B",
+						"mpkgsupport" : 18,
+						"name" : "realme X2 Pro",
+						"pin" : "0680",
+						"preset" : "low",
+						"privatekey" : "UlNBMgAEAAADAAAAgAAAAEAAAABAAAAAAQABomxDUfKE8MkJ3lsl/uRAu8eNhK6IGTZ71W1HnsPODhIWw3OlDwS23zehfpVqra/osssXYleRv5ApyMTWccxfJEk4OwoLTEcUtfgibwii0vEn4q/LqGUUXHP8arE0CwhR8Yp5x/xFIaTptbs2FZ8ASyGGvgeWOMg0IR+VuGZOLJnTQKGwjGSWxw3oiJDkXWpm4JeT4ICyYoZBmbghzSurEqkod37zrdK+kKQDUdrslKAO14In9D0rbwQ5Zt5p0id/xNPNG5LmJupvii+Xe1tzSYP0GyVF7WK2zCWn5ImTIeoGkImdDCWsFodVgqhcjfuMO2ktqjoZ80zF4JT4uu/35w=="
+					}
+				],
+				"pairingguid" : "7976F32D-4DA0-40D9-B9E2-FA71A05DF3A6",
+				"resultsperpage" : 50,
+				"seasonaldialogdisabled" : true,
+				"seasonaldialogtimestamp" : 20231102,
+				"showmonitorselectiononstart" : false,
+				"viewiconsize" : "medium"
+			},
+			"editor" : 
+			{
+				"assetBrowser" : 
+				{
+					"assetgenretags" : 
+					{
+						"Abstract" : true,
+						"Anime" : true,
+						"Audio visualizer" : true,
+						"Background" : true,
+						"CGI" : true,
+						"Character" : true,
+						"Clock" : true,
+						"Fire" : true,
+						"Interactive" : true,
+						"Magic" : true,
+						"Memes" : true,
+						"Nature" : true,
+						"Post Processing" : true,
+						"Smoke" : true,
+						"Space" : true,
+						"Sports" : true,
+						"Technology" : true,
+						"Unspecified" : true,
+						"Vehicle" : true
+					},
+					"ratingtags" : 
+					{
+						"Everyone" : true,
+						"Mature" : true,
+						"Questionable" : true
+					},
+					"sort" : "top_rated",
+					"text" : "",
+					"typetags" : 
+					{
+						"Composite" : true,
+						"Effect" : true,
+						"Fullscreen" : true,
+						"Image" : true,
+						"Model" : true,
+						"Particle" : true,
+						"Script" : true,
+						"Sound" : true,
+						"Text" : true
+					},
+					"utilitytags" : 
+					{
+						"Approved" : 0,
+						"Asset Pack" : 0,
+						"Audio responsive" : 0
+					}
+				},
+				"autosavingenabled" : true,
+				"cameracursorspeed2d" : 10,
+				"cameracursorspeed3d" : 10,
+				"hasshownworkshoprules" : true,
+				"previewratio" : "free",
+				"recentfiles" : 
+				[
+					"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/choukpop_mobile/project.json",
+					"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/choukpop_wallpap/project.json",
+					"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/test/project.json",
+					"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1271777873_mobile/project.json",
+					"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/sem_título-1/project.json"
+				],
+				"savedlayouts" : 
+				{
+					"scene" : 
+					{
+						"background" : 
+						{
+							"first" : 
+							{
+								"panels" : [ "layers", "sceneoptions" ]
+							},
+							"orientation" : "horizontal",
+							"position" : 250,
+							"second" : 
+							{
+								"align" : "end",
+								"first" : 
+								{
+									"align" : "end",
+									"first" : 
+									{
+										"panels" : [ "preview" ]
+									},
+									"orientation" : "vertical",
+									"position" : 165,
+									"second" : 
+									{
+										"panels" : [ "assets", "log", "userproperties" ]
+									}
+								},
+								"orientation" : "horizontal",
+								"position" : 300,
+								"second" : 
+								{
+									"panels" : [ "properties" ]
+								}
+							}
+						},
+						"floating" : []
+					},
+					"simple" : 
+					{
+						"background" : 
+						{
+							"first" : 
+							{
+								"panels" : [ "files" ]
+							},
+							"orientation" : "horizontal",
+							"position" : 300,
+							"second" : 
+							{
+								"panels" : [ "preview" ]
+							}
+						},
+						"floating" : []
+					}
+				},
+				"scriptconsoleautoscroll" : true,
+				"showgrid" : true,
+				"showonstartup" : true,
+				"showselectionbox" : true,
+				"showstats" : false,
+				"showstatsmode" : "auto",
+				"suggestimportresolution" : true
+			},
+			"playlists" : [],
+			"profiles" : 
+			[
+				{
+					"layout" : 0,
+					"name" : "Horny",
+					"profile" : {},
+					"selectedwallpapers" : 
+					{
+						"Monitor0" : 
+						{
+							"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3463388687/scene.pkg"
+						},
+						"Monitor1" : 
+						{
+							"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2155915381/scene.pkg"
+						}
+					}
+				},
+				{
+					"layout" : 0,
+					"name" : "Gaming",
+					"profile" : {},
+					"selectedwallpapers" : 
+					{
+						"Monitor0" : 
+						{
+							"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3356821846/scene.pkg"
+						},
+						"Monitor1" : 
+						{
+							"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2155915381/scene.pkg"
+						}
+					}
+				}
+			],
+			"shared" : 
+			{
+				"hotkeys" : 
+				[
+					{
+						"action" : "profile",
+						"keys" : [ 17, 120 ],
+						"value" : "Gaming"
+					},
+					{
+						"action" : "profile",
+						"keys" : [ 17, 121 ],
+						"value" : "Horny"
+					},
+					{
+						"action" : "pause",
+						"keys" : []
+					},
+					{
+						"action" : "stop",
+						"keys" : []
+					},
+					{
+						"action" : "mute",
+						"keys" : []
+					},
+					{
+						"action" : "nextwallpaper",
+						"keys" : []
+					},
+					{
+						"action" : "togglerecord",
+						"keys" : []
+					},
+					{
+						"action" : "toggleicons",
+						"keys" : []
+					},
+					{
+						"action" : "screenshot",
+						"keys" : []
+					},
+					{
+						"action" : "screensaver",
+						"keys" : []
+					},
+					{
+						"action" : "windowbrowser",
+						"keys" : []
+					},
+					{
+						"action" : "windowsettings",
+						"keys" : []
+					},
+					{
+						"action" : "windoweditor",
+						"keys" : []
+					}
+				],
+				"slideshowwarningenabled" : true
+			},
+			"user" : 
+			{
+				"adjustdwmcolor" : false,
+				"adjustdwmcolormode" : "disabled",
+				"anticrash" : null,
+				"apprules" : [],
+				"audioinputdevice" : "default",
+				"audioinputthreshold" : 0,
+				"audioinputvolume" : 50,
+				"autostart" : true,
+				"autostartscheduler" : false,
+				"autostartx64" : false,
+				"browsetransition" : 
+				{
+					"transition" : "none",
+					"transitiontime" : 1500
+				},
+				"cefcommandline" : "",
+				"extremesleephack" : false,
+				"fps" : 30,
+				"hasshownhighprioritywarning" : true,
+				"hasshownwelcomedialog" : true,
+				"highprecisiontimer" : true,
+				"iconopacity" : 100,
+				"language" : "default",
+				"loglevel" : "error",
+				"mediablocklist" : null,
+				"mediaintegration" : true,
+				"monitordetection" : "managed",
+				"monitormap" : 
+				{
+					"//./DISPLAY1" : 
+					{
+						"absx" : 1,
+						"absy" : 0,
+						"location" : 0,
+						"relx" : 0,
+						"rely" : 0,
+						"timestamp" : 1744296393
+					},
+					"//./DISPLAY2" : 
+					{
+						"absx" : 0,
+						"absy" : 0,
+						"location" : 0,
+						"relx" : -1,
+						"rely" : 0,
+						"timestamp" : 1744296393
+					},
+					"//./DISPLAY5" : 
+					{
+						"absx" : 0,
+						"absy" : 0,
+						"location" : 0,
+						"relx" : 0,
+						"rely" : 0,
+						"timestamp" : 1721166287
+					},
+					"//./DISPLAY9" : 
+					{
+						"absx" : 0,
+						"absy" : 0,
+						"location" : 0,
+						"relx" : 0,
+						"rely" : 0,
+						"timestamp" : 1746720790
+					},
+					"//?/DISPLAY#HAN2400#1&8713bca&0&UID0#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"absx" : 0,
+						"absy" : 0,
+						"location" : 0,
+						"relx" : 0,
+						"rely" : 0,
+						"timestamp" : 1694547145
+					},
+					"//?/DISPLAY#HAN2400#5&23faa481&0&UID176385#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"absx" : 1,
+						"absy" : 0,
+						"location" : 0,
+						"relx" : 0,
+						"rely" : 0,
+						"timestamp" : 1686943486
+					},
+					"//?/DISPLAY#HAN2400#5&23faa481&0&UID176389#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"absx" : 1,
+						"absy" : 0,
+						"location" : 0,
+						"relx" : 0,
+						"rely" : 0,
+						"timestamp" : 1709913544
+					},
+					"//?/DISPLAY#HAN2400#7&371b8d0b&0&UID1284#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"absx" : 1,
+						"absy" : 0,
+						"location" : 0,
+						"relx" : 0,
+						"rely" : 0,
+						"timestamp" : 1744260496
+					},
+					"//?/DISPLAY#HAN2400#7&371b8d0b&0&UID260#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"absx" : 1,
+						"absy" : 0,
+						"location" : 0,
+						"relx" : 0,
+						"rely" : 0,
+						"timestamp" : 1746734285
+					},
+					"//?/DISPLAY#HPN342B#5&23faa481&0&UID176384#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"absx" : 0,
+						"absy" : 0,
+						"location" : 1,
+						"relx" : -1,
+						"rely" : 0,
+						"timestamp" : 1686943486
+					},
+					"//?/DISPLAY#HPN342B#7&371b8d0b&0&UID1288#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"absx" : 0,
+						"absy" : 0,
+						"location" : 1,
+						"relx" : -1,
+						"rely" : 0,
+						"timestamp" : 1744260496
+					},
+					"//?/DISPLAY#HPN342B#7&371b8d0b&0&UID264#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"absx" : 0,
+						"absy" : 0,
+						"location" : 1,
+						"relx" : -1,
+						"rely" : 0,
+						"timestamp" : 1746734285
+					},
+					"WinDisc" : 
+					{
+						"absx" : 0,
+						"absy" : 0,
+						"location" : 0,
+						"relx" : 0,
+						"rely" : 0,
+						"timestamp" : 1699983478
+					},
+					"legacy_monitor_001" : 
+					{
+						"absx" : 0,
+						"absy" : 0,
+						"location" : 0,
+						"relx" : 0,
+						"rely" : 0,
+						"timestamp" : 1691574080
+					}
+				},
+				"msaa" : "none",
+				"overridelockscreen" : false,
+				"overridewallpaper" : false,
+				"pausevram" : false,
+				"playbackaudio" : "mute",
+				"playbackfocus" : "run",
+				"playbackfullscreen" : "pause",
+				"playbackmaximized" : "pause",
+				"playbackonbattery" : "run",
+				"playbacksleep" : "stop",
+				"plugindelay" : 0,
+				"plugins" : 
+				{
+					"ledextensions" : 
+					{
+						"enabled" : true
+					}
+				},
+				"postprocessing" : "disabled",
+				"preset" : "low",
+				"processpriority" : "normal",
+				"reflection" : false,
+				"reloadaudio" : true,
+				"resolution" : "full",
+				"safemode" : true,
+				"shadows" : "low",
+				"slideshowkiller" : false,
+				"steamlanguage" : "english",
+				"uicmd" : "",
+				"uieffects" : null,
+				"uihardwareacceleration" : true,
+				"uiquality" : "high",
+				"uiskin" : "dark",
+				"uiskinseasonal" : true,
+				"unpauseaero" : true,
+				"vdesktopenabled" : false,
+				"videoaudiooutput" : true,
+				"videohardwareacceleration" : true,
+				"videoloopmode" : "default",
+				"videomfstutterhack" : false,
+				"videoreadmode" : "fromdisk",
+				"volumetrics" : "low",
+				"webmframework" : null,
+				"windows7mode" : "compatibility",
+				"windowupdaterate" : 1000
+			},
+			"wallpaperconfig" : 
+			{
+				"layout" : 0,
+				"name" : "Horny",
+				"profile" : {},
+				"selectedwallpapers" : 
+				{
+					"Monitor0" : 
+					{
+						"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3463388687/scene.pkg"
+					},
+					"Monitor1" : 
+					{
+						"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2155915381/scene.pkg"
+					}
+				}
+			},
+			"wallpaperconfigrecent" : 
+			[
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"name" : "Gaming",
+						"profile" : {},
+						"selectedwallpapers" : 
+						{
+							"Monitor0" : 
+							{
+								"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2964682829/scene.pkg"
+							},
+							"Monitor1" : 
+							{
+								"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2155915381/scene.pkg"
+							}
+						}
+					},
+					"playlist" : false,
+					"title" : "TWICE Yes I Am Tzuyu, Tifa Dress Pinup (4 Variants/18+)_SakimiChan_Final Fantasy 7 remake"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"name" : "Horny",
+						"profile" : {},
+						"selectedwallpapers" : 
+						{
+							"Monitor0" : 
+							{
+								"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2834527021/scene.pkg"
+							},
+							"Monitor1" : 
+							{
+								"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2155915381/scene.pkg"
+							}
+						}
+					},
+					"playlist" : false,
+					"title" : "Rias Gremory Fan Art, Tifa Dress Pinup (4 Variants/18+)_SakimiChan_Final Fantasy 7 remake"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"name" : "Horny",
+						"profile" : {},
+						"selectedwallpapers" : 
+						{
+							"Monitor0" : 
+							{
+								"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2963128144/scene.pkg"
+							},
+							"Monitor1" : 
+							{
+								"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2155915381/scene.pkg"
+							}
+						}
+					},
+					"playlist" : false,
+					"title" : "Tifa Dress Pinup (4 Variants/18+)_SakimiChan_Final Fantasy 7 remake, Yoimiya / Genshin Impact"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"name" : "Horny",
+						"profile" : {},
+						"selectedwallpapers" : 
+						{
+							"Monitor0" : 
+							{
+								"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2252837996/scene.pkg"
+							},
+							"Monitor1" : 
+							{
+								"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2155915381/scene.pkg"
+							}
+						}
+					},
+					"playlist" : false,
+					"title" : "Ahri | League of Legends / 18+ X-ray NSFW & SFW ( 3 Versions ), Tifa Dress Pinup (4 Variants/18+)_SakimiChan_Final Fantasy 7 remake"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"name" : "Horny",
+						"profile" : {},
+						"selectedwallpapers" : 
+						{
+							"Monitor0" : 
+							{
+								"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2721149849/scene.pkg",
+								"local" : true
+							},
+							"Monitor1" : 
+							{
+								"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2155915381/scene.pkg"
+							}
+						}
+					},
+					"playlist" : false,
+					"title" : "KDA, Tifa Dress Pinup (4 Variants/18+)_SakimiChan_Final Fantasy 7 remake"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"name" : "Horny",
+						"profile" : {},
+						"selectedwallpapers" : 
+						{
+							"Monitor1" : 
+							{
+								"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2155915381/scene.pkg"
+							}
+						}
+					},
+					"playlist" : false,
+					"title" : "Tifa Dress Pinup (4 Variants/18+)_SakimiChan_Final Fantasy 7 remake"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"name" : "Horny",
+						"profile" : {},
+						"selectedwallpapers" : 
+						{
+							"Monitor0" : 
+							{
+								"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/choukpop_mobile/scene.json"
+							},
+							"Monitor1" : 
+							{
+								"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2155915381/scene.pkg"
+							}
+						}
+					},
+					"playlist" : false,
+					"title" : "Perfect Wallpaper - English Version, Tifa Dress Pinup (4 Variants/18+)_SakimiChan_Final Fantasy 7 remake"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"name" : "Horny",
+						"profile" : {},
+						"selectedwallpapers" : 
+						{
+							"Monitor0" : 
+							{
+								"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/choukpop_mobile/index.html"
+							},
+							"Monitor1" : 
+							{
+								"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2155915381/scene.pkg"
+							}
+						}
+					},
+					"playlist" : false,
+					"title" : "Choukpop Mobile, Tifa Dress Pinup (4 Variants/18+)_SakimiChan_Final Fantasy 7 remake"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"name" : "Horny",
+						"profile" : {},
+						"selectedwallpapers" : 
+						{
+							"Monitor0" : 
+							{
+								"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2964682829/scene.pkg"
+							},
+							"Monitor1" : 
+							{
+								"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2155915381/scene.pkg"
+							}
+						}
+					},
+					"playlist" : false,
+					"title" : "TWICE Yes I Am Tzuyu, Tifa Dress Pinup (4 Variants/18+)_SakimiChan_Final Fantasy 7 remake"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"name" : "Horny",
+						"profile" : {},
+						"selectedwallpapers" : 
+						{
+							"Monitor0" : 
+							{
+								"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3463388687/scene.pkg"
+							},
+							"Monitor1" : 
+							{
+								"file" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2155915381/scene.pkg"
+							}
+						}
+					},
+					"playlist" : false,
+					"title" : "Faker, Tifa Dress Pinup (4 Variants/18+)_SakimiChan_Final Fantasy 7 remake"
+				}
+			],
+			"wallpaperconfigscreensaver" : 
+			{
+				"layout" : 0,
+				"sameaswallpaper" : true
+			},
+			"wpresets" : 
+			{
+				"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1509243786/index.html" : 
+				{
+					"presets" : 
+					[
+						{
+							"name" : "Cafe Terrace #1",
+							"properties" : 
+							{
+								"BlurColorGradient" : true,
+								"ColorMode" : 2,
+								"ColorRhythm" : true,
+								"DateAlignment" : "right",
+								"DateBlurColor" : "0.8 0.8 0.8",
+								"DateColor" : "1 1 1",
+								"DateFormat" : "{DD} {month} {YYYY}",
+								"DateSize" : 17,
+								"DateX" : 92,
+								"DateY" : 56,
+								"DefaultWallpaper" : 1,
+								"GlitchBG" : true,
+								"GradientRate" : 5,
+								"PWLineBlurColor" : "1 0.8 0.8",
+								"PWLineBlurColorGradient" : true,
+								"PWLineColor" : "1 1 1",
+								"PWLineColorMode" : 1,
+								"PWLineColorRhythm" : true,
+								"PWLineDensity" : 12,
+								"PWLineDirection" : 3,
+								"PWLineGradientRate" : 5,
+								"PWLinePosition" : 1,
+								"PWLineRange" : 8,
+								"PWLineShow" : true,
+								"PWLineSolidColorGradient" : true,
+								"PWLineSpacing" : 8,
+								"PWLineStyle" : 1,
+								"PWLineTransparency" : 80,
+								"PWLineWidth" : 9,
+								"PWLineX" : 500,
+								"PWLineY" : 500,
+								"PWMiddleLine" : false,
+								"PolygonAngle" : 12,
+								"SemiCircledirection" : 180,
+								"SolidColorGradient" : true,
+								"Text_Background_Options" : null,
+								"Text_Date_1" : null,
+								"Text_SpecialEffects" : null,
+								"Text_Visual_Time" : null,
+								"Text_Visual_audio" : null,
+								"Text_explain17" : null,
+								"TimeBlurColor" : "0.8 0.8 0.8",
+								"TimeColor" : "1 1 1",
+								"VideoVolume" : 0,
+								"_d0" : null,
+								"alignmentfliph" : false,
+								"audio_AudioText" : null,
+								"audio_BallText" : null,
+								"audio_LineText" : null,
+								"audio_amplitude" : 5,
+								"audio_ballRotation" : 0,
+								"audio_ballSize" : 3,
+								"audio_ballSpacer" : 4,
+								"audio_color" : "1 1 1",
+								"audio_decline" : 20,
+								"audio_distance" : 0,
+								"audio_firstPoint" : 2,
+								"audio_isBall" : true,
+								"audio_isClickOffset" : false,
+								"audio_isInnerRing" : true,
+								"audio_isLineTo" : false,
+								"audio_isOuterRing" : true,
+								"audio_isRing" : true,
+								"audio_isStaticRing" : false,
+								"audio_lineWidth" : 5,
+								"audio_offsetX" : 500,
+								"audio_offsetY" : 500,
+								"audio_opacity" : 90,
+								"audio_pointNum" : 120,
+								"audio_radius" : 500,
+								"audio_ringRotation" : 0,
+								"audio_secondPoint" : 3,
+								"audio_shadowBlur" : 3,
+								"audio_shadowColor" : "1 1 1",
+								"audioprocessing" : true,
+								"authorInformation" : null,
+								"backgroundColor" : "0.26 0.32 0.38",
+								"blurColor" : "1 0.8 0.8",
+								"cX" : 847,
+								"cY" : 500,
+								"clockFont" : "JetBrains Mono",
+								"clockFontDir" : "",
+								"color" : "1 1 1",
+								"customdirectory" : null,
+								"dateFont" : "JetBrains Mono",
+								"dateFontDir" : null,
+								"datetransparency" : 80,
+								"direction" : 1,
+								"foreground" : "",
+								"foregroundDisplayStlye" : 3,
+								"image" : "D:/Documentos/Imagens/Wallpaper Engine/wp12984123.jpg",
+								"imagedisplaystlye" : 3,
+								"imageswitchtimes" : 1,
+								"line155" : null,
+								"line160" : null,
+								"line42" : null,
+								"line43" : null,
+								"line83" : null,
+								"lineWidth" : 4,
+								"mMediaInegration_Artist" : false,
+								"mMediaInegration_ArtistAlignment" : "center",
+								"mMediaInegration_ArtistColor" : "1 1 1",
+								"mMediaInegration_ArtistColorBlur" : "1 1 1",
+								"mMediaInegration_ArtistColorBlurType" : 1,
+								"mMediaInegration_ArtistColorType" : 1,
+								"mMediaInegration_ArtistFont" : "",
+								"mMediaInegration_ArtistFontDir" : "",
+								"mMediaInegration_ArtistSize" : 10,
+								"mMediaInegration_ArtistTransparency" : 100,
+								"mMediaInegration_ArtistX" : 50,
+								"mMediaInegration_ArtistY" : 50,
+								"mMediaInegration_Duration" : false,
+								"mMediaInegration_DurationAlignment" : "center",
+								"mMediaInegration_DurationColor" : "1 1 1",
+								"mMediaInegration_DurationColorBlur" : "1 1 1",
+								"mMediaInegration_DurationColorBlurType" : 1,
+								"mMediaInegration_DurationColorType" : 1,
+								"mMediaInegration_DurationFont" : "",
+								"mMediaInegration_DurationFontDir" : "",
+								"mMediaInegration_DurationSize" : 10,
+								"mMediaInegration_DurationTransparency" : 100,
+								"mMediaInegration_DurationX" : 50,
+								"mMediaInegration_DurationY" : 50,
+								"mMediaInegration_Enable" : false,
+								"mMediaInegration_Img" : false,
+								"mMediaInegration_ImgBlur" : false,
+								"mMediaInegration_ImgSize" : 300,
+								"mMediaInegration_ImgTransparency" : 100,
+								"mMediaInegration_ImgX" : 50,
+								"mMediaInegration_ImgY" : 50,
+								"mMediaInegration_Label" : false,
+								"mMediaInegration_LabelAlignment" : "center",
+								"mMediaInegration_LabelColor" : "1 1 1",
+								"mMediaInegration_LabelColorBlur" : "1 1 1",
+								"mMediaInegration_LabelColorBlurType" : 1,
+								"mMediaInegration_LabelColorType" : 1,
+								"mMediaInegration_LabelFont" : "",
+								"mMediaInegration_LabelFontDir" : "",
+								"mMediaInegration_LabelSize" : 10,
+								"mMediaInegration_LabelTransparency" : 100,
+								"mMediaInegration_LabelX" : 50,
+								"mMediaInegration_LabelY" : 50,
+								"mMediaInegration_Line" : false,
+								"mMediaInegration_LineColor" : "1 1 1",
+								"mMediaInegration_LineColorBlur" : "1 1 1",
+								"mMediaInegration_LineColorBlurType" : 1,
+								"mMediaInegration_LineColorLine" : "1 1 1",
+								"mMediaInegration_LineColorLineType" : 1,
+								"mMediaInegration_LineColorType" : 1,
+								"mMediaInegration_LineHeight" : 7,
+								"mMediaInegration_LineRadius" : 10,
+								"mMediaInegration_LineTransparency" : 100,
+								"mMediaInegration_LineWidth" : 10,
+								"mMediaInegration_LineX" : 50,
+								"mMediaInegration_LineY" : 50,
+								"mMediaInegration_Progress" : false,
+								"mMediaInegration_ProgressAlignment" : "center",
+								"mMediaInegration_ProgressColor" : "1 1 1",
+								"mMediaInegration_ProgressColorBlur" : "1 1 1",
+								"mMediaInegration_ProgressColorBlurType" : 1,
+								"mMediaInegration_ProgressColorType" : 1,
+								"mMediaInegration_ProgressFont" : "",
+								"mMediaInegration_ProgressFontDir" : "",
+								"mMediaInegration_ProgressSize" : 10,
+								"mMediaInegration_ProgressTransparency" : 100,
+								"mMediaInegration_ProgressX" : 50,
+								"mMediaInegration_ProgressY" : 50,
+								"monstercat_barPadding" : 4,
+								"monstercat_barWidth" : 27,
+								"monstercat_color" : "1 1 1",
+								"monstercat_double" : false,
+								"monstercat_opacity" : 100,
+								"monstercat_reverse" : false,
+								"monstercat_smoothing" : 3,
+								"monstercat_xPos" : 50,
+								"monstercat_yPos" : 97,
+								"newReactor" : false,
+								"noteAlignment" : "left",
+								"noteColor" : "1 1 1",
+								"noteColorBlur" : "0.2 0.2 0.2",
+								"noteColorBlurType" : 1,
+								"noteColorType" : 1,
+								"noteFont" : "Lato",
+								"noteFontDir" : "",
+								"noteInner" : "Customize your wallpaper",
+								"noteShow" : false,
+								"noteSize" : 16,
+								"noteTransparency" : 80,
+								"noteX" : 41,
+								"noteY" : 44,
+								"particles_color" : "1 1 1",
+								"particles_direction_x" : 0,
+								"particles_direction_y" : 0,
+								"particles_image" : null,
+								"particles_isBounce" : false,
+								"particles_isMove" : true,
+								"particles_isParticles" : false,
+								"particles_isStraight" : false,
+								"particles_linkColor" : "1 1 1",
+								"particles_linkDistance" : 60,
+								"particles_linkEnable" : false,
+								"particles_linkOpacity" : 75,
+								"particles_linkWidth" : 2,
+								"particles_moveOutMode" : 1,
+								"particles_musicRandom" : false,
+								"particles_musicStrengh" : 50,
+								"particles_musicTone" : 1,
+								"particles_number" : 700,
+								"particles_opacity" : 75,
+								"particles_opacityRandom" : true,
+								"particles_shadowBlur" : 0,
+								"particles_shadowColor" : "1 1 1",
+								"particles_shapeType" : 1,
+								"particles_sizeRandom" : true,
+								"particles_sizeValue" : 2,
+								"particles_speed" : 5,
+								"particles_speedRandom" : true,
+								"radius" : 400,
+								"random" : false,
+								"range" : 2,
+								"reactorCode" : "",
+								"reactorLink" : "",
+								"reactorText" : null,
+								"reactorWeb" : false,
+								"rotation" : 0,
+								"schemecolor" : "#151515",
+								"selectvideo" : null,
+								"showCircle" : true,
+								"showDate" : true,
+								"showSemiCircle" : false,
+								"showTime" : true,
+								"style" : 1,
+								"tAlignment" : "center",
+								"tDotSec" : false,
+								"tDotSec2" : false,
+								"tShowSencends" : false,
+								"tSize" : 20,
+								"tStyle" : true,
+								"tX" : 83,
+								"tY" : 45,
+								"testOld" : true,
+								"timeType" : 1,
+								"timetransparency" : 100,
+								"videomodel" : 1,
+								"visual_audio_model" : 1,
+								"wallpapermode" : 1,
+								"wavetransparency" : 80,
+								"weatherApiKeySecondary" : "",
+								"weatherApiText" : null,
+								"weatherColorBlurType" : 1,
+								"weatherColorType" : 1,
+								"weatherFont" : null,
+								"weatherFontDir" : "",
+								"weatherSlowUpdate" : false,
+								"weatherText2" : null,
+								"weatherText3" : null,
+								"weatherX" : 50,
+								"weatherY" : 57,
+								"weather_Alignment" : "center",
+								"weather_ApiKey" : "",
+								"weather_BlurColor" : "1 0.8 0.8",
+								"weather_CityText" : "",
+								"weather_Color" : "1 1 1",
+								"weather_Format" : "",
+								"weather_show" : false,
+								"weather_size" : 10,
+								"weather_timetransparency" : 100,
+								"weather_units" : "m",
+								"wec_brs" : 50,
+								"wec_con" : 50,
+								"wec_e" : false,
+								"wec_hue" : 50,
+								"wec_sa" : 50
+							}
+						},
+						{
+							"name" : "Cafe Terrace #2",
+							"properties" : 
+							{
+								"BlurColorGradient" : true,
+								"ColorMode" : 2,
+								"ColorRhythm" : true,
+								"DateAlignment" : "center",
+								"DateBlurColor" : "0.8 0.8 0.8",
+								"DateColor" : "1 1 1",
+								"DateFormat" : "{DD} {month} {YYYY}",
+								"DateSize" : 10,
+								"DateX" : 94,
+								"DateY" : 13,
+								"DefaultWallpaper" : 1,
+								"GlitchBG" : true,
+								"GradientRate" : 5,
+								"PWLineBlurColor" : "1 0.8 0.8",
+								"PWLineBlurColorGradient" : true,
+								"PWLineColor" : "1 1 1",
+								"PWLineColorMode" : 1,
+								"PWLineColorRhythm" : true,
+								"PWLineDensity" : 12,
+								"PWLineDirection" : 3,
+								"PWLineGradientRate" : 5,
+								"PWLinePosition" : 1,
+								"PWLineRange" : 8,
+								"PWLineShow" : true,
+								"PWLineSolidColorGradient" : true,
+								"PWLineSpacing" : 8,
+								"PWLineStyle" : 1,
+								"PWLineTransparency" : 80,
+								"PWLineWidth" : 9,
+								"PWLineX" : 500,
+								"PWLineY" : 500,
+								"PWMiddleLine" : false,
+								"PolygonAngle" : 12,
+								"SemiCircledirection" : 180,
+								"SolidColorGradient" : true,
+								"Text_Background_Options" : null,
+								"Text_Date_1" : null,
+								"Text_SpecialEffects" : null,
+								"Text_Visual_Time" : null,
+								"Text_Visual_audio" : null,
+								"Text_explain17" : null,
+								"TimeBlurColor" : "0.8 0.8 0.8",
+								"TimeColor" : "1 1 1",
+								"VideoVolume" : 0,
+								"_d0" : null,
+								"alignmentfliph" : false,
+								"audio_AudioText" : null,
+								"audio_BallText" : null,
+								"audio_LineText" : null,
+								"audio_amplitude" : 5,
+								"audio_ballRotation" : 0,
+								"audio_ballSize" : 3,
+								"audio_ballSpacer" : 4,
+								"audio_color" : "1 1 1",
+								"audio_decline" : 20,
+								"audio_distance" : 0,
+								"audio_firstPoint" : 2,
+								"audio_isBall" : true,
+								"audio_isClickOffset" : false,
+								"audio_isInnerRing" : true,
+								"audio_isLineTo" : false,
+								"audio_isOuterRing" : true,
+								"audio_isRing" : true,
+								"audio_isStaticRing" : false,
+								"audio_lineWidth" : 5,
+								"audio_offsetX" : 500,
+								"audio_offsetY" : 500,
+								"audio_opacity" : 90,
+								"audio_pointNum" : 120,
+								"audio_radius" : 500,
+								"audio_ringRotation" : 0,
+								"audio_secondPoint" : 3,
+								"audio_shadowBlur" : 3,
+								"audio_shadowColor" : "1 1 1",
+								"audioprocessing" : true,
+								"authorInformation" : null,
+								"backgroundColor" : "0.26 0.32 0.38",
+								"blurColor" : "1 0.8 0.8",
+								"cX" : 847,
+								"cY" : 500,
+								"clockFont" : "JetBrains Mono",
+								"clockFontDir" : "",
+								"color" : "1 1 1",
+								"customdirectory" : null,
+								"dateFont" : "JetBrains Mono",
+								"dateFontDir" : null,
+								"datetransparency" : 80,
+								"direction" : 1,
+								"foreground" : "",
+								"foregroundDisplayStlye" : 3,
+								"image" : "D:/Documentos/Imagens/Wallpaper Engine/wp12984106.jpg",
+								"imagedisplaystlye" : 3,
+								"imageswitchtimes" : 1,
+								"line155" : null,
+								"line160" : null,
+								"line42" : null,
+								"line43" : null,
+								"line83" : null,
+								"lineWidth" : 4,
+								"mMediaInegration_Artist" : false,
+								"mMediaInegration_ArtistAlignment" : "center",
+								"mMediaInegration_ArtistColor" : "1 1 1",
+								"mMediaInegration_ArtistColorBlur" : "1 1 1",
+								"mMediaInegration_ArtistColorBlurType" : 1,
+								"mMediaInegration_ArtistColorType" : 1,
+								"mMediaInegration_ArtistFont" : "",
+								"mMediaInegration_ArtistFontDir" : "",
+								"mMediaInegration_ArtistSize" : 10,
+								"mMediaInegration_ArtistTransparency" : 100,
+								"mMediaInegration_ArtistX" : 50,
+								"mMediaInegration_ArtistY" : 50,
+								"mMediaInegration_Duration" : false,
+								"mMediaInegration_DurationAlignment" : "center",
+								"mMediaInegration_DurationColor" : "1 1 1",
+								"mMediaInegration_DurationColorBlur" : "1 1 1",
+								"mMediaInegration_DurationColorBlurType" : 1,
+								"mMediaInegration_DurationColorType" : 1,
+								"mMediaInegration_DurationFont" : "",
+								"mMediaInegration_DurationFontDir" : "",
+								"mMediaInegration_DurationSize" : 10,
+								"mMediaInegration_DurationTransparency" : 100,
+								"mMediaInegration_DurationX" : 50,
+								"mMediaInegration_DurationY" : 50,
+								"mMediaInegration_Enable" : false,
+								"mMediaInegration_Img" : false,
+								"mMediaInegration_ImgBlur" : false,
+								"mMediaInegration_ImgSize" : 300,
+								"mMediaInegration_ImgTransparency" : 100,
+								"mMediaInegration_ImgX" : 50,
+								"mMediaInegration_ImgY" : 50,
+								"mMediaInegration_Label" : false,
+								"mMediaInegration_LabelAlignment" : "center",
+								"mMediaInegration_LabelColor" : "1 1 1",
+								"mMediaInegration_LabelColorBlur" : "1 1 1",
+								"mMediaInegration_LabelColorBlurType" : 1,
+								"mMediaInegration_LabelColorType" : 1,
+								"mMediaInegration_LabelFont" : "",
+								"mMediaInegration_LabelFontDir" : "",
+								"mMediaInegration_LabelSize" : 10,
+								"mMediaInegration_LabelTransparency" : 100,
+								"mMediaInegration_LabelX" : 50,
+								"mMediaInegration_LabelY" : 50,
+								"mMediaInegration_Line" : false,
+								"mMediaInegration_LineColor" : "1 1 1",
+								"mMediaInegration_LineColorBlur" : "1 1 1",
+								"mMediaInegration_LineColorBlurType" : 1,
+								"mMediaInegration_LineColorLine" : "1 1 1",
+								"mMediaInegration_LineColorLineType" : 1,
+								"mMediaInegration_LineColorType" : 1,
+								"mMediaInegration_LineHeight" : 7,
+								"mMediaInegration_LineRadius" : 10,
+								"mMediaInegration_LineTransparency" : 100,
+								"mMediaInegration_LineWidth" : 10,
+								"mMediaInegration_LineX" : 50,
+								"mMediaInegration_LineY" : 50,
+								"mMediaInegration_Progress" : false,
+								"mMediaInegration_ProgressAlignment" : "center",
+								"mMediaInegration_ProgressColor" : "1 1 1",
+								"mMediaInegration_ProgressColorBlur" : "1 1 1",
+								"mMediaInegration_ProgressColorBlurType" : 1,
+								"mMediaInegration_ProgressColorType" : 1,
+								"mMediaInegration_ProgressFont" : "",
+								"mMediaInegration_ProgressFontDir" : "",
+								"mMediaInegration_ProgressSize" : 10,
+								"mMediaInegration_ProgressTransparency" : 100,
+								"mMediaInegration_ProgressX" : 50,
+								"mMediaInegration_ProgressY" : 50,
+								"monstercat_barPadding" : 5,
+								"monstercat_barWidth" : 10,
+								"monstercat_color" : "0.27058823529411763 0.03529411764705882 0.4980392156862745",
+								"monstercat_double" : true,
+								"monstercat_opacity" : 80,
+								"monstercat_reverse" : false,
+								"monstercat_smoothing" : 10,
+								"monstercat_xPos" : 50,
+								"monstercat_yPos" : 97,
+								"newReactor" : false,
+								"noteAlignment" : "left",
+								"noteColor" : "1 1 1",
+								"noteColorBlur" : "0.2 0.2 0.2",
+								"noteColorBlurType" : 1,
+								"noteColorType" : 1,
+								"noteFont" : "Lato",
+								"noteFontDir" : "",
+								"noteInner" : "Customize your wallpaper",
+								"noteShow" : false,
+								"noteSize" : 16,
+								"noteTransparency" : 80,
+								"noteX" : 41,
+								"noteY" : 44,
+								"particles_color" : "1 1 1",
+								"particles_direction_x" : 0,
+								"particles_direction_y" : 0,
+								"particles_image" : null,
+								"particles_isBounce" : false,
+								"particles_isMove" : true,
+								"particles_isParticles" : false,
+								"particles_isStraight" : false,
+								"particles_linkColor" : "1 1 1",
+								"particles_linkDistance" : 60,
+								"particles_linkEnable" : false,
+								"particles_linkOpacity" : 75,
+								"particles_linkWidth" : 2,
+								"particles_moveOutMode" : 1,
+								"particles_musicRandom" : false,
+								"particles_musicStrengh" : 50,
+								"particles_musicTone" : 1,
+								"particles_number" : 700,
+								"particles_opacity" : 75,
+								"particles_opacityRandom" : true,
+								"particles_shadowBlur" : 0,
+								"particles_shadowColor" : "1 1 1",
+								"particles_shapeType" : 1,
+								"particles_sizeRandom" : true,
+								"particles_sizeValue" : 2,
+								"particles_speed" : 5,
+								"particles_speedRandom" : true,
+								"radius" : 400,
+								"random" : false,
+								"range" : 2,
+								"reactorCode" : "",
+								"reactorLink" : "",
+								"reactorText" : null,
+								"reactorWeb" : false,
+								"rotation" : 0,
+								"schemecolor" : "#151515",
+								"selectvideo" : null,
+								"showCircle" : true,
+								"showDate" : true,
+								"showSemiCircle" : false,
+								"showTime" : true,
+								"style" : 1,
+								"tAlignment" : "center",
+								"tDotSec" : false,
+								"tDotSec2" : false,
+								"tShowSencends" : false,
+								"tSize" : 10,
+								"tStyle" : true,
+								"tX" : 92,
+								"tY" : 15,
+								"testOld" : true,
+								"timeType" : 1,
+								"timetransparency" : 100,
+								"videomodel" : 1,
+								"visual_audio_model" : 4,
+								"wallpapermode" : 1,
+								"wavetransparency" : 80,
+								"weatherApiKeySecondary" : "",
+								"weatherApiText" : null,
+								"weatherColorBlurType" : 1,
+								"weatherColorType" : 1,
+								"weatherFont" : null,
+								"weatherFontDir" : "",
+								"weatherSlowUpdate" : false,
+								"weatherText2" : null,
+								"weatherText3" : null,
+								"weatherX" : 50,
+								"weatherY" : 57,
+								"weather_Alignment" : "center",
+								"weather_ApiKey" : "",
+								"weather_BlurColor" : "1 0.8 0.8",
+								"weather_CityText" : "",
+								"weather_Color" : "1 1 1",
+								"weather_Format" : "",
+								"weather_show" : false,
+								"weather_size" : 10,
+								"weather_timetransparency" : 100,
+								"weather_units" : "m",
+								"wec_brs" : 50,
+								"wec_con" : 50,
+								"wec_e" : false,
+								"wec_hue" : 50,
+								"wec_sa" : 50
+							}
+						}
+					]
+				}
+			}
+		},
+		"version" : 4,
+		"wproperties" : 
+		{
+			"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1271777873/index.html" : 
+			{
+				"Monitor0" : 
+				{
+					"ColorRhythm" : false,
+					"blurColor" : "0.7568627450980392 0.20392156862745098 0.7843137254901961",
+					"color" : "0.3411764705882353 0.10588235294117647 0.47058823529411764",
+					"direction" : 3,
+					"image" : "D:/Documentos/Imagens/asian/wallhaven-v9r2k3_1920x1080.png",
+					"lineWidth" : 5,
+					"radius" : 30,
+					"range" : 2,
+					"rotation" : 1,
+					"showSakura" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2097111446/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"rate" : 200
+				}
+			},
+			"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2184113985/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2412086686/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2459745485/I made a live wallpaper of the Inazuma Castle! - Links Below - Genshin_Impact.mp4" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2583070457/Untitled.mp4" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2583870234/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2603980788/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2693584270/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"otherversions" : false,
+					"xray" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2724471650/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2824734224/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2843592608/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2848812257/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"nsfwversion" : true,
+					"sfwversion" : true,
+					"xrayversion" : false
+				},
+				"Monitor1" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2893078545/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2941550344/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"sfwversion" : true,
+					"xraysize" : 0,
+					"xrayversion" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2944739842/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2949797129/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2963117784/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3023747857/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				},
+				"Monitor1" : 
+				{
+					"arc" : "0.33725490196078434 0.13333333333333333 0.4666666666666667",
+					"cameraparallax" : false,
+					"mtc" : "0.33725490196078434 0.13333333333333333 0.4666666666666667",
+					"music" : 0,
+					"rate" : 50,
+					"volume" : 0,
+					"xs" : 0
+				}
+			},
+			"D:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3055600522/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/1271777873/index.html" : 
+			{
+				"Monitor0" : 
+				{
+					"showSakura" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/1760811052/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/1784318825/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"x_ray_big_small_" : 0,
+					"x_ray_off_or_on_" : 0
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2059087777/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2125310988/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2184113985/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2187017970/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"school_uniform" : "3",
+					"x_ray_type_school_outfit_" : "0"
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2211198469/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 4,
+					"alignmentz" : 96
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2416971371/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2461771713/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2542031313/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"electrospinspeed" : 1,
+					"flowerspinspeed" : 1,
+					"glowamountaudioresponsive" : 0.30000001,
+					"parallaxeffectamount" : 1,
+					"particlessize" : 1,
+					"particlesspeed" : 1,
+					"volume" : 0
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2570196888/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2570824979/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"xray" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2578889298/Chizuru_Mizuhara_NSFW_Patreon.mp4" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2583870234/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"audioprocessing" : false,
+					"volume" : 0
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2595263298/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"nsfwversion1" : true,
+					"sfwversion1" : true,
+					"sfwversion2" : true,
+					"xrayversion" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2625480626/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2657869484/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"another" : "6",
+					"cameraparallax" : false,
+					"xrayonoff" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2691972739/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2691973026/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2693584270/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"otherversions" : false,
+					"xray" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2693617074/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"otherversions" : false,
+					"xray" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2721577681/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2724471650/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignmentposition" : 49,
+					"volume" : 0
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2733268913/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2779397297/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2798002748/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"xray" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2798037080/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"xray" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2798356247/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"xray" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2826498259/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2843592608/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"brightness" : 0.15000001,
+					"scale" : 2.5999999,
+					"size1" : 0.60000002,
+					"transparency" : 0.30000001,
+					"transparency2" : 0.80000001,
+					"transparency8" : 0.80000001,
+					"volume" : 0
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2848812257/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"nsfwversion" : true,
+					"sfwversion" : true,
+					"xrayversion" : false
+				},
+				"Monitor1" : 
+				{
+					"cameraparallax" : false,
+					"sfwversion" : true,
+					"xrayversion" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2857602953/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"clothed" : "1"
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2857704435/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2859072717/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"sfwversion" : true,
+					"sfwversion2" : true,
+					"x_rayversion" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2883280340/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2893078545/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"musicpulse" : true,
+					"soundfrequency" : 5,
+					"soundsensitivity" : 0.75
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2894181960/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2902550140/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"nsfwversion" : true,
+					"sfwversion" : true,
+					"x_rayversion" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2907585412/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2908967172/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"watersound" : 0.07
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2913503038/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignmentposition" : 100,
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2919137307/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"rate" : 102
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2920775847/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2941026160/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2941550344/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"sfwversion" : true,
+					"xrayversion" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2941940837/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2944739842/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"another" : "1",
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2949797129/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2956313814/raiden shogun 2.mp4" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2960765226/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"xray" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2961744134/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"particular" : false,
+					"unsharpmask" : 0,
+					"xray" : 0
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2963117784/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2963538567/raiden_shogun [genshin impact] (sutekimeppouu3).mp4" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 16
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2963652215/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"unsharpmask" : 0
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2968118414/project.json" : 
+			{
+				"Monitor0" : 
+				{
+					"background_effect" : false,
+					"background_type" : 1,
+					"clock_enable" : false,
+					"confetti_enable" : false,
+					"icue_enable" : false,
+					"perspective_enabled" : false,
+					"visual_bar2_enabled" : false,
+					"visual_bar_enabled" : false,
+					"visualizer_enabled" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2969243305/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2975558275/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"otherversions1" : false,
+					"otherversions2" : false,
+					"xray1" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/2976124075/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"xray" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/3023747857/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"are" : false,
+					"cameraparallax" : false,
+					"cm" : false,
+					"em" : false,
+					"music" : 0,
+					"ts" : "0",
+					"wr" : false
+				}
+			},
+			"D:/Programas/Steam/steamapps/workshop/content/431960/3055600522/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1271777873/index.html" : 
+			{
+				"Monitor0" : 
+				{
+					"DateFormat" : 2,
+					"DateSize" : 16,
+					"DateY" : 18,
+					"MuiscVolume" : 30,
+					"PWLineColorMode" : 2,
+					"PWLineDirection" : 1,
+					"PWLineGradientRate" : 10,
+					"PWLineSpacing" : 10,
+					"PWLineTransparency" : 25,
+					"PWLineWidth" : 10,
+					"customdirectory" : "D:/Documentos/Imagens/Animes Photos/Real Girls Asian/Wallpaper Engine Slider",
+					"image" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/choukpop_mobile/custom/ei.want.you_1744939044_3613133041697936651_70277775388.png",
+					"imageswitchtimes" : 1,
+					"selectmusic" : "",
+					"showSakura" : false,
+					"tSize" : 20,
+					"tY" : 13,
+					"videomodel" : 0,
+					"visual_audio_model" : 2
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1271777873_mobile/index.html" : 
+			{
+				"Monitor0" : 
+				{
+					"DateFormat" : 2,
+					"DateSize" : 16,
+					"DateY" : 16,
+					"customdirectory" : "D:/Documentos/Imagens/Animes Photos/Real Girls Asian/Wallpaper Engine Slider",
+					"image" : "D:/Documentos/Imagens/Animes Photos/Real Girls Asian/mobile/wallhaven-rr7o87.jpg",
+					"imagedisplaystlye" : 3,
+					"imageswitchtimes" : 1,
+					"showDate" : false,
+					"showSakura" : false,
+					"showTime" : false,
+					"tSize" : 20,
+					"tY" : 12,
+					"videomodel" : 0,
+					"visual_audio_model" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1473965309/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 100
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1509243786/index.html" : 
+			{
+				"Monitor0" : 
+				{
+					"ColorMode" : 2,
+					"DateX" : 92,
+					"DefaultWallpaper" : 1,
+					"cX" : 847,
+					"clockFont" : "JetBrains Mono",
+					"dateFont" : "JetBrains Mono",
+					"foreground" : "",
+					"foregroundDisplayStlye" : 3,
+					"image" : "D:/Documentos/Imagens/Wallpaper Engine/wp12984123.jpg",
+					"imagedisplaystlye" : 3,
+					"lineWidth" : 4,
+					"particles_isParticles" : false,
+					"radius" : 400,
+					"range" : 2,
+					"tSize" : 20,
+					"tX" : 83,
+					"tY" : 45,
+					"visual_audio_model" : 1
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1589146637/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"size" : 0.1,
+					"variant_2" : true,
+					"variant_3" : true,
+					"variant_4" : true,
+					"x_ray" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1590205156/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 100
+				},
+				"Monitor1" : 
+				{
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1597247864/scene.pkg" : 
+			{
+				"Monitor1" : 
+				{
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1731760875/index.html" : 
+			{
+				"Monitor0" : 
+				{
+					"dayCycle" : "3"
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1778127565/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"x_ray_on_off" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/1963086322/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"clock_color" : "0.49411764705882355 0.20392156862745098 0.592156862745098",
+					"clock_mode" : "3",
+					"clock_size" : 0.60000002,
+					"dxd_waifu_right_" : "3",
+					"god_ray_intensity" : 0,
+					"god_ray_speed" : 0,
+					"god_ray_two_intensity" : 0,
+					"koneko" : "3",
+					"logo" : "3",
+					"ray_threshold" : 0,
+					"toggle_dxd_logo_pulse" : false,
+					"toggle_fog" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2099501344/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"volume" : 0
+				},
+				"Monitor1" : 
+				{
+					"cameraparallax" : false,
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2114364041/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"xray" : 0,
+					"xray_size" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2133929232/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"x_ray_on_off" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2155915381/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"size" : 0.1,
+					"variants" : "3",
+					"x_ray" : false
+				},
+				"Monitor1" : 
+				{
+					"cameraparallax" : false,
+					"size" : 0.1,
+					"variants" : "3",
+					"x_ray" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2164480110/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"x_ray_on_off" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2180174584/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"outfit" : "3",
+					"rate" : 50,
+					"x_ray_size" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2229989955/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"sfwversion1" : true,
+					"sfwversion2" : true,
+					"xrayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2231088993/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"xraysize" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2234081139/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"xraysize" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2242169648/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"sfwversion1" : true,
+					"sfwversion2" : true,
+					"xrayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2252837996/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"sfwversion" : true,
+					"xrayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2290842134/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"xraysize" : 0,
+					"xraytypekdaoutfit" : "0"
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2295984689/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"sfwversion1" : true,
+					"sfwversion2" : true,
+					"xrayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2338094750/[4K] Uncharted 4 - 14.mp4" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2395769267/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2407560154/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 100
+				},
+				"Monitor1" : 
+				{
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2459745485/I made a live wallpaper of the Inazuma Castle! - Links Below - Genshin_Impact.mp4" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2526877082/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"nsfwversion" : true,
+					"sfwversion" : true,
+					"xrayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2570201407/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2583070457/Untitled.mp4" : 
+			{
+				"Monitor1" : 
+				{
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2593498945/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"sfwversion" : true,
+					"xrayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2677008918/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2693584270/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"otherversions" : false,
+					"xray" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2724471650/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2733268913/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2768634693/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"variants" : "5",
+					"xrayfullscreen" : false,
+					"xrayleftpanel" : false,
+					"xrayrightpanel" : false,
+					"xraysize" : 0,
+					"xraysize1" : 0,
+					"xraysize2" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2768634693_2/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"variants" : "3",
+					"xrayfullscreen" : false,
+					"xrayleftpanel" : false,
+					"xrayrightpanel" : false,
+					"xraysize" : 0,
+					"xraysize1" : 0,
+					"xraysize2" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2774801339/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2803686024/scene.pkg" : 
+			{
+				"Monitor1" : 
+				{
+					"depthparallax" : false,
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2807078301/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"versions" : "10",
+					"volume" : 0,
+					"x_rayonoff" : false,
+					"x_raysize" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2818579400/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alternativeimage1" : false,
+					"constellation1" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2820971480/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignmentz" : 0,
+					"cameraparallax" : false,
+					"sunraysammount" : 0.5,
+					"volume" : 0
+				},
+				"Monitor1" : 
+				{
+					"cameraparallax" : false,
+					"hdr" : false,
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2826498259/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2848812257/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"nsfwversion" : true,
+					"sfwversion" : true,
+					"xrayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2849282407/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"otherstyles1" : "3",
+					"usexray" : false,
+					"xrayradius" : 0.1
+				},
+				"Monitor1" : 
+				{
+					"otherstyles1" : "2",
+					"usexray" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2860228152/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"sfwversion" : true,
+					"sfwversion2" : true,
+					"sfwversion3" : true,
+					"xrayversion" : false
+				},
+				"Monitor1" : 
+				{
+					"sfwversion" : true,
+					"sfwversion2" : true,
+					"sfwversion3" : true,
+					"sfwversion4" : true,
+					"xrayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2886510506/Uncharted 4 - Main Menu.mp4" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				},
+				"Monitor1" : 
+				{
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2888527740/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2901513882/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2902406982/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"_110" : "1",
+					"_113" : false,
+					"_27" : false,
+					"blur" : false,
+					"fps" : "1",
+					"newproperty12" : false,
+					"newproperty18" : false,
+					"newproperty35" : false,
+					"newproperty56" : false,
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2909310291/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2926380602/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2927836891/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"clock" : true,
+					"clock24h" : true,
+					"clockdate" : true,
+					"clockday" : true,
+					"count" : 0.81800002,
+					"count1" : 2.155,
+					"flowspeed" : 0.075000003,
+					"lifetime" : 1.999,
+					"opacity" : 0.68000001,
+					"stars" : true,
+					"volume" : 0
+				},
+				"Monitor1" : 
+				{
+					"clock24h" : true,
+					"count1" : 1.941,
+					"stars" : true,
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2929219049/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2940310114/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2940773207/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2941550344/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"sfwversion" : true,
+					"xrayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2942039570/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2942300197/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2943474244/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				},
+				"Monitor1" : 
+				{
+					"cameraparallax" : false,
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2944739842/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2949376286/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2949797129/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2963117784/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2963128144/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2964242992/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2964682829/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2972721770/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2974878948/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2977006353/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"_24h" : true,
+					"audiobar" : true,
+					"clock" : true,
+					"color1" : "0.2823529411764706 0.0392156862745098 0.5411764705882353",
+					"color2" : "0.2235294117647059 0 0.4666666666666667",
+					"date" : true,
+					"onlyday" : true,
+					"opacity1" : 0.89099997,
+					"reflection" : true,
+					"size1" : 20,
+					"spacerain" : true,
+					"volume" : 0,
+					"writtendate" : true
+				},
+				"Monitor1" : 
+				{
+					"lifetime" : 1.682,
+					"speed1" : 0.033
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2981249186/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				},
+				"Monitor1" : 
+				{
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2986163106/index.html" : 
+			{
+				"Monitor1" : 
+				{
+					"ui_customize_theme_enable" : true,
+					"ui_customize_visibility_enable" : true,
+					"ui_font_family" : "JetBrains Mono, monospace",
+					"ui_show_weekday" : true,
+					"ui_theme" : "dracula_official",
+					"ui_use_const" : true
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/2999400093/scene.pkg" : 
+			{
+				"Monitor1" : 
+				{
+					"xray1" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3003173438/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3003717240/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3012694124/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"host" : "CONA",
+					"maintext" : "Raiden"
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3023747857/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"arc" : "0.2823529411764706 0.023529411764705882 0.5607843137254902",
+					"cameraparallax" : false,
+					"mtc" : "0.28627450980392155 0.047058823529411764 0.6509803921568628",
+					"music" : 0,
+					"ts" : "1"
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3025967409/scene.pkg" : 
+			{
+				"Monitor1" : 
+				{
+					"musicvolume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3055600522/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3062463953/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"eyenitro" : true,
+					"vhs" : true
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3067102941/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"eyenitro" : true
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3070377431/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"eyenitro" : true,
+					"vhs" : true
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3071135377/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"colorchangedefault1" : 0.69999999
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3071306883/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"eyenitro" : true
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3106567318/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"eyenitro" : true,
+					"version" : "version2"
+				},
+				"Monitor1" : 
+				{
+					"version" : "version2"
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3109281874/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"version" : "version3"
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3143245641/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"version" : "version2"
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3147499206/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"blur" : false,
+					"color" : "0.5019607843137255 0 0.5019607843137255",
+					"visualizer" : "0"
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3154247655/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"version" : "3dark"
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3154265545/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"version" : "3dark"
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3170725467/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"eyenitro" : true
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3175141540/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3209460888/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3217994334/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"version" : "dark4"
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3218004060/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"version" : "dark2"
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3244630201/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"_3" : false,
+					"_4" : false,
+					"audiocircle" : false,
+					"clock" : false,
+					"clockcolor" : "0.23529411764705882 0.050980392156862744 0.4745098039215686",
+					"clocksize" : 30,
+					"cursorripplelevel" : 0.89999998,
+					"equalizer" : false,
+					"equlizerwidth" : 0,
+					"ripple" : true
+				},
+				"Monitor1" : 
+				{
+					"_4" : false,
+					"audiocircle" : false,
+					"clock" : false,
+					"cursorripplelevel" : 3,
+					"equlizerwidth" : 0,
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3260131670/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3264071350/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3284928979/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"style_right" : "valueN"
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3301771216/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3345575787/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3346656618/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/3371353455/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"style_right" : "valueF"
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/945197416/Untitled.mp4" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/choukpop_mobile/index.html" : 
+			{
+				"Monitor0" : 
+				{
+					"TimeBlurColor" : "0.4745098039215686 0.30980392156862746 0.6078431372549019",
+					"TimeColor" : "0.24313725490196078 0.19215686274509805 0.5019607843137255",
+					"image" : "E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/choukpop_mobile/custom/ei.want.you_1744939044_3613133041697936651_70277775388.png",
+					"imagedisplaystlye" : 3,
+					"particles_color" : "0.8549019607843137 0.5764705882352941 0.984313725490196",
+					"particles_isParticles" : true,
+					"particles_shapeType" : 4,
+					"particles_speed" : 1,
+					"showCircle" : false,
+					"showSakura" : false,
+					"tY" : 40
+				}
+			},
+			"E:/Programas/Steam/steamapps/common/wallpaper_engine/projects/myprojects/choukpop_mobile/scene.json" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/1370430833/Uncharted 4 Menu.mp4" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 100
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/1420853930/Untitled.mp4" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 100
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/1448603687/Uncharted™ 4_ El Desenlace del Ladrón_20180723132101.mp4" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 100
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/1473965309/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 100
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/1582807844/Untitled.mp4" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 100
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/1590205156/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 100
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/1738224014/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"x_ray_on_off" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/1827136142/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"x_ray_on_off" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/1878867803/inedx.html" : 
+			{
+				"Monitor0" : 
+				{
+					"fontfamily" : "JetBrains Mono",
+					"localeid" : "pt-pt"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/1963086322/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"dxd_waifu_right_" : "3",
+					"koneko" : "3",
+					"logo" : "3",
+					"rainbow_mode" : "2"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2056695810/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 49
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2112384823/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"_" : 0,
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2125310988/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2133929232/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"x_ray_on_off" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2177625857/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"x_ray_off_or_on_" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2180174584/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"outfit" : "1",
+					"x_ray_size" : 0,
+					"x_ray_type_bunny_outfits_" : "0"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2231088993/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2262878512/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"clock" : true
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2267083573/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"nsfwversion" : true,
+					"sfwversion" : true,
+					"xrayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2271009863/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"xrayonoff" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2278912560/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"xrayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2290807978/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"sfwversion" : true,
+					"xrayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2338094750/[4K] Uncharted 4 - 14.mp4" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 100
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2347762662/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2406795561/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"xrayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2407560154/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 100
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2449949051/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"volume" : 100
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2455217364/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"background" : "4",
+					"backgroundcharacters" : "1",
+					"cameraparallax" : false,
+					"character" : "4",
+					"dust" : "4",
+					"leaves" : true,
+					"lighting" : "4",
+					"logo" : "3",
+					"parallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2517518192/index.html" : 
+			{
+				"Monitor0" : 
+				{
+					"fnafcamerashuffle" : true
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2541841946/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"nsfwversion" : true,
+					"sfwversion" : true,
+					"xrayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2542875169/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"xrayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2570196888/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"xray" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2588977676/scene.pkg" : 
+			{
+				"Monitor1" : 
+				{
+					"musicvolume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2615964212/scene.pkg" : 
+			{
+				"Monitor1" : 
+				{
+					"musicvolume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2619950536/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2620228915/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"nsfwversion1" : true,
+					"nsfwversion2" : true,
+					"sfwversion" : true,
+					"xrayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2624439117/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"left" : "2",
+					"right" : "2",
+					"shakespeed" : 5
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2625407264/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"nsfwversion" : true,
+					"sfwversion1" : true,
+					"sfwversion2" : true,
+					"xrayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2635228463/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"officalcolorshade" : "1"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2645731324/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 70
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2677871940/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"background2" : "2",
+					"fog" : true
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2699206917/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2719999516/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"enablepurplebackground" : true,
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2720455509/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"xray" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2726119211/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2733268913/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2745391563/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"color" : "0.3058823529411765 0.10980392156862745 0.5529411764705883",
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2755106674/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"usexray" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2768634693/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 4,
+					"cameraparallax" : false,
+					"xrayfullscreen" : false,
+					"xrayleftpanel" : false,
+					"xrayrightpanel" : false,
+					"xraysize" : 0,
+					"xraysize1" : 0,
+					"xraysize2" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2774801339/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2791198856/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"blur" : false,
+					"usexray" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2794389763/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"rightpanel" : "9",
+					"xraysize" : 0,
+					"xraysize1" : 0,
+					"xraysize2" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2797862124/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"xray" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2798139279/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"phototype" : "3",
+					"usexray" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2798145884/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"showclock" : true,
+					"showdate" : true
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2798347739/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"xray" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2803686024/scene.pkg" : 
+			{
+				"Monitor1" : 
+				{
+					"cameraparallax" : false,
+					"depthparallax" : false,
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2805931236/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"xrayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2807078301/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"versions" : "7",
+					"x_rayonoff" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2810366562/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"censorship" : "0",
+					"xraystyle" : "0"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2818579400/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"constellation1" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2820173708/scene.pkg" : 
+			{
+				"Monitor1" : 
+				{
+					"newproperty" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2820971480/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alotofstars" : true,
+					"cameraparallax" : false,
+					"sunraysammount" : 0.5,
+					"trippymode" : true,
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2821843664/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"musicvolume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2824651385/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2826498259/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2826652457/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2843056625/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2846412967/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"otherstyles1" : "4",
+					"usexray" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2847105955/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"sfwversion" : true,
+					"sfwversion2" : true,
+					"xrayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2847853536/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2849282407/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"otherstyles1" : "2",
+					"usexray" : false,
+					"xrayradius" : 0.1
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2857602953/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"mouseparallaxparalelajedelratn" : 0,
+					"nudecheck" : 1,
+					"xraysizeoffon" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2860228152/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"sfwversion4" : true,
+					"xrayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2865401930/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"xrayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2867396152/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"nsfwversion" : true,
+					"sfwversion" : true,
+					"xrayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2886510506/Uncharted 4 - Main Menu.mp4" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 100
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2888527740/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2890444936/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"xray" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2892736420/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"nsfwversion21" : true,
+					"x_rayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2893078545/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"musicpulse" : true
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2901513882/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2905987197/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"outfit" : "1",
+					"xraysize" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2906567995/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"xray" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2907585412/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"sfwversion1" : true
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2920856197/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2927836891/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"audiobar" : true,
+					"clock" : true,
+					"clock24h" : true,
+					"clockdate" : true,
+					"clockday" : true,
+					"flowspeed" : 0.092,
+					"stars" : true
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2928484892/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2929219049/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2935850934/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"xray" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2940310114/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2942039570/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2943964307/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"accesoiresnipplepiercings" : false,
+					"hornybubbles" : false,
+					"hornyloretext" : false,
+					"zoom" : 1
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2947331028/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cycle_timer_right" : 5,
+					"style_right" : "cycle"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2947344549/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"_1" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2949376286/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2952594548/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2959179504/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2960539718/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2963172752/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2964242992/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2964682829/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2964701727/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2972073971/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2972721770/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2973769139/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"animated" : false,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2974878948/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2976124075/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"xray" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2981249186/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"explosionrate" : 0.1
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2986163106/index.html" : 
+			{
+				"Monitor0" : 
+				{
+					"ui_customize_theme_enable" : true,
+					"ui_customize_visibility_enable" : true,
+					"ui_font_family" : "JetBrains Mono, monospace",
+					"ui_show_weekday" : true,
+					"ui_theme" : "dracula_official"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2987313383/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2989445153/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"snow" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2996573468/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"newproperty" : "1",
+					"xray" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/2999400093/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"xray1" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3000045807/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"speed" : 0.30000001
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3000501197/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"style_right" : "valueG"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3003173438/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3003717240/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3018406224/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"xr" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3021700550/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"nsfwversion1" : true,
+					"nsfwversion2" : true,
+					"sfwversion" : true
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3024916966/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"bgm" : 1
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3025967409/scene.pkg" : 
+			{
+				"Monitor1" : 
+				{
+					"musicvolume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3026913214/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3026975946/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3029740569/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"_24hclock" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3056277892/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"sfwversion1" : true,
+					"sfwversion2" : true,
+					"xrayversion" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3071135377/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"colorchangedefault1" : 0.69999999
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3099164683/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"facialexpression" : true
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3106567318/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"version" : "version2"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3110295740/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"version" : "version2"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3118949804/scene.pkg" : 
+			{
+				"Monitor1" : 
+				{
+					"parralax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3119012550/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"version" : "version4"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3126982531/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"xray" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3127063993/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"eyenitro" : true,
+					"vhs" : true,
+					"xray" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3145381812/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"xray" : false,
+					"xraysize" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3146314831/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3154388855/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"distorsionglitch" : false,
+					"scroll" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3156361613/Uncharted 4 - Main Menu.mp4" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 100
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3157646054/project.json" : 
+			{
+				"Monitor0" : 
+				{
+					"blur" : false,
+					"brcontraststrength" : 0.93000001,
+					"newproperty2" : "2",
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3158272339/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"version" : "colored3"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3163023986/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3176115922/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"watchcolor" : "0.3058823529411765 0 1"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3177515425/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"xrayonoff" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3195170838/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"rotationanimationspeed" : 3,
+					"sizeanimationspeed" : 2
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3196768796/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"eyenitro" : true
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3198013162/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"darkmode" : "ON"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3205228021/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3209460888/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3210172404/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3213698703/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"eyenitro" : true,
+					"version" : "dark2",
+					"vhs" : true
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3217994334/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"version" : "dark4"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3218004060/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"version" : "dark3"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3223077541/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"intro" : false,
+					"musicplayer" : true,
+					"starcolor2" : "0.5019607843137255 0 0.5019607843137255",
+					"starcolor3" : "0 0 1",
+					"starcolor4" : "0 0.5019607843137255 0",
+					"starcolor5" : "1 0 0"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3223086001/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3235414248/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"sfwversion" : true
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3237319244/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"version" : "dark4"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3237360457/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3238716075/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"version" : "dark4"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3244630201/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3244859687/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"version" : "dark4"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3253744215/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"version" : "dark5"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3255309816/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"version" : "dark2"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3255366576/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"version" : "dark4"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3258569137/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"animation1speed" : 2,
+					"animation2speed" : 2.5,
+					"animation3speed" : 2
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3259703982/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"camerashake" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3260090813/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"version" : "dark3"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3260188838/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"version" : "dark3"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3261353124/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"version" : "dark3"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3261848244/scene.pkg" : 
+			{
+				"Monitor1" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3272152360/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3273301835/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"newproperty2" : false,
+					"newproperty4" : "1 0.6431372549019608 0.19215686274509805"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3275780520/index.html" : 
+			{
+				"Monitor0" : 
+				{
+					"responsiveness" : 10
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3288383262/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3293205163/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"version" : "colored6"
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3296215706/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3298258703/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false,
+					"heartsfollowingmouse" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3303617853/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"auname" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3325369867/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3339780537/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3372730461/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignment" : 1,
+					"cameraparallax" : false,
+					"parallax" : 0
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3378389815/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3389799914/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"cameraparallax" : false
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/3416439692/scene.pkg" : 
+			{
+				"Monitor0" : 
+				{
+					"alignmentz" : 86
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/917754447/Uncharted 4 A Thief’s End.mp4" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 100
+				}
+			},
+			"E:/Programas/Steam/steamapps/workshop/content/431960/945197416/Untitled.mp4" : 
+			{
+				"Monitor0" : 
+				{
+					"volume" : 100
+				}
+			}
+		}
+	}
+}
