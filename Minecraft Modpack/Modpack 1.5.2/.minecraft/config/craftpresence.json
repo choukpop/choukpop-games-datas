@@ -134,7 +134,8 @@
       }
     },
     "dynamicIcons": {
-      "default": "https://via.placeholder.com/256.png"
+      "default": "https://via.placeholder.com/256.png",
+      "ChouRaiden1337": "https://mc-heads.net/avatar/null"
     },
     "dynamicVariables": {
       "default": "Example Text",
